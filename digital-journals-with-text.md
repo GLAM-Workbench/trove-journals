@@ -1,8 +1,8 @@
 # Digitised journals from Trove with OCRd text
 
-For harvesting details see [this notebook](Download-text-for-all-digitised-journals.ipynb).
+For harvesting details see [this notebook](Download-text-for-all-digitised-journals.ipynb), or the [digitised journals section](https://glam-workbench.github.io/trove-journals/) of the GLAM Workbench.
 
-This harvest was completed on 25 August 2019.
+This harvest was completed on 27 August 2019.
 
 Number of journals harvested: 720
 
@@ -2519,43 +2519,13 @@ Number of issues with OCRd text: 33,035
 
 ### Laws, etc
 
-7 of 7 issues have OCRd text available for download.
+0 of 23 issues have OCRd text available for download.
 
-* [Details on Trove](https://trove.nla.gov.au/work/18588210)
-* [Browse issues on Trove](http://nla.gov.au/nla.obj-53997640)
-* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-53997640&files=nla.obj-53997640-issues.csv)
+* [Details on Trove](https://trove.nla.gov.au/work/10278751)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-55312521)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55312521&files=nla.obj-55312521-issues.csv)
 
-* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-53997640)
-
-### Laws, etc
-
-4 of 4 issues have OCRd text available for download.
-
-* [Details on Trove](https://trove.nla.gov.au/work/5705502)
-* [Browse issues on Trove](http://nla.gov.au/nla.obj-55568008)
-* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55568008&files=nla.obj-55568008-issues.csv)
-
-* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55568008)
-
-### Laws, etc
-
-17 of 18 issues have OCRd text available for download.
-
-* [Details on Trove](https://trove.nla.gov.au/work/19257118)
-* [Browse issues on Trove](http://nla.gov.au/nla.obj-55208664)
-* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55208664&files=nla.obj-55208664-issues.csv)
-
-* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55208664)
-
-### Laws, etc
-
-2 of 2 issues have OCRd text available for download.
-
-* [Details on Trove](https://trove.nla.gov.au/work/9383231)
-* [Browse issues on Trove](http://nla.gov.au/nla.obj-54933471)
-* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-54933471&files=nla.obj-54933471-issues.csv)
-
-* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-54933471)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55312521)
 
 ### Laws, etc
 
@@ -2569,13 +2539,13 @@ Number of issues with OCRd text: 33,035
 
 ### Laws, etc
 
-0 of 23 issues have OCRd text available for download.
+2 of 2 issues have OCRd text available for download.
 
-* [Details on Trove](https://trove.nla.gov.au/work/10278751)
-* [Browse issues on Trove](http://nla.gov.au/nla.obj-55312521)
-* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55312521&files=nla.obj-55312521-issues.csv)
+* [Details on Trove](https://trove.nla.gov.au/work/9383231)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-54933471)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-54933471&files=nla.obj-54933471-issues.csv)
 
-* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55312521)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-54933471)
 
 ### Laws, etc
 
@@ -2586,6 +2556,36 @@ Number of issues with OCRd text: 33,035
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-25561358&files=nla.obj-25561358-issues.csv)
 
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-25561358)
+
+### Laws, etc
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5705502)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-55568008)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55568008&files=nla.obj-55568008-issues.csv)
+
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55568008)
+
+### Laws, etc
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18588210)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-53997640)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-53997640&files=nla.obj-53997640-issues.csv)
+
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-53997640)
+
+### Laws, etc
+
+17 of 18 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19257118)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-55208664)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55208664&files=nla.obj-55208664-issues.csv)
+
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55208664)
 
 ### Laws, etc. (Acts of Parliament of Victoria)
 
