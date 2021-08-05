@@ -4,9 +4,13 @@ For harvesting details see [this notebook](Download-text-for-all-digitised-journ
 
 This harvest was completed on 5 August 2021.
 
-Number of journals harvested: 1163
+Number of journals harvested: 1,163
 
 Number of issues with OCRd text: 51,928
+
+----
+
+
 ### "Coo-ee!" (Bishops Knoll Hospital (Bristol, England))
 **Bishops Knoll Hospital (Bristol, England), 1916-1917**  
 Periodical | Periodical/Journal, magazine, other
@@ -987,17 +991,6 @@ Periodical | Periodical/Journal, magazine, other | Government publication
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-development-assistance-annual-review-au-nla.obj-2644576308)
 
 ### Australian Research Grants Scheme : report on grants approved for ... / Australian Research Grants Committee
-**Queen Elizabeth II Fellowships and Australian Research Grants Committee, 1983-1987**  
-Government publication | Periodical | Periodical/Journal, magazine, other
-
-3 of 3 issues have OCRd text available for download.
-
-* [Details on Trove](https://trove.nla.gov.au/work/18804508)
-* [Browse issues on Trove](https://nla.gov.au/nla.obj-1364989594)
-* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-research-grants-scheme-report-on-grants-nla.obj-1364989594&files=nla.obj-1364989594-issues.csv)
-* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-research-grants-scheme-report-on-grants-nla.obj-1364989594)
-
-### Australian Research Grants Scheme : report on grants approved for ... / Australian Research Grants Committee
 **Australian Research Grants Committee, 1979-1982**  
 Government publication | Periodical | Periodical/Journal, magazine, other
 
@@ -1018,6 +1011,17 @@ Government publication | Periodical | Periodical/Journal, magazine, other
 * [Browse issues on Trove](https://nla.gov.au/nla.obj-1276605125)
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-research-grants-scheme-report-on-grants-nla.obj-1276605125&files=nla.obj-1276605125-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-research-grants-scheme-report-on-grants-nla.obj-1276605125)
+
+### Australian Research Grants Scheme : report on grants approved for ... / Australian Research Grants Committee
+**Queen Elizabeth II Fellowships and Australian Research Grants Committee, 1983-1987**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18804508)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1364989594)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-research-grants-scheme-report-on-grants-nla.obj-1364989594&files=nla.obj-1364989594-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-research-grants-scheme-report-on-grants-nla.obj-1364989594)
 
 ### Australian Research Grants Scheme, Marine Sciences and Technologies Grants Scheme, National Research Fellowships Scheme, Queen Elizabeth II Fellowships : list of grants and fellowships awarded
 **Australian Research Grants Committee (1985-1988), 1988-1989**  
@@ -1892,17 +1896,6 @@ Government publication | Periodical | Periodical/Journal, magazine, other
 **Australia. Department of Housing and Construction, 1970-1986**  
 Government publication | Periodical | Periodical/Journal, magazine, other
 
-2 of 2 issues have OCRd text available for download.
-
-* [Details on Trove](https://trove.nla.gov.au/work/11389638)
-* [Browse issues on Trove](https://nla.gov.au/nla.obj-838118791)
-* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcivil-works-program-1983-nla.obj-838118791&files=nla.obj-838118791-issues.csv)
-* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcivil-works-program-1983-nla.obj-838118791)
-
-### Civil works program (1983)
-**Australia. Department of Housing and Construction, 1970-1986**  
-Government publication | Periodical | Periodical/Journal, magazine, other
-
 4 of 4 issues have OCRd text available for download.
 
 * [Details on Trove](https://trove.nla.gov.au/work/11389638)
@@ -1920,6 +1913,17 @@ Government publication | Periodical | Periodical/Journal, magazine, other
 * [Browse issues on Trove](https://nla.gov.au/nla.obj-838115388)
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcivil-works-program-1983-nla.obj-838115388&files=nla.obj-838115388-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcivil-works-program-1983-nla.obj-838115388)
+
+### Civil works program (1983)
+**Australia. Department of Housing and Construction, 1970-1986**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11389638)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-838118791)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcivil-works-program-1983-nla.obj-838118791&files=nla.obj-838118791-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcivil-works-program-1983-nla.obj-838118791)
 
 ### Civil works program / circulated by ... Minister for Construction
 **Australia. Department of Construction, 1977-1979**  
@@ -4034,15 +4038,15 @@ Periodical | Periodical/Journal, magazine, other
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fladder-victoria-park-w-a-nla.obj-2164526263)
 
 ### Laws, etc
-**Northern Territory, 1900-1977**  
+**Western Australia, 1841-2021**  
 Periodical | Periodical/Journal, magazine, other | Government publication
 
-7 of 7 issues have OCRd text available for download.
+4 of 4 issues have OCRd text available for download.
 
-* [Details on Trove](https://trove.nla.gov.au/work/18588210)
-* [Browse issues on Trove](http://nla.gov.au/nla.obj-53997640)
-* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-53997640&files=nla.obj-53997640-issues.csv)
-* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-53997640)
+* [Details on Trove](https://trove.nla.gov.au/work/5705502)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-55568008)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55568008&files=nla.obj-55568008-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55568008)
 
 ### Laws, etc
 **Western Australia, 1801-2021**  
@@ -4056,26 +4060,26 @@ Periodical | Periodical/Journal, magazine, other | Government publication
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55208664)
 
 ### Laws, etc
-**Western Australia, 1841-2021**  
+**Northern Territory, 1961-2021**  
 Periodical | Periodical/Journal, magazine, other | Government publication
 
-4 of 4 issues have OCRd text available for download.
+2 of 2 issues have OCRd text available for download.
 
-* [Details on Trove](https://trove.nla.gov.au/work/5705502)
-* [Browse issues on Trove](http://nla.gov.au/nla.obj-55568008)
-* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55568008&files=nla.obj-55568008-issues.csv)
-* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55568008)
+* [Details on Trove](https://trove.nla.gov.au/work/9383231)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-54933471)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-54933471&files=nla.obj-54933471-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-54933471)
 
 ### Laws, etc
-**Papua, 1906-1945**  
-Periodical | Periodical/Journal, magazine, other
+**Northern Territory, 1900-1977**  
+Periodical | Periodical/Journal, magazine, other | Government publication
 
-1 of 1 issues have OCRd text available for download.
+7 of 7 issues have OCRd text available for download.
 
-* [Details on Trove](https://trove.nla.gov.au/work/22395760)
-* [Browse issues on Trove](http://nla.gov.au/nla.obj-25561358)
-* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-25561358&files=nla.obj-25561358-issues.csv)
-* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-25561358)
+* [Details on Trove](https://trove.nla.gov.au/work/18588210)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-53997640)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-53997640&files=nla.obj-53997640-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-53997640)
 
 ### Laws, etc
 **Queensland, 1800-2021**  
@@ -4089,17 +4093,6 @@ Periodical | Periodical/Journal, magazine, other | Government publication
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-54468076)
 
 ### Laws, etc
-**Northern Territory, 1961-2021**  
-Periodical | Periodical/Journal, magazine, other | Government publication
-
-2 of 2 issues have OCRd text available for download.
-
-* [Details on Trove](https://trove.nla.gov.au/work/9383231)
-* [Browse issues on Trove](http://nla.gov.au/nla.obj-54933471)
-* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-54933471&files=nla.obj-54933471-issues.csv)
-* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-54933471)
-
-### Laws, etc
 **South Australia, 1800-2021**  
 Periodical | Periodical/Journal, magazine, other | Government publication
 
@@ -4109,6 +4102,17 @@ Periodical | Periodical/Journal, magazine, other | Government publication
 * [Browse issues on Trove](http://nla.gov.au/nla.obj-53890906)
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-53890906&files=nla.obj-53890906-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-53890906)
+
+### Laws, etc
+**Papua, 1906-1945**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22395760)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-25561358)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-25561358&files=nla.obj-25561358-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-25561358)
 
 ### Laws, etc. (Acts of Parliament of Victoria)
 **Victoria, 1800-1900**  
