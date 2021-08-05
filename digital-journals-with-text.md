@@ -2,12 +2,14 @@
 
 For harvesting details see [this notebook](Download-text-for-all-digitised-journals.ipynb), or the [digitised journals section](https://glam-workbench.github.io/trove-journals/) of the GLAM Workbench.
 
-This harvest was completed on 13 July 2020.
+This harvest was completed on 5 August 2021.
 
-Number of journals harvested: 397
+Number of journals harvested: 1163
 
-Number of issues with OCRd text: 26,234
+Number of issues with OCRd text: 51,928
 ### "Coo-ee!" (Bishops Knoll Hospital (Bristol, England))
+**Bishops Knoll Hospital (Bristol, England), 1916-1917**  
+Periodical | Periodical/Journal, magazine, other
 
 13 of 13 issues have OCRd text available for download.
 
@@ -16,7 +18,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcoo-ee-bishops-knoll-hospital-bristol-england-nla.obj-8423556&files=nla.obj-8423556-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcoo-ee-bishops-knoll-hospital-bristol-england-nla.obj-8423556)
 
+### ... Review / Remuneration Tribunal
+**Australia. Remuneration Tribunal, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19924419)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1179844258)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freview-remuneration-tribunal-nla.obj-1179844258&files=nla.obj-1179844258-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freview-remuneration-tribunal-nla.obj-1179844258)
+
 ### 14th Company magazine
+**Australia. Army. Company, 14th, 1910**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -26,6 +41,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2F14th-company-magazine-nla.obj-15956697)
 
 ### 24th Battalion journal
+**Australia. Army. Battalion, 24th, 1918**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -35,6 +52,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2F24th-battalion-journal-nla.obj-24207812)
 
 ### A Careta
+**1900**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -43,7 +62,64 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fa-careta-nla.obj-320275568&files=nla.obj-320275568-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fa-careta-nla.obj-320275568)
 
+### A report on the Ombudsman's activities in monitoring controlled operations conducted by the National Crime Authority and Australian Federal Police / Commonwealth Ombudsman
+**Commonwealth Ombudsman (Australia), 2002-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+11 of 11 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10430349)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-666266177)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fa-report-on-the-ombudsman-s-activities-in-monitori-nla.obj-666266177&files=nla.obj-666266177-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fa-report-on-the-ombudsman-s-activities-in-monitori-nla.obj-666266177)
+
+### A review of activities / Bureau of Customs, Department of Business and Consumer affairs
+**Australia. Bureau of Customs, 1976**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/7731751)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1426173653)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fa-review-of-activities-bureau-of-customs-departmen-nla.obj-1426173653&files=nla.obj-1426173653-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fa-review-of-activities-bureau-of-customs-departmen-nla.obj-1426173653)
+
+### A-B-C of Queensland statistics
+**Queensland. Government Statistician's Office, 1900-1925**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19162134)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-335573281)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fa-b-c-of-queensland-statistics-nla.obj-335573281&files=nla.obj-335573281-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fa-b-c-of-queensland-statistics-nla.obj-335573281)
+
+### A.H. Massina & Co's weather almanac and general guide and handbook for Victoria for ... with calendar and map of railway systems
+**A. H. Massina & Co, 1864-1894**  
+Periodical | Periodical/Journal, magazine, other
+
+21 of 21 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19479824)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2905264494)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fa-h-massina-co-s-weather-almanac-and-general-guide-nla.obj-2905264494&files=nla.obj-2905264494-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fa-h-massina-co-s-weather-almanac-and-general-guide-nla.obj-2905264494)
+
+### AACRDE report / Australian Advisory Committee on Research and Development in Education
+**Australia. Advisory Committee on Research and Development in Education, 1973-1976**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6205336)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1284551020)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faacrde-report-australian-advisory-committee-on-res-nla.obj-1284551020&files=nla.obj-1284551020-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faacrde-report-australian-advisory-committee-on-res-nla.obj-1284551020)
+
 ### ABC weekly / Australian Broadcasting Commission
+**Australian Broadcasting Commission, 1900-1959**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 1033 of 1033 issues have OCRd text available for download.
 
@@ -52,7 +128,97 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fabc-weekly-australian-broadcasting-commission-nla.obj-890736639&files=nla.obj-890736639-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fabc-weekly-australian-broadcasting-commission-nla.obj-890736639)
 
+### ACCC telecommunications reports
+**Australian Competition and Consumer Commission, 2001-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+11 of 11 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/32100642)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-742731000)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faccc-telecommunications-reports-nla.obj-742731000&files=nla.obj-742731000-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faccc-telecommunications-reports-nla.obj-742731000)
+
+### ADAB annual review ... : development co-operation : Australia's program of support for social and economic development in the Third World
+**Australian Development Assistance Bureau, 1977-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16937296)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1277143964)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadab-annual-review-development-co-operation-austra-nla.obj-1277143964&files=nla.obj-1277143964-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadab-annual-review-development-co-operation-austra-nla.obj-1277143964)
+
+### ADAB annual review ... : development co-operation : Australia's program of support for social and economic development in the Third World
+**Australian Development Assistance Bureau, 1977-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16937296)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1135783840)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadab-annual-review-development-co-operation-austra-nla.obj-1135783840&files=nla.obj-1135783840-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadab-annual-review-development-co-operation-austra-nla.obj-1135783840)
+
+### AIRAC
+**Australian Ionising Radiation Advisory Council, 1974-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13473062)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1540374715)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fairac-nla.obj-1540374715&files=nla.obj-1540374715-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fairac-nla.obj-1540374715)
+
+### AIRAC report / Australian Ionising Radiation Advisory Council
+**Australian Ionising Radiation Advisory Council, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13327902)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1727286254)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fairac-report-australian-ionising-radiation-advisor-nla.obj-1727286254&files=nla.obj-1727286254-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fairac-report-australian-ionising-radiation-advisor-nla.obj-1727286254)
+
+### ANARE reports
+**Australian National Antarctic Research Expeditions, 1952-1964**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18530965)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-254636277)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fanare-reports-nla.obj-254636277&files=nla.obj-254636277-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fanare-reports-nla.obj-254636277)
+
+### ANZHES journal
+**Australian and New Zealand History of Education Society, 1972-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16344960)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2836256121)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fanzhes-journal-nla.obj-2836256121&files=nla.obj-2836256121-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fanzhes-journal-nla.obj-2836256121)
+
+### ANZHES journal
+**Australian and New Zealand History of Education Society, 1972-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+16 of 16 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16344960)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2836256024)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fanzhes-journal-nla.obj-2836256024&files=nla.obj-2836256024-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fanzhes-journal-nla.obj-2836256024)
+
 ### Abstract of the ... report of the London Missionary Society for the year ending ..
+**London Missionary Society, 1800**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -62,6 +228,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fabstract-of-the-report-of-the-london-missionary-so-nla.obj-288413164)
 
 ### Action front : journal of the 2/2 Field Regiment
+**Australia. Army. Field Regiment, 2/2nd, 1940-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -70,7 +238,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faction-front-journal-of-the-2-2-field-regiment-nla.obj-321169907&files=nla.obj-321169907-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faction-front-journal-of-the-2-2-field-regiment-nla.obj-321169907)
 
+### Activities and developments ... / Department of Industry and Commerce
+**Australia. Department of Industry and Commerce, 1976-1978**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21248119)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1316015048)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Factivities-and-developments-department-of-industry-nla.obj-1316015048&files=nla.obj-1316015048-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Factivities-and-developments-department-of-industry-nla.obj-1316015048)
+
+### Additional estimates of expenditure for additions, new works and buildings for the year ending 30th June ..
+**Australia. Parliament. House of Representatives, 1902**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/234181913)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-767864267)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadditional-estimates-of-expenditure-for-additions--nla.obj-767864267&files=nla.obj-767864267-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadditional-estimates-of-expenditure-for-additions--nla.obj-767864267)
+
+### Additional estimates of expenditure for the year ending 30th June..
+**Australia. Parliament. House of Representatives, 1902**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+9 of 9 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/234181915)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-767864694)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadditional-estimates-of-expenditure-for-the-year-e-nla.obj-767864694&files=nla.obj-767864694-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadditional-estimates-of-expenditure-for-the-year-e-nla.obj-767864694)
+
 ### Adjustment assistance to sugar cane growers : annual report / Department of Primary Industries and Energy
+**Australia. Department of Primary Industries and Energy, 1987-1988**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -79,7 +282,53 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadjustment-assistance-to-sugar-cane-growers-annual-nla.obj-1605221024&files=nla.obj-1605221024-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadjustment-assistance-to-sugar-cane-growers-annual-nla.obj-1605221024)
 
+### Administration of Papua New Guinea
+**Australia. Department of External Territories, 1970-1975**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12098629)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1297995152)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadministration-of-papua-new-guinea-nla.obj-1297995152&files=nla.obj-1297995152-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadministration-of-papua-new-guinea-nla.obj-1297995152)
+
+### Administration of the Territory of Nauru : Report to the General Assembly of the United Nations
+**United Nations. General Assembly, 1964-1968**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12636489)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2237554394)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadministration-of-the-territory-of-nauru-report-to-nla.obj-2237554394&files=nla.obj-2237554394-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadministration-of-the-territory-of-nauru-report-to-nla.obj-2237554394)
+
+### Administration of the Territory of New Guinea
+**Australia. Department of External Territories, 1968-1970**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12098587)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2765327678)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadministration-of-the-territory-of-new-guinea-nla.obj-2765327678&files=nla.obj-2765327678-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadministration-of-the-territory-of-new-guinea-nla.obj-2765327678)
+
+### Administration order / Administration of Nauru
+**Nauru, 1900-1926**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/35298296)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2536014489)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadministration-order-administration-of-nauru-nla.obj-2536014489&files=nla.obj-2536014489-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadministration-order-administration-of-nauru-nla.obj-2536014489)
+
 ### Advance Australia (Melbourne, Vic.)
+**Australian Natives' Association, 1897-1920**  
+Periodical | Periodical/Journal, magazine, other
 
 273 of 273 issues have OCRd text available for download.
 
@@ -88,7 +337,86 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadvance-australia-melbourne-vic-nla.obj-804196452&files=nla.obj-804196452-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadvance-australia-melbourne-vic-nla.obj-804196452)
 
+### Advance to the Minister for Finance : statement of heads of expenditure and the amounts charged thereto pursuant to section 36A of the Audit act 1901 : for the year ended 30 June ... ..
+**Australia. Department of Finance, 1900-1997**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+20 of 20 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/8218579)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-886242539)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadvance-to-the-minister-for-finance-statement-of-h-nla.obj-886242539&files=nla.obj-886242539-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadvance-to-the-minister-for-finance-statement-of-h-nla.obj-886242539)
+
+### Advance to the Treasurer : statement of heads of expenditure and the amounts charged thereto pursuant to section 36A of the Audit act 1901-1973
+**Australia. Treasury, 1900**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+13 of 13 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18877669)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1287662891)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadvance-to-the-treasurer-statement-of-heads-of-exp-nla.obj-1287662891&files=nla.obj-1287662891-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadvance-to-the-treasurer-statement-of-heads-of-exp-nla.obj-1287662891)
+
+### Advisory report / House of Representatives, Standing Committee on Economics
+**Australia. Parliament. House of Representatives. Standing Committee on Economics, 2000-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+11 of 11 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/165364407)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-666546376)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadvisory-report-house-of-representatives-standing--nla.obj-666546376&files=nla.obj-666546376-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fadvisory-report-house-of-representatives-standing--nla.obj-666546376)
+
+### Aged Care Act 1997
+**Australia, 1997-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+14 of 14 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6578421)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-742230851)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faged-care-act-1997-nla.obj-742230851&files=nla.obj-742230851-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faged-care-act-1997-nla.obj-742230851)
+
+### Agency resourcing ... : (including Appropriation (Parliamentary Departments) Bill ... , Appropriation Bill No. 1 ... , Appropriation Bill No. 2 ... / circulated by ... Minister for Finance and Administration of the Commonwealth of Australia for the information of honourable members on the occasion of the budget
+**Australia, 1999-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+14 of 14 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6890467)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-852535865)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fagency-resourcing-including-appropriation-parliame-nla.obj-852535865&files=nla.obj-852535865-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fagency-resourcing-including-appropriation-parliame-nla.obj-852535865)
+
+### Aggregate balance-sheet of the Commonwealth Bank of Australia
+**Commonwealth Bank of Australia (1912-1958), 1912-1927**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+16 of 16 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18829833)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2343744172)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faggregate-balance-sheet-of-the-commonwealth-bank-o-nla.obj-2343744172&files=nla.obj-2343744172-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faggregate-balance-sheet-of-the-commonwealth-bank-o-nla.obj-2343744172)
+
+### Agricultural Tractors Bounty Act. Parliament of the Commonwealth of Australia
+**Australia. Parliament, 1966-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+14 of 14 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6761279)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-829442432)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fagricultural-tractors-bounty-act-parliament-of-the-nla.obj-829442432&files=nla.obj-829442432-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fagricultural-tractors-bounty-act-parliament-of-the-nla.obj-829442432)
+
 ### Airline activities of Ansett Transport Industries Limited / Ansett Transport Industries Limited
+**Ansett Transport Industries, 1900-1973**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -98,6 +426,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fairline-activities-of-ansett-transport-industries--nla.obj-1036685302)
 
 ### All abaht it / ...th Field Ambulance
+**McCubbin, Louis, 1890-1952, 1916-1919**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -106,7 +436,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fall-abaht-it-th-field-ambulance-nla.obj-28117694&files=nla.obj-28117694-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fall-abaht-it-th-field-ambulance-nla.obj-28117694)
 
+### Allerhand Lustiges aus dem Tokio Gesang-Verein / von Chisai Scotto
+**Scotto, Chisai, 1881-1900**  
+Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/182387928)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2825781237)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fallerhand-lustiges-aus-dem-tokio-gesang-verein-von-nla.obj-2825781237&files=nla.obj-2825781237-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fallerhand-lustiges-aus-dem-tokio-gesang-verein-von-nla.obj-2825781237)
+
+### Amtsblatt fur das Schutzgebiet Deutsch-Neuguinea
+**1909-1914**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+141 of 143 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18568817)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-48330386)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Famtsblatt-fur-das-schutzgebiet-deutsch-neuguinea-nla.obj-48330386&files=nla.obj-48330386-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Famtsblatt-fur-das-schutzgebiet-deutsch-neuguinea-nla.obj-48330386)
+
+### Anglo-Australian Observatory : report of the Anglo-Australian Telescope Board
+**Anglo-Australian Telescope Board, 1989-1996**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/17759383)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-947311132)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fanglo-australian-observatory-report-of-the-anglo-a-nla.obj-947311132&files=nla.obj-947311132-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fanglo-australian-observatory-report-of-the-anglo-a-nla.obj-947311132)
+
 ### Anglo-Australian Telescope Project : report of the Joint Policy Committee / Anglo-Australian Telescope Board
+**Anglo-Australian Telescope Board. Joint Policy Committee, 1971-1974**  
+Periodical | Periodical/Journal, magazine, other
 
 5 of 5 issues have OCRd text available for download.
 
@@ -116,6 +481,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fanglo-australian-telescope-project-report-of-the-j-nla.obj-1594715443)
 
 ### Angry Penguins broadsheet
+**Harris, Max, 1921-1995, 1946**  
+Periodical | Periodical/Journal, magazine, other
 
 10 of 10 issues have OCRd text available for download.
 
@@ -125,6 +492,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fangry-penguins-broadsheet-nla.obj-320790312)
 
 ### Anniversary address by the president : list of members, and rules and regulations of the Agricultural Society of New South Wales, instituted on the 5th of July, 1822
+**Agricultural Society of New South Wales (1822), 1823-1827**  
+Periodical | Periodical/Journal, magazine, other
 
 4 of 4 issues have OCRd text available for download.
 
@@ -134,6 +503,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fanniversary-address-by-the-president-list-of-membe-nla.obj-512588480)
 
 ### Anniversary air pageant : official programme / Royal Aero Club of N.S.W
+**Royal Aero Club of New South Wales, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -143,6 +514,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fanniversary-air-pageant-official-programme-royal-a-nla.obj-359567420)
 
 ### Annual financial report : to the minister of transport relating to the operation of air services in pursuance of Clause 11 of the 1972 airlines agreement / Ansett Transport Industries Limited
+**Ansett Transport Industries, 1974-1986**  
+Periodical | Periodical/Journal, magazine, other
 
 8 of 8 issues have OCRd text available for download.
 
@@ -152,6 +525,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fannual-financial-report-to-the-minister-of-transpo-nla.obj-744555880)
 
 ### Annual general meeting / African War Veterans' Association of Queensland
+**African War Veterans' Association of Queensland, 1900**  
+Periodical | Periodical/Journal, magazine, other
 
 14 of 15 issues have OCRd text available for download.
 
@@ -160,7 +535,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fannual-general-meeting-african-war-veterans-associ-nla.obj-286054824&files=nla.obj-286054824-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fannual-general-meeting-african-war-veterans-associ-nla.obj-286054824)
 
+### Annual national report / Australian National Training Authority
+**Australian National Training Authority, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+30 of 30 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21615471)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-743640557)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fannual-national-report-australian-national-trainin-nla.obj-743640557&files=nla.obj-743640557-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fannual-national-report-australian-national-trainin-nla.obj-743640557)
+
+### Annual performance report / Australian National Training Authority
+**Australian National Training Authority, 1994-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6318136)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1363775670)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fannual-performance-report-australian-national-trai-nla.obj-1363775670&files=nla.obj-1363775670-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fannual-performance-report-australian-national-trai-nla.obj-1363775670)
+
+### Annual review & financial statements ... / Copyright Agency
+**Copyright Agency Ltd, 2011-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/166381313)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-666447503)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fannual-review-financial-statements-copyright-agenc-nla.obj-666447503&files=nla.obj-666447503-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fannual-review-financial-statements-copyright-agenc-nla.obj-666447503)
+
 ### Anthony Horderns' catalogue : Royal Agricultural Society's Show, Easter ... ..
+**Anthony Hordern & Sons, 1900**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -170,6 +580,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fanthony-horderns-catalogue-royal-agricultural-soci-nla.obj-2363250352)
 
 ### Anzac bulletin : issued to members of the Australian Imperial Forces in Great Britain and France by authority of the High Commissioner for Australia
+**Australia. High Commission (Great Britain), 1916-1919**  
+Periodical | Periodical/Journal, magazine, other
 
 205 of 205 issues have OCRd text available for download.
 
@@ -178,7 +590,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fanzac-bulletin-issued-to-members-of-the-australian-nla.obj-1037567&files=nla.obj-1037567-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fanzac-bulletin-issued-to-members-of-the-australian-nla.obj-1037567)
 
+### Architecture (Sydney, N.S.W.)
+**Royal Australian Institute of Architects, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+24 of 24 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5548256)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2967139558)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Farchitecture-sydney-n-s-w-nla.obj-2967139558&files=nla.obj-2967139558-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Farchitecture-sydney-n-s-w-nla.obj-2967139558)
+
 ### Arden's Sydney magazine of politics and general literature / edited by George Arden
+**Arden, George, 1843**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 2 of 2 issues have OCRd text available for download.
 
@@ -188,6 +613,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Farden-s-sydney-magazine-of-politics-and-general-li-nla.obj-1389641038)
 
 ### Art and architecture (Sydney, N.S.W.)
+**Institute of Architects of New South Wales, 1905-1912**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 51 of 51 issues have OCRd text available for download.
 
@@ -197,6 +624,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fart-and-architecture-sydney-n-s-w-nla.obj-815027576)
 
 ### Art in Australia
+**Smith, Sydney Ure, 1887-1949, 1916-1942**  
+Periodical | Periodical/Journal, magazine, other
 
 102 of 102 issues have OCRd text available for download.
 
@@ -205,7 +634,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fart-in-australia-nla.obj-325167134&files=nla.obj-325167134-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fart-in-australia-nla.obj-325167134)
 
+### Art in Australia
+**Smith, Sydney Ure, 1887-1949, 1916-1942**  
+Periodical | Periodical/Journal, magazine, other
+
+102 of 102 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18109818)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-325167134)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fart-in-australia-nla.obj-325167134&files=nla.obj-325167134-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fart-in-australia-nla.obj-325167134)
+
 ### Australasian anthropological journal
+**Royal Anthropological Society of Australasia, 1896-1897**  
+Periodical | Periodical/Journal, magazine, other | Microform | Periodical/Newspaper
 
 6 of 6 issues have OCRd text available for download.
 
@@ -215,6 +657,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralasian-anthropological-journal-nla.obj-551268338)
 
 ### Australasian circular
+**1908**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -224,15 +668,41 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralasian-circular-nla.obj-68925498)
 
 ### Australasian photo-review
+**Burke, Keast, 1896-1974, 1894-1956**  
+Periodical | Periodical/Journal, magazine, other
 
-662 of 669 issues have OCRd text available for download.
+666 of 669 issues have OCRd text available for download.
 
 * [Details on Trove](https://trove.nla.gov.au/work/18866072)
 * [Browse issues on Trove](http://nla.gov.au/nla.obj-392290161)
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralasian-photo-review-nla.obj-392290161&files=nla.obj-392290161-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralasian-photo-review-nla.obj-392290161)
 
+### Australasian pocket almanack : for the year of Our Lord ... ..
+**Howe, Robert, 1795-1829, 1822-1826**  
+Periodical | Periodical/Journal, magazine, other
+
+4 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18161877)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2967431735)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralasian-pocket-almanack-for-the-year-of-our-l-nla.obj-2967431735&files=nla.obj-2967431735-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralasian-pocket-almanack-for-the-year-of-our-l-nla.obj-2967431735)
+
+### Australia (Sydney, N.S.W. : 1907 : Online)
+**1907**  
+Periodical | Periodical/Journal, magazine, other
+
+13 of 13 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238042365)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-768329137)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-sydney-n-s-w-1907-online-nla.obj-768329137&files=nla.obj-768329137-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-sydney-n-s-w-1907-online-nla.obj-768329137)
+
 ### Australia (Sydney, N.S.W. : 1907)
+**1907**  
+Periodical | Periodical/Journal, magazine, other
 
 13 of 13 issues have OCRd text available for download.
 
@@ -241,7 +711,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-sydney-n-s-w-1907-nla.obj-768329137&files=nla.obj-768329137-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-sydney-n-s-w-1907-nla.obj-768329137)
 
+### Australia and the Asian Development Bank ... : annual report to Parliament by ... , Treasurer
+**Australia. Treasury, 1991-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+11 of 11 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/23793222)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-954249877)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-and-the-asian-development-bank-annual-re-nla.obj-954249877&files=nla.obj-954249877-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-and-the-asian-development-bank-annual-re-nla.obj-954249877)
+
+### Australia and the IMF : annual report to the Parliament under the International Monetary Agreements Act 1947
+**Australia. Treasury, 1994-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+9 of 9 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/31803296)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1337592930)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-and-the-imf-annual-report-to-the-parliam-nla.obj-1337592930&files=nla.obj-1337592930-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-and-the-imf-annual-report-to-the-parliam-nla.obj-1337592930)
+
+### Australia and the World Bank ... : annual report to Parliament under the International Bank for Reconstruction and Development (General Capital Increase) Act 1989 / by ... Treasurer
+**Australia. Treasury, 1989-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+13 of 13 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5987865)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-965263512)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-and-the-world-bank-annual-report-to-parl-nla.obj-965263512&files=nla.obj-965263512-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-and-the-world-bank-annual-report-to-parl-nla.obj-965263512)
+
 ### Australia and the bookfellow
+**1907**  
+Periodical | Periodical/Journal, magazine, other
 
 4 of 4 issues have OCRd text available for download.
 
@@ -250,7 +755,141 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-and-the-bookfellow-nla.obj-768289925&files=nla.obj-768289925-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-and-the-bookfellow-nla.obj-768289925)
 
+### Australia and the bookfellow (Online)
+**1907**  
+Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238042370)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-768289925)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-and-the-bookfellow-online-nla.obj-768289925&files=nla.obj-768289925-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-and-the-bookfellow-online-nla.obj-768289925)
+
+### Australia and the international financial institutions : annual report to the Parliament ... by ..., Treasurer
+**Costello, Peter, 1957-, 2003-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11202920)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-743643288)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-and-the-international-financial-institut-nla.obj-743643288&files=nla.obj-743643288-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-and-the-international-financial-institut-nla.obj-743643288)
+
+### Australia's external aid
+**Australia, 1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11364972)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1289348688)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-external-aid-nla.obj-1289348688&files=nla.obj-1289348688-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-external-aid-nla.obj-1289348688)
+
+### Australia's health : the ... biennial report of the Australian Institute of Health
+**Australian Institute of Health and Welfare, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Archived website
+
+13 of 13 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9692822)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-742223482)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-health-the-biennial-report-of-the-aust-nla.obj-742223482&files=nla.obj-742223482-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-health-the-biennial-report-of-the-aust-nla.obj-742223482)
+
+### Australia's official development assistance to developing countries / Circulated by ... Minister for Foreign Affairs
+**Australia, 1977-1979**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11494860)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2125851948)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-official-development-assistance-to-dev-nla.obj-2125851948&files=nla.obj-2125851948-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-official-development-assistance-to-dev-nla.obj-2125851948)
+
+### Australia's overseas aid program (1995)
+**Australia, 1987-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9503827)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1603816356)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-overseas-aid-program-1995-nla.obj-1603816356&files=nla.obj-1603816356-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-overseas-aid-program-1995-nla.obj-1603816356)
+
+### Australia's overseas aid program (1995)
+**Australia, 1987-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9503827)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-961984931)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-overseas-aid-program-1995-nla.obj-961984931&files=nla.obj-961984931-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-overseas-aid-program-1995-nla.obj-961984931)
+
+### Australia's overseas development assistance / Circulated by ... Minister for Foreign Affairs
+**Australia, 1976**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11392744)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1289516007)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-overseas-development-assistance-circul-nla.obj-1289516007&files=nla.obj-1289516007-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-overseas-development-assistance-circul-nla.obj-1289516007)
+
+### Australia's overseas development assistance program / circulated by The Honourable ... Minister for Foreign Affairs
+**Australia, 1980-1987**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21564285)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1295797868)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-overseas-development-assistance-progra-nla.obj-1295797868&files=nla.obj-1295797868-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-overseas-development-assistance-progra-nla.obj-1295797868)
+
+### Australia's part in the Colombo plan : progress report to ... ..
+**Australia. Parliament, 1950-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5546377)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2345795999)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-part-in-the-colombo-plan-progress-repo-nla.obj-2345795999&files=nla.obj-2345795999-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-part-in-the-colombo-plan-progress-repo-nla.obj-2345795999)
+
+### Australia's population trends and prospects / Department of Immigration and Ethnic Affairs
+**Australia. Bureau of Immigration Research, 1984-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6230237)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1660140740)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-population-trends-and-prospects-depart-nla.obj-1660140740&files=nla.obj-1660140740-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-population-trends-and-prospects-depart-nla.obj-1660140740)
+
+### Australia's welfare (Print)
+**Australian Institute of Health and Welfare, 1993-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11434795)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-742216184)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-welfare-print-nla.obj-742216184&files=nla.obj-742216184-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralia-s-welfare-print-nla.obj-742216184)
+
 ### Australian Aborigines advocate : a monthly record of work amongst the dark people of Australia / the organ of the Australian Aborigines Mission
+**Australian Aborigines Mission, 1908-1929**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 246 of 246 issues have OCRd text available for download.
 
@@ -260,6 +899,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-aborigines-advocate-a-monthly-record-of-nla.obj-573721295)
 
 ### Australian Academy of Art ... exhibition ... catalogue
+**Australian Academy of Art. Exhibition, 1938-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -268,7 +909,174 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-academy-of-art-exhibition-catalogue-nla.obj-321167803&files=nla.obj-321167803-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-academy-of-art-exhibition-catalogue-nla.obj-321167803)
 
+### Australian Bureau of Animal Health : [report]
+**Australian Bureau of Animal Health, 1978-1982**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26981294)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1905775559)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-bureau-of-animal-health-report-nla.obj-1905775559&files=nla.obj-1905775559-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-bureau-of-animal-health-report-nla.obj-1905775559)
+
+### Australian Capital Territory budget / circulated by ... Minister for the Arts, Sport, the Environment, Tourism and Territories
+**Australia. Department of the Arts, Sport, the Environment, Tourism and Territories, 1988-1989**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13347536)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1905734468)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-capital-territory-budget-circulated-by--nla.obj-1905734468&files=nla.obj-1905734468-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-capital-territory-budget-circulated-by--nla.obj-1905734468)
+
+### Australian Capital Territory statement of receipts and expenditure for the year ended 30 June ... : section 10 of the Seat of Government (Administration) Act 1930
+**Australia. Department of Territories and Local Government, 1983-1984**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/34717199)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1571043841)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-capital-territory-statement-of-receipts-nla.obj-1571043841&files=nla.obj-1571043841-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-capital-territory-statement-of-receipts-nla.obj-1571043841)
+
+### Australian Capital Territory statement of receipts and expenditure for the year ended 30 June ... : section 10 of the Seat of Government (Administration) Act 1930-1963
+**Australia. Department of the Capital Territory, 1973-1982**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26923900)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-836833913)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-capital-territory-statement-of-receipts-nla.obj-836833913&files=nla.obj-836833913-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-capital-territory-statement-of-receipts-nla.obj-836833913)
+
+### Australian Capital Territory statement of receipts and expenditure in accordance with section 10 of the Seat of Government (Administration) Act 1930-1935 for the year ended 30th June ..
+**Australia. Department of the Interior, 1900-1972**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/34717162)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-836827755)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-capital-territory-statement-of-receipts-nla.obj-836827755&files=nla.obj-836827755-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-capital-territory-statement-of-receipts-nla.obj-836827755)
+
+### Australian Corps news sheet
+**Australia. Army. Australian Corps, 1918-1919**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+14 of 14 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/31666638)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-17987863)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-corps-news-sheet-nla.obj-17987863&files=nla.obj-17987863-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-corps-news-sheet-nla.obj-17987863)
+
+### Australian Development Assistance annual review / Australian Development Assistance Bureau, Dept. of Foreign Affairs
+**Australian Development Assistance Bureau, 1978-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16360315)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2644576308)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-development-assistance-annual-review-au-nla.obj-2644576308&files=nla.obj-2644576308-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-development-assistance-annual-review-au-nla.obj-2644576308)
+
+### Australian Research Grants Scheme : report on grants approved for ... / Australian Research Grants Committee
+**Queen Elizabeth II Fellowships and Australian Research Grants Committee, 1983-1987**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18804508)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1364989594)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-research-grants-scheme-report-on-grants-nla.obj-1364989594&files=nla.obj-1364989594-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-research-grants-scheme-report-on-grants-nla.obj-1364989594)
+
+### Australian Research Grants Scheme : report on grants approved for ... / Australian Research Grants Committee
+**Australian Research Grants Committee, 1979-1982**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21494251)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-751702295)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-research-grants-scheme-report-on-grants-nla.obj-751702295&files=nla.obj-751702295-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-research-grants-scheme-report-on-grants-nla.obj-751702295)
+
+### Australian Research Grants Scheme : report on grants approved for ... / Australian Research Grants Committee
+**Queen Elizabeth II Fellowships and Australian Research Grants Committee, 1983-1987**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18804508)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1276605125)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-research-grants-scheme-report-on-grants-nla.obj-1276605125&files=nla.obj-1276605125-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-research-grants-scheme-report-on-grants-nla.obj-1276605125)
+
+### Australian Research Grants Scheme, Marine Sciences and Technologies Grants Scheme, National Research Fellowships Scheme, Queen Elizabeth II Fellowships : list of grants and fellowships awarded
+**Australian Research Grants Committee (1985-1988), 1988-1989**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/17382760)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1571509340)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-research-grants-scheme-marine-sciences--nla.obj-1571509340&files=nla.obj-1571509340-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-research-grants-scheme-marine-sciences--nla.obj-1571509340)
+
+### Australian Senate practice
+**Odgers, J. R. (James Rowland), 1914-1985, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22057389)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1603735694)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-senate-practice-nla.obj-1603735694&files=nla.obj-1603735694-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-senate-practice-nla.obj-1603735694)
+
+### Australian almanac (Sydney, Australia)
+**Sherriff, John L, 1863**  
+Periodical | Periodical/Journal, magazine, other
+
+14 of 14 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12413635)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2887066532)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-almanac-sydney-australia-nla.obj-2887066532&files=nla.obj-2887066532-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-almanac-sydney-australia-nla.obj-2887066532)
+
+### Australian almanac and repository of useful knowledge
+**1850**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18163164)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2886699492)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-almanac-and-repository-of-useful-knowle-nla.obj-2886699492&files=nla.obj-2886699492-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-almanac-and-repository-of-useful-knowle-nla.obj-2886699492)
+
+### Australian almanack : for the year of Our Lord.....
+**Howe, Robert, 1795-1829, 1828-1833**  
+Periodical | Periodical/Journal, magazine, other
+
+4 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18161848)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2967140327)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-almanack-for-the-year-of-our-lord-nla.obj-2967140327&files=nla.obj-2967140327-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-almanack-for-the-year-of-our-lord-nla.obj-2967140327)
+
 ### Australian art : a monthly magazine & journal
+**Collingridge, George, 1847-1931, 1888**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -277,7 +1085,75 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-art-a-monthly-magazine-journal-nla.obj-597211753&files=nla.obj-597211753-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-art-a-monthly-magazine-journal-nla.obj-597211753)
 
+### Australian customs : a review of activities
+**Australia. Department of Police and Customs, 1975**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/27588837)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1273349059)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-customs-a-review-of-activities-nla.obj-1273349059&files=nla.obj-1273349059-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-customs-a-review-of-activities-nla.obj-1273349059)
+
+### Australian economy
+**Australia. Treasury, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18204941)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1907271649)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-economy-nla.obj-1907271649&files=nla.obj-1907271649-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-economy-nla.obj-1907271649)
+
+### Australian fisheries
+**Australia. Fisheries Division, 1969-1995**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+319 of 319 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11377030)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-669358358)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-fisheries-nla.obj-669358358&files=nla.obj-669358358-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-fisheries-nla.obj-669358358)
+
+### Australian fisheries newsletter
+**Australia. Fisheries Branch, 1965-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+49 of 49 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18435054)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-669357561)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-fisheries-newsletter-nla.obj-669357561&files=nla.obj-669357561-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-fisheries-newsletter-nla.obj-669357561)
+
+### Australian foreign affairs record
+**Australia. Department of Foreign Affairs, 1973-1988**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+204 of 204 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11359965)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-850515166)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-foreign-affairs-record-nla.obj-850515166&files=nla.obj-850515166-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-foreign-affairs-record-nla.obj-850515166)
+
+### Australian home beautiful (Melbourne, Vic.)
+**Recorded Books, Inc. RBdigital, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+248 of 312 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22019919)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2930203932)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-home-beautiful-melbourne-vic-nla.obj-2930203932&files=nla.obj-2930203932-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-home-beautiful-melbourne-vic-nla.obj-2930203932)
+
 ### Australian literary journal (Online)
+**1849**  
+Periodical | Periodical/Journal, magazine, other
 
 5 of 5 issues have OCRd text available for download.
 
@@ -286,7 +1162,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-literary-journal-online-nla.obj-767554994&files=nla.obj-767554994-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-literary-journal-online-nla.obj-767554994)
 
+### Australian magazine (Sydney, N.S.W. : 1838 : Online)
+**1838**  
+Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238034966)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-752101760)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-magazine-sydney-n-s-w-1838-online-nla.obj-752101760&files=nla.obj-752101760-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-magazine-sydney-n-s-w-1838-online-nla.obj-752101760)
+
 ### Australian magazine (Sydney, N.S.W. : 1838)
+**1838**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -295,7 +1184,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-magazine-sydney-n-s-w-1838-nla.obj-752101760&files=nla.obj-752101760-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-magazine-sydney-n-s-w-1838-nla.obj-752101760)
 
+### Australian magazine (Sydney, N.S.W. : 1899 : Online)
+**1899**  
+Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238008662)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-636091247)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-magazine-sydney-n-s-w-1899-online-nla.obj-636091247&files=nla.obj-636091247-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-magazine-sydney-n-s-w-1899-online-nla.obj-636091247)
+
 ### Australian magazine (Sydney, N.S.W. : 1899)
+**1899**  
+Periodical | Periodical/Journal, magazine, other
 
 6 of 6 issues have OCRd text available for download.
 
@@ -305,6 +1207,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-magazine-sydney-n-s-w-1899-nla.obj-636091247)
 
 ### Australian medical journal (Sydney, N.S.W : 1846 : Online)
+**Brooks, George, 1846-1847**  
+Periodical | Periodical/Journal, magazine, other | Microform | Periodical/Newspaper
 
 14 of 14 issues have OCRd text available for download.
 
@@ -314,6 +1218,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-medical-journal-sydney-n-s-w-1846-onlin-nla.obj-732251946)
 
 ### Australian penny journal (Online)
+**1848**  
+Periodical | Periodical/Journal, magazine, other
 
 10 of 10 issues have OCRd text available for download.
 
@@ -322,7 +1228,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-penny-journal-online-nla.obj-767560014&files=nla.obj-767560014-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-penny-journal-online-nla.obj-767560014)
 
+### Australian transport / Department of Transport
+**Australia. Department of Transport, 1974-1981**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11378528)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1296463969)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-transport-department-of-transport-nla.obj-1296463969&files=nla.obj-1296463969-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Faustralian-transport-department-of-transport-nla.obj-1296463969)
+
+### Automatic Data Processing Equipment Bounty Act - Return
+**1977-1987**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/236426640)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1323813191)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fautomatic-data-processing-equipment-bounty-act-ret-nla.obj-1323813191&files=nla.obj-1323813191-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fautomatic-data-processing-equipment-bounty-act-ret-nla.obj-1323813191)
+
+### Baker's miniature almanac
+**Baker, W. (William), active 1835-1846, 1846**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19209659)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2886697665)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbaker-s-miniature-almanac-nla.obj-2886697665&files=nla.obj-2886697665-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbaker-s-miniature-almanac-nla.obj-2886697665)
+
 ### Bamaga High School magazine..
+**Bamaga State High School, 1973-1974**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -332,6 +1273,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbamaga-high-school-magazine-nla.obj-526661760)
 
 ### Bamaga State High School
+**1975-1998**  
+Periodical | Periodical/Journal, magazine, other
 
 22 of 22 issues have OCRd text available for download.
 
@@ -341,6 +1284,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbamaga-state-high-school-nla.obj-1740320424)
 
 ### Barjai : a meeting place for youth
+**1943-1946**  
+Periodical | Periodical/Journal, magazine, other
 
 7 of 7 issues have OCRd text available for download.
 
@@ -349,7 +1294,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbarjai-a-meeting-place-for-youth-nla.obj-319042505&files=nla.obj-319042505-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbarjai-a-meeting-place-for-youth-nla.obj-319042505)
 
+### Barrak : the Camel Corps review
+**Australia. Army. Imperial Camel Corps, 1917-1918**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/34627770)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-15609485)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbarrak-the-camel-corps-review-nla.obj-15609485&files=nla.obj-15609485-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbarrak-the-camel-corps-review-nla.obj-15609485)
+
 ### Beacon (Coffs Harbour, N.S.W.)
+**Coffs Harbour High School, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 59 of 59 issues have OCRd text available for download.
 
@@ -358,7 +1316,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbeacon-coffs-harbour-n-s-w-nla.obj-861973622&files=nla.obj-861973622-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbeacon-coffs-harbour-n-s-w-nla.obj-861973622)
 
+### Bed Sheeting Bounty Act 1977. Parliament of the Commonwealth of Australia
+**Australia. Parliament, 1977-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6760919)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-829442588)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbed-sheeting-bounty-act-1977-parliament-of-the-com-nla.obj-829442588&files=nla.obj-829442588-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbed-sheeting-bounty-act-1977-parliament-of-the-com-nla.obj-829442588)
+
 ### Birth (Melbourne, Vic.)
+**Australian Institute of the Arts & Literature, 1900-1916**  
+Periodical | Periodical/Journal, magazine, other
 
 72 of 72 issues have OCRd text available for download.
 
@@ -367,7 +1338,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbirth-melbourne-vic-nla.obj-1871577338&files=nla.obj-1871577338-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbirth-melbourne-vic-nla.obj-1871577338)
 
+### Blackwood magazine (Blackwood, S.A.)
+**Blackwood, Coromandel and Belair Club. Literary Society, 1914**  
+Periodical | Periodical/Journal, magazine, other | Microform
+
+13 of 13 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5531614)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2942966613)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fblackwood-magazine-blackwood-s-a-nla.obj-2942966613&files=nla.obj-2942966613-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fblackwood-magazine-blackwood-s-a-nla.obj-2942966613)
+
 ### Blue & white : being the annual record of St. Patrick's College, Wellington, N.Z. for the year ending ... ..
+**St Patrick's College (Wellington, N.Z.), 1897-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -376,7 +1360,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fblue-white-being-the-annual-record-of-st-patrick-s-nla.obj-28557840&files=nla.obj-28557840-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fblue-white-being-the-annual-record-of-st-patrick-s-nla.obj-28557840)
 
+### Book Bounty Act, return
+**Australia. Parliament, 1970-1981**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11367903)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-837294603)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbook-bounty-act-return-nla.obj-837294603&files=nla.obj-837294603-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbook-bounty-act-return-nla.obj-837294603)
+
+### Bookfellow (Sydney, N.S.W. : 1899 : Online)
+**1899**  
+Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238004103)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-636005630)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbookfellow-sydney-n-s-w-1899-online-nla.obj-636005630&files=nla.obj-636005630-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbookfellow-sydney-n-s-w-1899-online-nla.obj-636005630)
+
 ### Bookfellow (Sydney, N.S.W. : 1899)
+**1899**  
+Periodical | Periodical/Journal, magazine, other
 
 5 of 5 issues have OCRd text available for download.
 
@@ -386,6 +1394,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbookfellow-sydney-n-s-w-1899-nla.obj-636005630)
 
 ### Bookfellow (Sydney, N.S.W. : 1907)
+**Stephens, A. G. (Alfred George), 1865-1933, 1899-1924**  
+Periodical | Periodical/Journal, magazine, other
 
 18 of 18 issues have OCRd text available for download.
 
@@ -394,7 +1404,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbookfellow-sydney-n-s-w-1907-nla.obj-768260759&files=nla.obj-768260759-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbookfellow-sydney-n-s-w-1907-nla.obj-768260759)
 
+### Bookfellow (Sydney, N.S.W. : 1911 : Online)
+**1911-1925**  
+Periodical | Periodical/Journal, magazine, other
+
+93 of 93 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238051629)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-768936943)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbookfellow-sydney-n-s-w-1911-online-nla.obj-768936943&files=nla.obj-768936943-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbookfellow-sydney-n-s-w-1911-online-nla.obj-768936943)
+
 ### Bookfellow (Sydney, N.S.W. : 1911)
+**1911-1925**  
+Periodical | Periodical/Journal, magazine, other
 
 93 of 93 issues have OCRd text available for download.
 
@@ -403,7 +1426,75 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbookfellow-sydney-n-s-w-1911-nla.obj-768936943&files=nla.obj-768936943-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbookfellow-sydney-n-s-w-1911-nla.obj-768936943)
 
+### Bounties Act : Return relating to payments during financial year ... ..
+**Australia. Parliament, 1913-1919**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238889603)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2566681399)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbounties-act-return-relating-to-payments-during-fi-nla.obj-2566681399&files=nla.obj-2566681399-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbounties-act-return-relating-to-payments-during-fi-nla.obj-2566681399)
+
+### Bounty (Injection Moulding Equipment) Act - Return
+**1980-1990**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/236426641)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1323815519)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbounty-injection-moulding-equipment-act-return-nla.obj-1323815519&files=nla.obj-1323815519-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbounty-injection-moulding-equipment-act-return-nla.obj-1323815519)
+
+### Bounty (Non-adjustable Wrenches) Act - Return -  Period - 1 July 1981 to 31 December 1981
+**1900**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/236985014)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1593944893)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbounty-non-adjustable-wrenches-act-return-period-1-nla.obj-1593944893&files=nla.obj-1593944893-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbounty-non-adjustable-wrenches-act-return-period-1-nla.obj-1593944893)
+
+### Bounty (Paper) Act. Parliament of the Commonwealth of Australia
+**Australia. Parliament, 1980-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6761447)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1412103027)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbounty-paper-act-parliament-of-the-commonwealth-of-nla.obj-1412103027&files=nla.obj-1412103027-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbounty-paper-act-parliament-of-the-commonwealth-of-nla.obj-1412103027)
+
+### Bounty (Polyester-Cotton Yarn) Act 1978. Parliament of the Commonwealth of Australia
+**Australia. Parliament, 1979-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6761487)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-829442958)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbounty-polyester-cotton-yarn-act-1978-parliament-o-nla.obj-829442958&files=nla.obj-829442958-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbounty-polyester-cotton-yarn-act-1978-parliament-o-nla.obj-829442958)
+
+### Bounty (Rotary Cultivators) Act. Parliament of the Commonwealth of Australia
+**Australia. Parliament, 1980-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6761397)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1413985498)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbounty-rotary-cultivators-act-parliament-of-the-co-nla.obj-1413985498&files=nla.obj-1413985498-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbounty-rotary-cultivators-act-parliament-of-the-co-nla.obj-1413985498)
+
 ### Boyle & Scott's Australian cricketers' guide
+**1880-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -413,6 +1504,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fboyle-scott-s-australian-cricketers-guide-nla.obj-648037227)
 
 ### Brennessel : hinter Stacheldraht
+**1941-1942**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -421,7 +1514,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbrennessel-hinter-stacheldraht-nla.obj-2656505900&files=nla.obj-2656505900-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbrennessel-hinter-stacheldraht-nla.obj-2656505900)
 
+### Bristol's illustrated almanac for ... : prepared expressly for Australia & guaranteed correct
+**1860**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/25316255)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2922686378)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbristol-s-illustrated-almanac-for-prepared-express-nla.obj-2922686378&files=nla.obj-2922686378-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbristol-s-illustrated-almanac-for-prepared-express-nla.obj-2922686378)
+
 ### British Empire gazette
+**1864**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -430,7 +1536,64 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbritish-empire-gazette-nla.obj-24401329&files=nla.obj-24401329-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbritish-empire-gazette-nla.obj-24401329)
 
+### British New Guinea : report for the year ... / by Her Majesty's Special Commissioner for the Protected Territory
+**Great Britain. Special Commissioner for British New Guinea, 1800-1888**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/8843592)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-82594572)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbritish-new-guinea-report-for-the-year-by-her-maje-nla.obj-82594572&files=nla.obj-82594572-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbritish-new-guinea-report-for-the-year-by-her-maje-nla.obj-82594572)
+
+### Budget measures
+**Australia, 1997-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+16 of 16 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6890509)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-965684155)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbudget-measures-nla.obj-965684155&files=nla.obj-965684155-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbudget-measures-nla.obj-965684155)
+
+### Budget paper (Canberra, A.C.T.)
+**Australia. Treasury, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+86 of 115 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13423606)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-670538902)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbudget-paper-canberra-a-c-t-nla.obj-670538902&files=nla.obj-670538902-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbudget-paper-canberra-a-c-t-nla.obj-670538902)
+
+### Budget statements / circulated by ... Treasurer of the Commonwealth of Australia, and ... Minister for Finance for the information of honourable members on the occasion of the budget
+**Australia, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+16 of 16 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10471702)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1180532934)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbudget-statements-circulated-by-treasurer-of-the-c-nla.obj-1180532934&files=nla.obj-1180532934-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbudget-statements-circulated-by-treasurer-of-the-c-nla.obj-1180532934)
+
+### Budget strategy and outlook
+**Australia, 1990-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+16 of 16 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6890452)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-937441416)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbudget-strategy-and-outlook-nla.obj-937441416&files=nla.obj-937441416-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbudget-strategy-and-outlook-nla.obj-937441416)
+
 ### Building (Sydney, N.S.W. : 1907)
+**Master Builders' Federation of Australia, 1907-1942**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 429 of 429 issues have OCRd text available for download.
 
@@ -440,6 +1603,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbuilding-sydney-n-s-w-1907-nla.obj-79483170)
 
 ### Building and engineering
+**Master Builders' Federation of Australia, 1942-1952**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 113 of 113 issues have OCRd text available for download.
 
@@ -449,6 +1614,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbuilding-and-engineering-nla.obj-319042287)
 
 ### Building, lighting and engineering
+**Master Builders' Federation of Australia, 1952-1968**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 34 of 34 issues have OCRd text available for download.
 
@@ -457,7 +1624,97 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbuilding-lighting-and-engineering-nla.obj-319042425&files=nla.obj-319042425-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbuilding-lighting-and-engineering-nla.obj-319042425)
 
+### Bulletin (Council for Scientific and Industrial Research (Australia))
+**Council for Scientific and Industrial Research (Australia), 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21610391)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-648199067)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbulletin-council-for-scientific-and-industrial-res-nla.obj-648199067&files=nla.obj-648199067-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbulletin-council-for-scientific-and-industrial-res-nla.obj-648199067)
+
+### Bulletin (Sydney, N.S.W. : 1880)
+**1880-2021**  
+Periodical | Periodical/Journal, magazine, other | Microform
+
+5418 of 5418 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/181758222)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-68375465)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbulletin-sydney-n-s-w-1880-nla.obj-68375465&files=nla.obj-68375465-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbulletin-sydney-n-s-w-1880-nla.obj-68375465)
+
+### Bush fire bulletin (1978)
+**Bush Fire Council of New South Wales, 1952-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+110 of 110 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6484620)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-284283986)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbush-fire-bulletin-1978-nla.obj-284283986&files=nla.obj-284283986-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbush-fire-bulletin-1978-nla.obj-284283986)
+
+### Bush fire bulletin (1978)
+**Bush Fire Council of New South Wales, 1952-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+88 of 88 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6484620)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-284265362)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbush-fire-bulletin-1978-nla.obj-284265362&files=nla.obj-284265362-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbush-fire-bulletin-1978-nla.obj-284265362)
+
+### Business of the Senate (1987)
+**Australia. Parliament. Senate, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+25 of 25 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6466623)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-742295733)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbusiness-of-the-senate-1987-nla.obj-742295733&files=nla.obj-742295733-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbusiness-of-the-senate-1987-nla.obj-742295733)
+
+### Business of the Senate (1987)
+**Australia. Parliament. Senate, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6466623)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1598368654)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbusiness-of-the-senate-1987-nla.obj-1598368654&files=nla.obj-1598368654-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbusiness-of-the-senate-1987-nla.obj-1598368654)
+
+### Business of the Senate and its committees / the Senate
+**Australia. Parliament. Senate, 1981-1987**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6466619)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1905587144)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbusiness-of-the-senate-and-its-committees-the-sena-nla.obj-1905587144&files=nla.obj-1905587144-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbusiness-of-the-senate-and-its-committees-the-sena-nla.obj-1905587144)
+
+### Business of the Senate and its committees / the Senate
+**Australia. Parliament. Senate, 1981-1987**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6466619)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1098062131)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbusiness-of-the-senate-and-its-committees-the-sena-nla.obj-1098062131&files=nla.obj-1098062131-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbusiness-of-the-senate-and-its-committees-the-sena-nla.obj-1098062131)
+
 ### Buzzer (Sydney, N.S.W.)
+**Allies' Day Committee, 1910-1915**  
+Periodical | Periodical/Journal, magazine, other
 
 4 of 4 issues have OCRd text available for download.
 
@@ -466,7 +1723,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbuzzer-sydney-n-s-w-nla.obj-359561557&files=nla.obj-359561557-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbuzzer-sydney-n-s-w-nla.obj-359561557)
 
+### Bystander (Manila, Philippines)
+**1931-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/7275353)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2963384633)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbystander-manila-philippines-nla.obj-2963384633&files=nla.obj-2963384633-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fbystander-manila-philippines-nla.obj-2963384633)
+
 ### Calendar (1902)
+**St. Andrew's College (University of Sydney), 1800-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -476,6 +1746,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcalendar-1902-nla.obj-621173788)
 
 ### Camouflage : a paper printed out at sea to while an hour for you and me
+**1916**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -485,6 +1757,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcamouflage-a-paper-printed-out-at-sea-to-while-an--nla.obj-4231786)
 
 ### Camp ink
+**Poll, Christabel, 1900-1977**  
+Periodical | Periodical/Journal, magazine, other
 
 39 of 39 issues have OCRd text available for download.
 
@@ -493,7 +1767,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcamp-ink-nla.obj-757144341&files=nla.obj-757144341-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcamp-ink-nla.obj-757144341)
 
+### Carrier performance / Australian Telecommunications Authority
+**AUSTEL, 1997**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5774946)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2136905102)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcarrier-performance-australian-telecommunications--nla.obj-2136905102&files=nla.obj-2136905102-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcarrier-performance-australian-telecommunications--nla.obj-2136905102)
+
+### Catalogue of books added to the Parliamentary Library during the quarter ended ..
+**New South Wales. Parliamentary Library, 1800-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13180059)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-435406249)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcatalogue-of-books-added-to-the-parliamentary-libr-nla.obj-435406249&files=nla.obj-435406249-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcatalogue-of-books-added-to-the-parliamentary-libr-nla.obj-435406249)
+
 ### Catalogue of ethnological specimens, European and Eastern arms and armour, prehistoric and other curiosities : on sale by W.D. Webster, Oxford House Bicester, Oxon
+**Webster, W. D, 1895-1896**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -503,6 +1801,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcatalogue-of-ethnological-specimens-european-and-e-nla.obj-324580054)
 
 ### Catalogue of fruit and ornamental trees,  roses, vegetable and flower seeds and everything for the garden, orachard and farm / Goulburn Seed & Nursery Co
+**Goulburn Seed & Nursery Co, 1900**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -511,7 +1811,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcatalogue-of-fruit-and-ornamental-trees-roses-vege-nla.obj-2137024883&files=nla.obj-2137024883-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcatalogue-of-fruit-and-ornamental-trees-roses-vege-nla.obj-2137024883)
 
+### Cellulose Acetate Flake Bounty Act - Return
+**1970-1976**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/236426642)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1323817184)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcellulose-acetate-flake-bounty-act-return-nla.obj-1323817184&files=nla.obj-1323817184-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcellulose-acetate-flake-bounty-act-return-nla.obj-1323817184)
+
 ### Ceylon almanac and compendium of useful information
+**1833-1839**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -520,7 +1833,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fceylon-almanac-and-compendium-of-useful-informatio-nla.obj-24677189&files=nla.obj-24677189-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fceylon-almanac-and-compendium-of-useful-informatio-nla.obj-24677189)
 
+### Child migrant education : report ... / Minister for Education
+**Australia. Department of Employment, Education and Training, 1979-1986**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+9 of 9 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/24302137)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1135557413)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fchild-migrant-education-report-minister-for-educat-nla.obj-1135557413&files=nla.obj-1135557413-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fchild-migrant-education-report-minister-for-educat-nla.obj-1135557413)
+
+### Christlicher Volks-Kalender fur Australien (Hochkirch, Vic.)
+**1800-1918**  
+Periodical | Periodical/Journal, magazine, other
+
+19 of 19 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18639076)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2869676970)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fchristlicher-volks-kalender-fur-australien-hochkir-nla.obj-2869676970&files=nla.obj-2869676970-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fchristlicher-volks-kalender-fur-australien-hochkir-nla.obj-2869676970)
+
 ### Chronicles of Cliveden
+**Duchess of Connaught Canadian Military Hospital (Taplow, England), 1917**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -530,6 +1867,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fchronicles-of-cliveden-nla.obj-134973090)
 
 ### Chronicles of the N.Z.E.F
+**New Zealand. Army. New Zealand Expeditionary Force, 1916-1919**  
+Periodical | Periodical/Journal, magazine, other
 
 20 of 20 issues have OCRd text available for download.
 
@@ -538,7 +1877,97 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fchronicles-of-the-n-z-e-f-nla.obj-6839072&files=nla.obj-6839072-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fchronicles-of-the-n-z-e-f-nla.obj-6839072)
 
+### Citizenship Act 1948. Parliament of the Commonwealth of Australia
+**Australia. Parliament, 1949-1970**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+20 of 20 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6761557)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-751684254)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcitizenship-act-1948-parliament-of-the-commonwealt-nla.obj-751684254&files=nla.obj-751684254-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcitizenship-act-1948-parliament-of-the-commonwealt-nla.obj-751684254)
+
+### Civil works program (1983)
+**Australia. Department of Housing and Construction, 1970-1986**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11389638)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-838118791)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcivil-works-program-1983-nla.obj-838118791&files=nla.obj-838118791-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcivil-works-program-1983-nla.obj-838118791)
+
+### Civil works program (1983)
+**Australia. Department of Housing and Construction, 1970-1986**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11389638)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-838116575)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcivil-works-program-1983-nla.obj-838116575&files=nla.obj-838116575-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcivil-works-program-1983-nla.obj-838116575)
+
+### Civil works program (1983)
+**Australia. Department of Housing and Construction, 1970-1986**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11389638)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-838115388)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcivil-works-program-1983-nla.obj-838115388&files=nla.obj-838115388-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcivil-works-program-1983-nla.obj-838115388)
+
+### Civil works program / circulated by ... Minister for Construction
+**Australia. Department of Construction, 1977-1979**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18728436)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-838124628)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcivil-works-program-circulated-by-minister-for-con-nla.obj-838124628&files=nla.obj-838124628-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcivil-works-program-circulated-by-minister-for-con-nla.obj-838124628)
+
+### Civil works programme ... : under the control of the Department of Works / circulated by ... Minister for Works
+**Australia. Department of Works, 1950-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+11 of 11 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11368001)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-753111464)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcivil-works-programme-under-the-control-of-the-dep-nla.obj-753111464&files=nla.obj-753111464-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcivil-works-programme-under-the-control-of-the-dep-nla.obj-753111464)
+
+### Closing the gap between indigenous and non-indigenous Australians / statement by the ... Minister for Families, Housing, Community Services and Indigenous Affairs
+**Australia. Department of Families, Housing, Community Services and Indigenous Affairs, 2008-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/31964738)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-886041546)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fclosing-the-gap-between-indigenous-and-non-indigen-nla.obj-886041546&files=nla.obj-886041546-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fclosing-the-gap-between-indigenous-and-non-indigen-nla.obj-886041546)
+
+### Coal Research Assistance Act 1977 : annual report
+**Australia. Department of National Development, 1978**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26986547)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1284450955)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcoal-research-assistance-act-1977-annual-report-nla.obj-1284450955&files=nla.obj-1284450955-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcoal-research-assistance-act-1977-annual-report-nla.obj-1284450955)
+
 ### Colonial literary journal and weekly miscellany of useful information
+**Reading, James, 1844-2021**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 41 of 41 issues have OCRd text available for download.
 
@@ -547,7 +1976,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcolonial-literary-journal-and-weekly-miscellany-of-nla.obj-1388274688&files=nla.obj-1388274688-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcolonial-literary-journal-and-weekly-miscellany-of-nla.obj-1388274688)
 
+### Colonization circular / issued by Her Majesty's Colonial Land and Emigration Commissioners
+**Great Britain. Colonial Land and Emigration Commission, 1843-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6407936)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1414189826)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcolonization-circular-issued-by-her-majesty-s-colo-nla.obj-1414189826&files=nla.obj-1414189826-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcolonization-circular-issued-by-her-majesty-s-colo-nla.obj-1414189826)
+
 ### Comment and cartoons
+**1917-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 9 of 9 issues have OCRd text available for download.
 
@@ -556,7 +1998,207 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcomment-and-cartoons-nla.obj-69874934&files=nla.obj-69874934-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcomment-and-cartoons-nla.obj-69874934)
 
+### Commercial Motor Vehicles Bounty Act. Parliament of the Commonwealth of Australia
+**Australia. Parliament, 1979-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6760962)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1135842640)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommercial-motor-vehicles-bounty-act-parliament-of-nla.obj-1135842640&files=nla.obj-1135842640-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommercial-motor-vehicles-bounty-act-parliament-of-nla.obj-1135842640)
+
+### Commonwealth Department of Tourism financial statements for the period ..
+**Australia. Department of Tourism, 1996**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/8467935)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2137218753)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-department-of-tourism-financial-state-nla.obj-2137218753&files=nla.obj-2137218753-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-department-of-tourism-financial-state-nla.obj-2137218753)
+
+### Commonwealth Government factories clothing, cordite, harness, saddlery and leather accoutrements, small arms, woollen cloth report ...  for the year ended 30th June..
+**Australia. Parliament, 1918-1922**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/32541179)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2541904494)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-government-factories-clothing-cordite-nla.obj-2541904494&files=nla.obj-2541904494-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-government-factories-clothing-cordite-nla.obj-2541904494)
+
+### Commonwealth Inscribed Stock Act : Dealings and transactions during the year ended ... ..
+**Australia. Parliament, 1912-1926**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/234321016)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2496444278)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-inscribed-stock-act-dealings-and-tran-nla.obj-2496444278&files=nla.obj-2496444278-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-inscribed-stock-act-dealings-and-tran-nla.obj-2496444278)
+
+### Commonwealth approved capital works program ... / circulated by ... Minister for Housing and Construction
+**Australia. Department of Housing and Construction, 1986**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19181669)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1660131596)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-approved-capital-works-program-circul-nla.obj-1660131596&files=nla.obj-1660131596-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-approved-capital-works-program-circul-nla.obj-1660131596)
+
+### Commonwealth capital works program / circulated by ... , Minister for Administrative Services
+**Australia. Department of Administrative Services, 1987-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13081972)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-886058962)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-capital-works-program-circulated-by-m-nla.obj-886058962&files=nla.obj-886058962-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-capital-works-program-circulated-by-m-nla.obj-886058962)
+
+### Commonwealth financial relations with other levels of government / circulated by ... , Treasurer of the Commonwealth of Australia for the information of honourable members on the occasion of the budget
+**Australia, 1988-1997**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13080102)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1179703259)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-financial-relations-with-other-levels-nla.obj-1179703259&files=nla.obj-1179703259-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-financial-relations-with-other-levels-nla.obj-1179703259)
+
+### Commonwealth income tax statistics
+**Australia. Taxation Branch, 1966-1973**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/8610673)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-837145457)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-income-tax-statistics-nla.obj-837145457&files=nla.obj-837145457-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-income-tax-statistics-nla.obj-837145457)
+
+### Commonwealth payments to or for the States / issued by the Commonwealth Treasury, Canberra, A.C.T
+**Australia. Treasury, 1900-1973**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18557995)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-837148645)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-payments-to-or-for-the-states-issued--nla.obj-837148645&files=nla.obj-837148645-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-payments-to-or-for-the-states-issued--nla.obj-837148645)
+
+### Commonwealth per capita grants to independent schools. Department of Education
+**Australia. Department of Education, 1972-1973**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6813284)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2041855957)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-per-capita-grants-to-independent-scho-nla.obj-2041855957&files=nla.obj-2041855957-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-per-capita-grants-to-independent-scho-nla.obj-2041855957)
+
+### Commonwealth programs and policy development for schools ... / Commonwealth Schools Commission
+**Commonwealth Schools Commission (Australia), 1987-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Microform
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12839643)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1905569951)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-programs-and-policy-development-for-s-nla.obj-1905569951&files=nla.obj-1905569951-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-programs-and-policy-development-for-s-nla.obj-1905569951)
+
+### Commonwealth railways financial and statistical bulletin
+**Commonwealth Railways (Australia). Commissioner, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11358904)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-837149848)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-railways-financial-and-statistical-bu-nla.obj-837149848&files=nla.obj-837149848-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-railways-financial-and-statistical-bu-nla.obj-837149848)
+
+### Commonwealth war book : summary of important action to be taken by government departments / Department of Defence
+**Australia. Department of Defence, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22166237)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2495668978)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-war-book-summary-of-important-action--nla.obj-2495668978&files=nla.obj-2495668978-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcommonwealth-war-book-summary-of-important-action--nla.obj-2495668978)
+
+### Competitive safeguards and carrier performance : report to the Minister for Transport and Communications under section 399 of the Telecommunications Act 1991
+**AUSTEL, 1992-1996**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/24007359)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-919226415)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcompetitive-safeguards-and-carrier-performance-rep-nla.obj-919226415&files=nla.obj-919226415-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcompetitive-safeguards-and-carrier-performance-rep-nla.obj-919226415)
+
+### Consolidated register of Senate committee reports / Parliament of the Commonwealth of Australia
+**Australia. Parliament. Department of the Senate. Committee Office, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6782539)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-850932485)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fconsolidated-register-of-senate-committee-reports--nla.obj-850932485&files=nla.obj-850932485-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fconsolidated-register-of-senate-committee-reports--nla.obj-850932485)
+
+### Consultants engaged under section 4 of the Members of Parliament (Staff) Act 1984 for the period ... to ... ... : : annual report ... ..
+**Australia. Department of Administrative Services, 1996-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22883220)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-886316924)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fconsultants-engaged-under-section-4-of-the-members-nla.obj-886316924&files=nla.obj-886316924-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fconsultants-engaged-under-section-4-of-the-members-nla.obj-886316924)
+
+### Contract Immigrants Act 1905
+**Australia. Parliament. The Senate, 1907**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+20 of 20 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/235223007)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2198257894)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcontract-immigrants-act-1905-nla.obj-2198257894&files=nla.obj-2198257894-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcontract-immigrants-act-1905-nla.obj-2198257894)
+
+### Conway's Australian cricketers' annual
+**1877-1879**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/34646510)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2975363646)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fconway-s-australian-cricketers-annual-nla.obj-2975363646&files=nla.obj-2975363646-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fconway-s-australian-cricketers-annual-nla.obj-2975363646)
+
 ### Cosmos (Sydney, N.S.W.)
+**1894-1899**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -565,7 +2207,185 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcosmos-sydney-n-s-w-nla.obj-448459342&files=nla.obj-448459342-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcosmos-sydney-n-s-w-nla.obj-448459342)
 
+### Critic (Manila, Philippines)
+**1934-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+11 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/33185723)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2970942070)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcritic-manila-philippines-nla.obj-2970942070&files=nla.obj-2970942070-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcritic-manila-philippines-nla.obj-2970942070)
+
+### Crown lands guide, ..
+**Tasmania. Department of Lands and Works, 1884-1900**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21566300)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-74300826)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcrown-lands-guide-nla.obj-74300826&files=nla.obj-74300826-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcrown-lands-guide-nla.obj-74300826)
+
+### Current notes on international affairs
+**Australia. Department of Foreign Affairs, 1936-1972**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+525 of 525 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/7303714)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-850514773)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcurrent-notes-on-international-affairs-nla.obj-850514773&files=nla.obj-850514773-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fcurrent-notes-on-international-affairs-nla.obj-850514773)
+
+### Data-Matching Program (Assistance and Tax) (Australia. Department of Employment, Education and Training)
+**Australia. Department of Employment, Education and Training, 1991-1992**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22729426)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1805057216)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-assistance-and-tax-australia-nla.obj-1805057216&files=nla.obj-1805057216-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-assistance-and-tax-australia-nla.obj-1805057216)
+
+### Data-Matching Program (Assistance and Tax) (Australia. Department of Health, Housing and Community Services)
+**Australia. Department of Health, Housing and Community Services, 1991-1995**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26606043)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1805982826)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-assistance-and-tax-australia-nla.obj-1805982826&files=nla.obj-1805982826-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-assistance-and-tax-australia-nla.obj-1805982826)
+
+### Data-Matching Program (Assistance and Tax) (Australia. Department of Housing and Regional Development)
+**Australia. Department of Housing and Regional Development, 1990-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21260316)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1659337731)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-assistance-and-tax-australia-nla.obj-1659337731&files=nla.obj-1659337731-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-assistance-and-tax-australia-nla.obj-1659337731)
+
+### Data-Matching Program (Assistance and Tax) (Australia. Department of Social Security)
+**Australia. Department of Social Security, 1990-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11421411)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1603418886)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-assistance-and-tax-australia-nla.obj-1603418886&files=nla.obj-1603418886-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-assistance-and-tax-australia-nla.obj-1603418886)
+
+### Data-Matching Program (Assistance and Tax) (Australian Taxation Office)
+**1992-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/31660761)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1618052167)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-assistance-and-tax-australia-nla.obj-1618052167&files=nla.obj-1618052167-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-assistance-and-tax-australia-nla.obj-1618052167)
+
+### Data-Matching Program (Assistance and Tax) Act 1990 (Australia. Department of Employment, Education and Training)
+**Australia. Department of Employment, Education and Training, 1993-1995**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21261574)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1514787178)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-assistance-and-tax-act-1990--nla.obj-1514787178&files=nla.obj-1514787178-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-assistance-and-tax-act-1990--nla.obj-1514787178)
+
+### Data-Matching Program (Assistance and Tax) Act 1990 (Australia. Department of Employment, Education, Training and Youth Affairs)
+**Australia. Department of Employment, Education, Training and Youth Affairs, 1996**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/23205209)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2139153362)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-assistance-and-tax-act-1990--nla.obj-2139153362&files=nla.obj-2139153362-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-assistance-and-tax-act-1990--nla.obj-2139153362)
+
+### Data-Matching Program (Australia. Centrelink)
+**Australia. Department of Social Security, 1990-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/15932017)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1514897054)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-australia-centrelink-nla.obj-1514897054&files=nla.obj-1514897054-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-australia-centrelink-nla.obj-1514897054)
+
+### Data-Matching Program (Australia. Centrelink)
+**Australia. Department of Social Security, 1990-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+3 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/15932017)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-934644599)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-australia-centrelink-nla.obj-934644599&files=nla.obj-934644599-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-australia-centrelink-nla.obj-934644599)
+
+### Data-matching Program (Assistance and Tax), ATO's interaction with the program, financial year ... / Commissioner of Taxation
+**Australian Taxation Office, 1994-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/7426370)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1617333382)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-assistance-and-tax-ato-s-int-nla.obj-1617333382&files=nla.obj-1617333382-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-assistance-and-tax-ato-s-int-nla.obj-1617333382)
+
+### Data-matching Program (Australia. Department of Veterans' Affairs)
+**Australia. Department of Veterans' Affairs, 1990-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/8033860)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1126524441)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-australia-department-of-vete-nla.obj-1126524441&files=nla.obj-1126524441-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-australia-department-of-vete-nla.obj-1126524441)
+
+### Data-matching Program (Australia. Department of Veterans' Affairs)
+**Australia. Department of Veterans' Affairs, 1990-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/8033860)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1728045523)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-australia-department-of-vete-nla.obj-1728045523&files=nla.obj-1728045523-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-australia-department-of-vete-nla.obj-1728045523)
+
+### Data-matching Program, ATO's interaction with the program, financial year ... / Commissioner of Taxation
+**Australian Taxation Office, 1991-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/24499902)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1105747336)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-ato-s-interaction-with-the-p-nla.obj-1105747336&files=nla.obj-1105747336-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdata-matching-program-ato-s-interaction-with-the-p-nla.obj-1105747336)
+
 ### Decoration and glass
+**1935-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 130 of 130 issues have OCRd text available for download.
 
@@ -574,7 +2394,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdecoration-and-glass-nla.obj-347231133&files=nla.obj-347231133-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdecoration-and-glass-nla.obj-347231133)
 
+### Defence Force Discipline Act 1982. Report for the period ..
+**Australia. Judge Advocate General, 1985-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+27 of 27 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/23918475)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-742227123)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdefence-force-discipline-act-1982-report-for-the-p-nla.obj-742227123&files=nla.obj-742227123-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdefence-force-discipline-act-1982-report-for-the-p-nla.obj-742227123)
+
+### Dehane's almanac
+**Dehane, G. (George), 1851**  
+Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/17282844)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2873219940)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdehane-s-almanac-nla.obj-2873219940&files=nla.obj-2873219940-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdehane-s-almanac-nla.obj-2873219940)
+
 ### Der Kamp Spiegel
+**1916-1918**  
+Periodical | Periodical/Journal, magazine, other
 
 103 of 103 issues have OCRd text available for download.
 
@@ -583,7 +2427,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fder-kamp-spiegel-nla.obj-13873665&files=nla.obj-13873665-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fder-kamp-spiegel-nla.obj-13873665)
 
+### Des Australischen Christenboten Kalender fur die evangelischen Deutschen in Australien auf das Jahr unsers Herrn und Heilandes Jesu Christi
+**Gothe, Matthias, 1800-1860**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/35108392)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2865777863)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdes-australischen-christenboten-kalender-fur-die-e-nla.obj-2865777863&files=nla.obj-2865777863-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdes-australischen-christenboten-kalender-fur-die-e-nla.obj-2865777863)
+
+### Determination and report / Academic Salaries Tribunal
+**Academic Salaries Tribunal (Australia), 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18531798)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1309254731)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdetermination-and-report-academic-salaries-tribuna-nla.obj-1309254731&files=nla.obj-1309254731-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdetermination-and-report-academic-salaries-tribuna-nla.obj-1309254731)
+
+### Development co-operation. Australia's program of support for social and economic development in the Third World / Australian Development Assistance Bureau, Department of Foreign Affairs
+**Australian Development Assistance Bureau, 1979-1982**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21589263)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1277106440)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdevelopment-co-operation-australia-s-program-of-su-nla.obj-1277106440&files=nla.obj-1277106440-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdevelopment-co-operation-australia-s-program-of-su-nla.obj-1277106440)
+
 ### Digger (Le Havre, France)
+**Australia. Army. Australian Imperial Force (1914-1921), 1918-1919**  
+Periodical | Periodical/Journal, magazine, other
 
 26 of 26 issues have OCRd text available for download.
 
@@ -593,6 +2472,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdigger-le-havre-france-nla.obj-7633895)
 
 ### Diggers' digest (Greenslopes Repatriation Hospital)
+**Repatriation General Hospital (Greenslopes, Qld.), 1947-1948**  
+Periodical | Periodical/Journal, magazine, other
 
 54 of 54 issues have OCRd text available for download.
 
@@ -602,6 +2483,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdiggers-digest-greenslopes-repatriation-hospital-nla.obj-1063086427)
 
 ### Dogs : the K.C.C. Kennel gazette : the official organ of the publisher the Kennel Control Council
+**Kennel Control Council (Vic.), 1962-1997**  
+Periodical | Periodical/Journal, magazine, other
 
 106 of 106 issues have OCRd text available for download.
 
@@ -611,6 +2494,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdogs-the-k-c-c-kennel-gazette-the-official-organ-o-nla.obj-760030643)
 
 ### Dogs on the bench & in the field (Online)
+**Longmore, F. A., 1933-1938**  
+Periodical | Periodical/Journal, magazine, other
 
 6 of 6 issues have OCRd text available for download.
 
@@ -619,7 +2504,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdogs-on-the-bench-in-the-field-online-nla.obj-768747103&files=nla.obj-768747103-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdogs-on-the-bench-in-the-field-online-nla.obj-768747103)
 
+### Dr. L.L. Smith's medical almanac
+**Smith, Louis L. (Louis Lawrence), 1830-1910, 1860-1900**  
+Periodical | Periodical/Journal, magazine, other
+
+9 of 9 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16508090)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2884734850)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdr-l-l-smith-s-medical-almanac-nla.obj-2884734850&files=nla.obj-2884734850-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdr-l-l-smith-s-medical-almanac-nla.obj-2884734850)
+
+### Drilling Machines Bounty Act. Parliament of the Commonmwealth of Australia
+**Australia. Parliament, 1979-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6761522)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-829442852)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdrilling-machines-bounty-act-parliament-of-the-com-nla.obj-829442852&files=nla.obj-829442852-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdrilling-machines-bounty-act-parliament-of-the-com-nla.obj-829442852)
+
 ### Dun's gazette for New South Wales
+**1909-1958**  
+Periodical | Periodical/Journal, magazine, other
 
 2408 of 2408 issues have OCRd text available for download.
 
@@ -628,7 +2537,141 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdun-s-gazette-for-new-south-wales-nla.obj-724008889&files=nla.obj-724008889-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdun-s-gazette-for-new-south-wales-nla.obj-724008889)
 
+### Dun's gazette for New South Wales (Online)
+**1909-1958**  
+Periodical | Periodical/Journal, magazine, other
+
+2408 of 2408 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/237946453)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-724008889)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdun-s-gazette-for-new-south-wales-online-nla.obj-724008889&files=nla.obj-724008889-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fdun-s-gazette-for-new-south-wales-online-nla.obj-724008889)
+
+### Education (Sydney, N.S.W.)
+**N.S.W. Teachers' Federation, 1919-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1516 of 1516 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22299899)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-525471579)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Feducation-sydney-n-s-w-nla.obj-525471579&files=nla.obj-525471579-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Feducation-sydney-n-s-w-nla.obj-525471579)
+
+### Education / circulated by ... , Minister for Education
+**Australia. Department of Education, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18747851)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1329431278)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Feducation-circulated-by-minister-for-education-nla.obj-1329431278&files=nla.obj-1329431278-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Feducation-circulated-by-minister-for-education-nla.obj-1329431278)
+
+### Election funding and financial disclosure report / Australian Electoral Commission
+**Australian Electoral Commission, 1985-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26604823)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-743799952)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felection-funding-and-financial-disclosure-report-a-nla.obj-743799952&files=nla.obj-743799952-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felection-funding-and-financial-disclosure-report-a-nla.obj-743799952)
+
+### Election returns. General elections
+**Australia, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+29 of 29 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18287563)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-671156199)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felection-returns-general-elections-nla.obj-671156199&files=nla.obj-671156199-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felection-returns-general-elections-nla.obj-671156199)
+
+### Election returns. General elections
+**Australia, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18287563)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1374970531)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felection-returns-general-elections-nla.obj-1374970531&files=nla.obj-1374970531-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felection-returns-general-elections-nla.obj-1374970531)
+
+### Election statistics Australian Capital Territory, Northern Territory
+**Australian Electoral Commission, 1975-1993**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/24954807)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1374444642)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felection-statistics-australian-capital-territory-n-nla.obj-1374444642&files=nla.obj-1374444642-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felection-statistics-australian-capital-territory-n-nla.obj-1374444642)
+
+### Election statistics, New South Wales
+**Australian Electoral Commission, 1975-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10401623)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1374486709)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felection-statistics-new-south-wales-nla.obj-1374486709&files=nla.obj-1374486709-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felection-statistics-new-south-wales-nla.obj-1374486709)
+
+### Election statistics, Queensland
+**Australian Electoral Commission, 1975-1993**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19287838)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1374594544)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felection-statistics-queensland-nla.obj-1374594544&files=nla.obj-1374594544-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felection-statistics-queensland-nla.obj-1374594544)
+
+### Election statistics, South Australia
+**Australian Electoral Commission, 1975-1993**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/24910366)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1374869133)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felection-statistics-south-australia-nla.obj-1374869133&files=nla.obj-1374869133-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felection-statistics-south-australia-nla.obj-1374869133)
+
+### Election statistics, Victoria
+**Australian Electoral Commission, 1975-1993**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19257845)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1375054000)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felection-statistics-victoria-nla.obj-1375054000&files=nla.obj-1375054000-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felection-statistics-victoria-nla.obj-1375054000)
+
+### Election statistics, Western Australia
+**Australian Electoral Commission, 1975-1993**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/24921523)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-837149368)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felection-statistics-western-australia-nla.obj-837149368&files=nla.obj-837149368-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felection-statistics-western-australia-nla.obj-837149368)
+
 ### Elector (Online)
+**1848**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -638,6 +2681,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Felector-online-nla.obj-767555504)
 
 ### Ern Malley's journal
+**Harris, Max, 1921-1995, 1952-1955**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -646,7 +2691,64 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fern-malley-s-journal-nla.obj-319026400&files=nla.obj-319026400-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fern-malley-s-journal-nla.obj-319026400)
 
+### Estimates of expenditure / The Parliament of the Commonwealth, House of Representatives
+**Australia. Parliament. House of Representatives, 1902-2012**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/31015421)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-767864866)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Festimates-of-expenditure-the-parliament-of-the-com-nla.obj-767864866&files=nla.obj-767864866-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Festimates-of-expenditure-the-parliament-of-the-com-nla.obj-767864866)
+
+### Estimates of expenditure and revenue of the Commonwealth public account / circulated by ... Minister for Finance of the Commonwealth of Australia for the information of honourable members on the occasion of the budget
+**Australia, 1986**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12704306)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2478801066)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Festimates-of-expenditure-and-revenue-of-the-common-nla.obj-2478801066&files=nla.obj-2478801066-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Festimates-of-expenditure-and-revenue-of-the-common-nla.obj-2478801066)
+
+### Estimates of expenditure for additions, new works and buildings
+**Australia. Parliament. House of Representatives, 1902-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/234181914)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-767864596)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Festimates-of-expenditure-for-additions-new-works-a-nla.obj-767864596&files=nla.obj-767864596-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Festimates-of-expenditure-for-additions-new-works-a-nla.obj-767864596)
+
+### Estimates of expenditure for additions, new works, buildings, etc., for the year ending 30th June ..
+**Australia. Parliament. House of Representatives, 1905**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+60 of 60 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/235088118)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2056864040)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Festimates-of-expenditure-for-additions-new-works-b-nla.obj-2056864040&files=nla.obj-2056864040-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Festimates-of-expenditure-for-additions-new-works-b-nla.obj-2056864040)
+
+### Estimates of expenditure... : explanatory statement prepared by direction of the Minister for Defence / Department of Defence
+**Australia. Department of Defence, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6385191)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2610683951)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Festimates-of-expenditure-explanatory-statement-pre-nla.obj-2610683951&files=nla.obj-2610683951-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Festimates-of-expenditure-explanatory-statement-pre-nla.obj-2610683951)
+
 ### Estimates of receipts and expenditure for the year ending ... / the Parliament of the Commonwealth of Australia
+**Australia. Parliament, 1916-1963**  
+Periodical | Periodical/Journal, magazine, other
 
 52 of 52 issues have OCRd text available for download.
 
@@ -655,7 +2757,53 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Festimates-of-receipts-and-expenditure-for-the-year-nla.obj-2325296191&files=nla.obj-2325296191-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Festimates-of-receipts-and-expenditure-for-the-year-nla.obj-2325296191)
 
+### Estimates of receipts and summary of estimated expenditure / circulated by The Honourable ... Minister for Finance of the Commonwealth of Australia ... ..
+**Australia, 1963-1985**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+22 of 22 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21564316)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1296306862)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Festimates-of-receipts-and-summary-of-estimated-exp-nla.obj-1296306862&files=nla.obj-1296306862-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Festimates-of-receipts-and-summary-of-estimated-exp-nla.obj-1296306862)
+
+### Estimates of revenue and expenditure : viz.:- Estimates of revenue for the year ending 30th June ... ..
+**Australia. Parliament. House of Representatives, 1901**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/234181916)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-767865089)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Festimates-of-revenue-and-expenditure-viz-estimates-nla.obj-767865089&files=nla.obj-767865089-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Festimates-of-revenue-and-expenditure-viz-estimates-nla.obj-767865089)
+
+### Estimates of revenue and expenditure for the year ending 30th June..
+**Australia. Parliament, 1903-1914**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/234181917)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-767865230)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Festimates-of-revenue-and-expenditure-for-the-year--nla.obj-767865230&files=nla.obj-767865230-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Festimates-of-revenue-and-expenditure-for-the-year--nla.obj-767865230)
+
+### Everybody's Tasmanian almanac (Launceston, Tas.)
+**1800-1886**  
+Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11112421)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2879738467)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Feverybody-s-tasmanian-almanac-launceston-tas-nla.obj-2879738467&files=nla.obj-2879738467-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Feverybody-s-tasmanian-almanac-launceston-tas-nla.obj-2879738467)
+
 ### Everyones
+**1920-1937**  
+Microform | Periodical | Periodical/Journal, magazine, other
 
 916 of 916 issues have OCRd text available for download.
 
@@ -664,7 +2812,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Feveryones-nla.obj-522690001&files=nla.obj-522690001-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Feveryones-nla.obj-522690001)
 
+### Everyones (Sydney, N.S.W. : Online)
+**1920-1937**  
+Periodical | Periodical/Journal, magazine, other
+
+916 of 916 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/237943749)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-522690001)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Feveryones-sydney-n-s-w-online-nla.obj-522690001&files=nla.obj-522690001-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Feveryones-sydney-n-s-w-online-nla.obj-522690001)
+
+### Export Guarantee Act : return, to ... , showing the reports and recommendations made and the assistance granted
+**Australia. Parliament, 1920-1930**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/239122308)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2617178020)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fexport-guarantee-act-return-to-showing-the-reports-nla.obj-2617178020&files=nla.obj-2617178020-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fexport-guarantee-act-return-to-showing-the-reports-nla.obj-2617178020)
+
 ### Famous detective stories (Sydney, N.S.W.)
+**1946-1954**  
+Periodical | Periodical/Journal, magazine, other
 
 7 of 7 issues have OCRd text available for download.
 
@@ -674,6 +2846,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffamous-detective-stories-sydney-n-s-w-nla.obj-71871950)
 
 ### Featherston Camp weekly
+**Bolitho, Hector, 1898-1974, 1917**  
+Periodical | Periodical/Journal, magazine, other
 
 6 of 6 issues have OCRd text available for download.
 
@@ -682,16 +2856,97 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffeatherston-camp-weekly-nla.obj-7304969&files=nla.obj-7304969-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffeatherston-camp-weekly-nla.obj-7304969)
 
-### Fiji Society of Science and Industry
+### Federal financial relations
+**Australia, 1997-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+16 of 16 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/23040749)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-966315764)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffederal-financial-relations-nla.obj-966315764&files=nla.obj-966315764-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffederal-financial-relations-nla.obj-966315764)
+
+### Fiji Society of Science and Industry (Series)
+**Fiji Society of Science and Industry, 1938-1953**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
 * [Details on Trove](https://trove.nla.gov.au/work/29807774)
 * [Browse issues on Trove](http://nla.gov.au/nla.obj-128402636)
-* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffiji-society-of-science-and-industry-nla.obj-128402636&files=nla.obj-128402636-issues.csv)
-* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffiji-society-of-science-and-industry-nla.obj-128402636)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffiji-society-of-science-and-industry-series-nla.obj-128402636&files=nla.obj-128402636-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffiji-society-of-science-and-industry-series-nla.obj-128402636)
+
+### Final financial statements / Australian Canned Fruits Corporation
+**Australian Canned Fruits Corporation, 1989**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/17428538)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1571513738)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinal-financial-statements-australian-canned-fruit-nla.obj-1571513738&files=nla.obj-1571513738-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinal-financial-statements-australian-canned-fruit-nla.obj-1571513738)
+
+### Finance ... the Treasurer's statement of receipts and expenditure for the year ended ... accompanied by the report of the Auditor-General
+**Australia. Treasury, 1900-1961**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+62 of 62 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18246218)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-744545148)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinance-the-treasurer-s-statement-of-receipts-and--nla.obj-744545148&files=nla.obj-744545148-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinance-the-treasurer-s-statement-of-receipts-and--nla.obj-744545148)
+
+### Financial & statistical supplement
+**Australia. Postmaster-General's Department, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18850001)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1284514351)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinancial-statistical-supplement-nla.obj-1284514351&files=nla.obj-1284514351-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinancial-statistical-supplement-nla.obj-1284514351)
+
+### Financial and statistical bulletin / Postmaster-General's Department, Australia
+**Australia. Postmaster-General's Department, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/7304164)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-836946519)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinancial-and-statistical-bulletin-postmaster-gene-nla.obj-836946519&files=nla.obj-836946519-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinancial-and-statistical-bulletin-postmaster-gene-nla.obj-836946519)
+
+### Financial assistance granted to each state in respect of ..., Schools Assistance (Learning together - Achievement through Choice and Opportunity) Act 2004 / Department of Education, Science and Training
+**Australia. Department of Education, Science and Training, 2005-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/34371212)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-743657603)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinancial-assistance-granted-to-each-state-in-resp-nla.obj-743657603&files=nla.obj-743657603-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinancial-assistance-granted-to-each-state-in-resp-nla.obj-743657603)
+
+### Financial statements / Commonwealth Development Bank of Australia
+**Commonwealth Development Bank of Australia, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21271575)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1600126072)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinancial-statements-commonwealth-development-bank-nla.obj-1600126072&files=nla.obj-1600126072-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinancial-statements-commonwealth-development-bank-nla.obj-1600126072)
 
 ### Financial statements / Commonwealth Savings Bank of Australia [and] Commonwealth Development Bank of Australia
+**Commonwealth Savings Bank of Australia, 1992**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -700,7 +2955,53 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinancial-statements-commonwealth-savings-bank-of--nla.obj-2490340103&files=nla.obj-2490340103-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinancial-statements-commonwealth-savings-bank-of--nla.obj-2490340103)
 
+### Financial statements / Department of Defence, Explosives Factory Maribyrnong
+**Australia. Department of Defence. Explosives Factory Maribyrnong, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19845219)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1661739620)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinancial-statements-department-of-defence-explosi-nla.obj-1661739620&files=nla.obj-1661739620-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinancial-statements-department-of-defence-explosi-nla.obj-1661739620)
+
+### Financial statements and reports / Phosphate Mining Corporation of Christmas Island
+**Phosphate Mining Corporation of Christmas Island (Australia), 1986-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13455600)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1600130206)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinancial-statements-and-reports-phosphate-mining--nla.obj-1600130206&files=nla.obj-1600130206-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinancial-statements-and-reports-phosphate-mining--nla.obj-1600130206)
+
+### Financial statements of the Department of Housing & Regional Development
+**Australia. Department of Housing and Regional Development, 1990-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16139841)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2139256615)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinancial-statements-of-the-department-of-housing--nla.obj-2139256615&files=nla.obj-2139256615-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffinancial-statements-of-the-department-of-housing--nla.obj-2139256615)
+
+### First home owners scheme : annual report / Department of Community Services and Health
+**Australia. Department of Community Services and Health, 1988-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19512274)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1919065704)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffirst-home-owners-scheme-annual-report-department--nla.obj-1919065704&files=nla.obj-1919065704-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffirst-home-owners-scheme-annual-report-department--nla.obj-1919065704)
+
 ### Fisher's colonial magazine and commercial maritime journal
+**Martin, Robert Montgomery, 1803?-1868, 1842-1990**  
+Periodical | Periodical/Journal, magazine, other
 
 21 of 21 issues have OCRd text available for download.
 
@@ -710,6 +3011,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffisher-s-colonial-magazine-and-commercial-maritime-nla.obj-1401805785)
 
 ### Fisher's colonial magazine and journal of trade, commerce and banking
+**1844-2021**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 19 of 19 issues have OCRd text available for download.
 
@@ -718,7 +3021,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffisher-s-colonial-magazine-and-journal-of-trade-co-nla.obj-1401805969&files=nla.obj-1401805969-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffisher-s-colonial-magazine-and-journal-of-trade-co-nla.obj-1401805969)
 
+### Fisheries news-letter / issued by the Fisheries Division of the Council for Scientific and Industrial Research
+**Australia. Fisheries Branch, 1941-1964**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+225 of 225 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18435059)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-669356323)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffisheries-news-letter-issued-by-the-fisheries-divi-nla.obj-669356323&files=nla.obj-669356323-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffisheries-news-letter-issued-by-the-fisheries-divi-nla.obj-669356323)
+
 ### Flying in New South Wales : the official organ of the Royal Aero Club of New South Wales
+**Royal Aero Club of New South Wales, 1937**  
+Periodical | Periodical/Journal, magazine, other
 
 5 of 5 issues have OCRd text available for download.
 
@@ -727,7 +3043,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fflying-in-new-south-wales-the-official-organ-of-th-nla.obj-320844374&files=nla.obj-320844374-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fflying-in-new-south-wales-the-official-organ-of-th-nla.obj-320844374)
 
+### Ford's Australian almanac
+**1851-1854**  
+Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18165264)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2886700354)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fford-s-australian-almanac-nla.obj-2886700354&files=nla.obj-2886700354-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fford-s-australian-almanac-nla.obj-2886700354)
+
 ### Frank Clune's adventure magazine
+**Clune, Frank, 1893-1971, 1948-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -737,6 +3066,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffrank-clune-s-adventure-magazine-nla.obj-324490547)
 
 ### Free churchman (Maitland, N.S.W.)
+**Free Presbyterian Church of Australia, 1882**  
+Periodical | Periodical/Journal, magazine, other
 
 37 of 37 issues have OCRd text available for download.
 
@@ -745,7 +3076,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffree-churchman-maitland-n-s-w-nla.obj-2685337140&files=nla.obj-2685337140-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffree-churchman-maitland-n-s-w-nla.obj-2685337140)
 
+### Functional classification of outlays - departmental estimates
+**Australia. Department of Finance, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/25934324)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-837083695)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffunctional-classification-of-outlays-departmental--nla.obj-837083695&files=nla.obj-837083695-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ffunctional-classification-of-outlays-departmental--nla.obj-837083695)
+
 ### Gazette (3rd London General Hospital)
+**3rd London General Hospital, 1915-1919**  
+Periodical | Periodical/Journal, magazine, other
 
 39 of 39 issues have OCRd text available for download.
 
@@ -755,6 +3099,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgazette-3rd-london-general-hospital-nla.obj-10482247)
 
 ### General catalogue of garden and farm seeds, plants, florists' flowers, fruit trees, bulbs &c. : containing also carefully compiled cultural directory and a year's work in the garden / J. & W. Gelding
+**J. & W. Gelding, 1800**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -763,16 +3109,53 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgeneral-catalogue-of-garden-and-farm-seeds-plants--nla.obj-1305537328&files=nla.obj-1305537328-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgeneral-catalogue-of-garden-and-farm-seeds-plants--nla.obj-1305537328)
 
-### Gibbs, Shallard, & Co's New South Wales weather almanac
+### General report / Joint Committee of Public Accounts
+**Australia. Parliament. Joint Committee of Public Accounts, 1917-1929**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/110477362)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2621673736)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgeneral-report-joint-committee-of-public-accounts-nla.obj-2621673736&files=nla.obj-2621673736-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgeneral-report-joint-committee-of-public-accounts-nla.obj-2621673736)
+
+### General report / Parliamentary Standing Committee on Public Works
+**Australia. Parliament. Standing Committee on Public Works, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+64 of 64 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5764229)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-839314725)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgeneral-report-parliamentary-standing-committee-on-nla.obj-839314725&files=nla.obj-839314725-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgeneral-report-parliamentary-standing-committee-on-nla.obj-839314725)
+
+### General report and statement of accounts
+**Commonwealth Telecommunications Board (Great Britain), 1951-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
+* [Details on Trove](https://trove.nla.gov.au/work/34503823)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2730982292)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgeneral-report-and-statement-of-accounts-nla.obj-2730982292&files=nla.obj-2730982292-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgeneral-report-and-statement-of-accounts-nla.obj-2730982292)
+
+### Gibbs, Shallard, & Co's New South Wales weather almanac
+**1883-1893**  
+Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
 * [Details on Trove](https://trove.nla.gov.au/work/25722607)
-* [Browse issues on Trove](http://nla.gov.au/nla.obj-407497663)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-407497663)
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgibbs-shallard-co-s-new-south-wales-weather-almana-nla.obj-407497663&files=nla.obj-407497663-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgibbs-shallard-co-s-new-south-wales-weather-almana-nla.obj-407497663)
 
 ### Glass (Waterloo, N.S.W. : Online)
+**1933-1935**  
+Periodical | Periodical/Journal, magazine, other
 
 20 of 20 issues have OCRd text available for download.
 
@@ -781,7 +3164,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fglass-waterloo-n-s-w-online-nla.obj-637034992&files=nla.obj-637034992-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fglass-waterloo-n-s-w-online-nla.obj-637034992)
 
+### Gold-fields of Victoria : reports of the mining registrars for the quarter ended ... ..
+**Victoria. Mines Department, 1884-1889**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21727492)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-732252617)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgold-fields-of-victoria-reports-of-the-mining-regi-nla.obj-732252617&files=nla.obj-732252617-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgold-fields-of-victoria-reports-of-the-mining-regi-nla.obj-732252617)
+
 ### Gold-mining industry assistance act 1954-1965 ... annual statement
+**Australia. Treasury, 1955-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 9 of 9 issues have OCRd text available for download.
 
@@ -790,7 +3186,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgold-mining-industry-assistance-act-1954-1965-annu-nla.obj-1285370385&files=nla.obj-1285370385-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgold-mining-industry-assistance-act-1954-1965-annu-nla.obj-1285370385)
 
+### Government Resident's report on Northern Territory
+**South Australia. Office of the Government Resident (Northern Territory), 1887-1909**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+14 of 14 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13423856)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-54055401)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgovernment-resident-s-report-on-northern-territory-nla.obj-54055401&files=nla.obj-54055401-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgovernment-resident-s-report-on-northern-territory-nla.obj-54055401)
+
+### Government securities on issue at 30 June ..
+**Australia, 1900-1995**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+33 of 33 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21563136)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-838128236)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgovernment-securities-on-issue-at-30-june-nla.obj-838128236&files=nla.obj-838128236-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgovernment-securities-on-issue-at-30-june-nla.obj-838128236)
+
 ### Grand Anzac military tattoo, navy, army and air force : official programme
+**Returned Sailors' and Soldiers' Imperial League of Australia. New South Wales Branch, 1900**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -799,7 +3219,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgrand-anzac-military-tattoo-navy-army-and-air-forc-nla.obj-7916702&files=nla.obj-7916702-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgrand-anzac-military-tattoo-navy-army-and-air-forc-nla.obj-7916702)
 
+### Grants approved for ... / Australian Research Grants Committee
+**Australian Research Grants Committee, 1900-1979**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18369423)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2498113497)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgrants-approved-for-australian-research-grants-com-nla.obj-2498113497&files=nla.obj-2498113497-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgrants-approved-for-australian-research-grants-com-nla.obj-2498113497)
+
+### Grants for recurrent expenditure in non-government schools : annual report ... / Department of Education
+**Australia. Department of Education, 1973-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6813262)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1296257973)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgrants-for-recurrent-expenditure-in-non-government-nla.obj-1296257973&files=nla.obj-1296257973-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgrants-for-recurrent-expenditure-in-non-government-nla.obj-1296257973)
+
 ### Grit : journal of R.A.A.F. Station Ascot Vale
+**Australia. Royal Australian Air Force, 1942**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -809,6 +3253,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fgrit-journal-of-r-a-a-f-station-ascot-vale-nla.obj-2005769222)
 
 ### Guardian (Holsworthy, N.S.W.)
+**1916**  
+Periodical | Periodical/Journal, magazine, other
 
 5 of 5 issues have OCRd text available for download.
 
@@ -817,7 +3263,53 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fguardian-holsworthy-n-s-w-nla.obj-11685264&files=nla.obj-11685264-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fguardian-holsworthy-n-s-w-nla.obj-11685264)
 
+### HRC report / Human Rights and Equal Opportunity Commission
+**Australia. Human Rights and Equal Opportunity Commission, 1996-2001**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+11 of 11 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/23682495)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-913534051)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhrc-report-human-rights-and-equal-opportunity-comm-nla.obj-913534051&files=nla.obj-913534051-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhrc-report-human-rights-and-equal-opportunity-comm-nla.obj-913534051)
+
+### HREOC report / Human Rights and Equal Opportunity Commission
+**Australia. Human Rights and Equal Opportunity Commission, 1996-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+25 of 27 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26607128)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-913540770)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhreoc-report-human-rights-and-equal-opportunity-co-nla.obj-913540770&files=nla.obj-913540770-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhreoc-report-human-rights-and-equal-opportunity-co-nla.obj-913540770)
+
+### Half yearly financial bulletin on life insurance : financial and statistical information for individual companies balancing between ... and ... / Insurance and Superannuation Commission, Life Insurance Group
+**Australia. Life Insurance Group, 1987-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18936870)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2363068282)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhalf-yearly-financial-bulletin-on-life-insurance-f-nla.obj-2363068282&files=nla.obj-2363068282-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhalf-yearly-financial-bulletin-on-life-insurance-f-nla.obj-2363068282)
+
+### Half-yearly report / Australian Institute of Tropical Medicine
+**Australian Institute of Tropical Medicine, 1900-1919**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22039717)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2558286280)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhalf-yearly-report-australian-institute-of-tropica-nla.obj-2558286280&files=nla.obj-2558286280-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhalf-yearly-report-australian-institute-of-tropica-nla.obj-2558286280)
+
 ### Harina
+**London Missionary Society. Papua District Committee, 1946-1948**  
+Periodical | Periodical/Journal, magazine, other
 
 28 of 28 issues have OCRd text available for download.
 
@@ -827,6 +3319,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fharina-nla.obj-185175328)
 
 ### Heads of the people (Sydney, N.S.W.)
+**Baker, William, 1847-1848**  
+Periodical | Periodical/Journal, magazine, other | Microform | Periodical/Newspaper
 
 50 of 50 issues have OCRd text available for download.
 
@@ -836,6 +3330,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fheads-of-the-people-sydney-n-s-w-nla.obj-722006765)
 
 ### Health and physical culture : Britons' monthly journal
+**1929**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -844,7 +3340,86 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhealth-and-physical-culture-britons-monthly-journa-nla.obj-1250541100&files=nla.obj-1250541100-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhealth-and-physical-culture-britons-monthly-journa-nla.obj-1250541100)
 
+### Higher Education Funding Act 1988 : report setting out details of determinations made under the Higher Education Funding Act 1988 in respect of... / Dept. of Employment, Education and Training
+**Australia. Department of Employment, Education and Training, 1989-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/20625626)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-964335173)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhigher-education-funding-act-1988-report-setting-o-nla.obj-964335173&files=nla.obj-964335173-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhigher-education-funding-act-1988-report-setting-o-nla.obj-964335173)
+
+### Higher Education Funding Act 1988 : report setting out details of determinations made under the Higher Education Funding Act 1988 in respect of... / Dept. of Employment, Education and Training
+**Australia. Department of Employment, Education and Training, 1989-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/20625626)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1523730686)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhigher-education-funding-act-1988-report-setting-o-nla.obj-1523730686&files=nla.obj-1523730686-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhigher-education-funding-act-1988-report-setting-o-nla.obj-1523730686)
+
+### Higher Education Funding Act 1988, ... determinations : report setting out details of determinations made under the Higher Education Funding Act 1988 in respect of ... ... ... / / Department. of Education, Training and Youth Affairs. Higher Education Division
+**Australia. Department of Education, Training and Youth Affairs. Higher Education Division, 1998-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/33507721)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1791407911)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhigher-education-funding-act-1988-determinations-r-nla.obj-1791407911&files=nla.obj-1791407911-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhigher-education-funding-act-1988-determinations-r-nla.obj-1791407911)
+
+### Higher Education Funding Act 1988, ... determinations : report setting out details of determinations made under the Higher Education Funding Act 1988 in respect of ... / Department of Employment, Education, Training and Youth Affairs, Higher Education Division
+**Australia. Department of Employment, Education, Training and Youth Affairs. Higher Education Division, 1995-1997**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22498883)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1523799748)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhigher-education-funding-act-1988-determinations-r-nla.obj-1523799748&files=nla.obj-1523799748-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhigher-education-funding-act-1988-determinations-r-nla.obj-1523799748)
+
+### Higher Education Funding Act 1988, ... determinations : report setting out details of determinations made under the Higher Education Funding Act 1988 in respect of the years / / Department. of Education, Science and Training. Higher Education Group
+**Australia. Department of Education, Science and Training. Higher Education Group, 1999-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/34732122)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2139151458)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhigher-education-funding-act-1988-determinations-r-nla.obj-2139151458&files=nla.obj-2139151458-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhigher-education-funding-act-1988-determinations-r-nla.obj-2139151458)
+
+### Higher education (Australia. Department of Education, Science and Training)
+**Australia. Department of Education, Science and Training, 2002-2005**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16201802)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-855963932)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhigher-education-australia-department-of-education-nla.obj-855963932&files=nla.obj-855963932-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhigher-education-australia-department-of-education-nla.obj-855963932)
+
+### Higher education report (Australia. Dept. of Education, Science and Training)
+**Australia. Department of Education, Science and Training, 2005-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/20189784)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-961678872)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhigher-education-report-australia-dept-of-educatio-nla.obj-961678872&files=nla.obj-961678872-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhigher-education-report-australia-dept-of-educatio-nla.obj-961678872)
+
 ### Highlander (Sydney, N.S.W.)
+**Australia. Army. New South Wales Scottish Regiment. Battalion, 30th, 1935**  
+Periodical | Periodical/Journal, magazine, other
 
 32 of 32 issues have OCRd text available for download.
 
@@ -854,6 +3429,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhighlander-sydney-n-s-w-nla.obj-8125630)
 
 ### Home (Sydney, N.S.W. : 1920)
+**Smith, Sydney Ure, 1887-1949, 1920-2021**  
+Periodical | Periodical/Journal, magazine, other | Microform | Periodical/Newspaper
 
 229 of 229 issues have OCRd text available for download.
 
@@ -862,7 +3439,75 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhome-sydney-n-s-w-1920-nla.obj-362409353&files=nla.obj-362409353-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhome-sydney-n-s-w-1920-nla.obj-362409353)
 
+### Homes Savings Grant Act 1964 : annual report for the year.....
+**Australia. Department of Environment, Housing and Community Development, 1976**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/8770050)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2057839229)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhomes-savings-grant-act-1964-annual-report-for-the-nla.obj-2057839229&files=nla.obj-2057839229-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhomes-savings-grant-act-1964-annual-report-for-the-nla.obj-2057839229)
+
+### Homes Savings Grant Act 1964, Homes Savings Grant Act 1976 : annual reports for the year ... / Department of Environment, Housing and Community Development
+**Australia. Department of Environment, Housing and Community Development, 1977**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18724972)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2689527348)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhomes-savings-grant-act-1964-homes-savings-grant-a-nla.obj-2689527348&files=nla.obj-2689527348-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhomes-savings-grant-act-1964-homes-savings-grant-a-nla.obj-2689527348)
+
+### Homes Savings Grant Act 1964, Homes Savings Grant Act 1976 : annual reports for the year ... / Department of Housing and Construction
+**Australia, 1978**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19256007)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2689527441)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhomes-savings-grant-act-1964-homes-savings-grant-a-nla.obj-2689527441&files=nla.obj-2689527441-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhomes-savings-grant-act-1964-homes-savings-grant-a-nla.obj-2689527441)
+
+### Homes Savings Grant Act 1976 : annual report for the year ... / Department of Housing and Construction
+**Australia. Department of Housing and Construction, 1979-1980**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18363633)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-837083515)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhomes-savings-grant-act-1976-annual-report-for-the-nla.obj-837083515&files=nla.obj-837083515-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhomes-savings-grant-act-1976-annual-report-for-the-nla.obj-837083515)
+
+### Homes Savings Grant Act : annual report of the Secretary, Department of Housing and Construction for the year ... ..
+**Australia. Department of Housing and Construction, 1974-1975**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12086954)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2057839553)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhomes-savings-grant-act-annual-report-of-the-secre-nla.obj-2057839553&files=nla.obj-2057839553-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhomes-savings-grant-act-annual-report-of-the-secre-nla.obj-2057839553)
+
+### Homes Savings Grant Act : annual report of the Secretary, Department of Housing for the year ... ..
+**Australia. Department of Housing, 1966-1972**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+9 of 9 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11376537)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1166288652)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhomes-savings-grant-act-annual-report-of-the-secre-nla.obj-1166288652&files=nla.obj-1166288652-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhomes-savings-grant-act-annual-report-of-the-secre-nla.obj-1166288652)
+
 ### Honk (Ceramic (Troopship))
+**Australia. Army. Corps, 5th. Ammunition Parks, 1915-1916**  
+Periodical | Periodical/Journal, magazine, other
 
 9 of 9 issues have OCRd text available for download.
 
@@ -872,6 +3517,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhonk-ceramic-troopship-nla.obj-3590239)
 
 ### Horticultural magazine and garden guide
+**1877**  
+Periodical | Periodical/Journal, magazine, other
 
 24 of 24 issues have OCRd text available for download.
 
@@ -881,6 +3528,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhorticultural-magazine-and-garden-guide-nla.obj-1305553439)
 
 ### Hula times
+**Hawaiian Club of Australia, 1939-1940**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -890,6 +3539,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fhula-times-nla.obj-638580284)
 
 ### Il Mentore Cristiano per la gioventu
+**1800-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -898,7 +3549,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fil-mentore-cristiano-per-la-gioventu-nla.obj-60916156&files=nla.obj-60916156-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fil-mentore-cristiano-per-la-gioventu-nla.obj-60916156)
 
+### Immigration Act 1901- ... : return showing, for ... (a) persons refused admission to the Commonwealth (b) persons who passed the dictation test (c) persons admitted without being asked to pass the dictation test (d) departures of coloured persons from the Commonwealth
+**Australia. Parliament, 1900**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238975531)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2568087311)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fimmigration-act-1901-return-showing-for-a-persons--nla.obj-2568087311&files=nla.obj-2568087311-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fimmigration-act-1901-return-showing-for-a-persons--nla.obj-2568087311)
+
 ### Immigration Restriction Act 1901
+**Australia. Parliament. House of Representatives, 1903-1905**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -907,7 +3571,108 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fimmigration-restriction-act-1901-nla.obj-2077407990&files=nla.obj-2077407990-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fimmigration-restriction-act-1901-nla.obj-2077407990)
 
+### Immigration Restriction Acts 1901-1905
+**Australia. Parliament. House of Representatives, The Senate, 1906-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+13 of 13 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/235519319)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2545004951)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fimmigration-restriction-acts-1901-1905-nla.obj-2545004951&files=nla.obj-2545004951-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fimmigration-restriction-acts-1901-1905-nla.obj-2545004951)
+
+### Implementation of the Commonwealth Government responses to the recommendations of the Royal Commission into Aboriginal Deaths in Custody : annual report
+**Australia. Aboriginal and Torres Strait Islander Commission. Royal Commission Government Response Monitoring Unit, 1992-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6582901)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1600137198)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fimplementation-of-the-commonwealth-government-resp-nla.obj-1600137198&files=nla.obj-1600137198-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fimplementation-of-the-commonwealth-government-resp-nla.obj-1600137198)
+
+### Impulso ás letras / redactor J.M. da Silva e Sousa
+**Souza, J. M. da Silva e, 1865-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26894595)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2834590440)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fimpulso-as-letras-redactor-j-m-da-silva-e-sousa-nla.obj-2834590440&files=nla.obj-2834590440-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fimpulso-as-letras-redactor-j-m-da-silva-e-sousa-nla.obj-2834590440)
+
+### Income tax statistics (Canberra, A.C.T. : 1973)
+**Australia. Treasury, 1974-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+21 of 21 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26651832)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-827988414)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fincome-tax-statistics-canberra-a-c-t-1973-nla.obj-827988414&files=nla.obj-827988414-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fincome-tax-statistics-canberra-a-c-t-1973-nla.obj-827988414)
+
+### Income tax statistics (Canberra, A.C.T.)
+**Australia. Taxation Branch, 1963-1964**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11691253)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-837147950)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fincome-tax-statistics-canberra-a-c-t-nla.obj-837147950&files=nla.obj-837147950-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fincome-tax-statistics-canberra-a-c-t-nla.obj-837147950)
+
+### Industries Assistance Commission report
+**Australia. Industries Assistance Commission, 1900-1990**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+425 of 429 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13479906)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-823714584)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Findustries-assistance-commission-report-nla.obj-823714584&files=nla.obj-823714584-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Findustries-assistance-commission-report-nla.obj-823714584)
+
+### Industry statistics (Canberra, A.C.T.)
+**Australia. Insurance and Superannuation Commission, 1988**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18936748)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1941237543)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Findustry-statistics-canberra-a-c-t-nla.obj-1941237543&files=nla.obj-1941237543-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Findustry-statistics-canberra-a-c-t-nla.obj-1941237543)
+
+### Innovation Australia : activities of the Venture Capital Registration Board : annual report .
+**Australia. Venture Capital Registration Board, 2007-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/8254758)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-989823364)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Finnovation-australia-activities-of-the-venture-cap-nla.obj-989823364&files=nla.obj-989823364-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Finnovation-australia-activities-of-the-venture-cap-nla.obj-989823364)
+
+### Inquiry report (Australia. Productivity Commission)
+**Australia. Productivity Commission, 1998-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Archived website
+
+60 of 71 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/28247741)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-666536454)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Finquiry-report-australia-productivity-commission-nla.obj-666536454&files=nla.obj-666536454-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Finquiry-report-australia-productivity-commission-nla.obj-666536454)
+
 ### Inside Indonesia : bulletin of the Indonesia Resources and Information Programme
+**Indonesia Resources and Information Programme (Australia), 1983-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 89 of 89 issues have OCRd text available for download.
 
@@ -916,7 +3681,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Finside-indonesia-bulletin-of-the-indonesia-resourc-nla.obj-88227234&files=nla.obj-88227234-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Finside-indonesia-bulletin-of-the-indonesia-resourc-nla.obj-88227234)
 
+### Interim report on investigation into present position of Tasmania / Development and Migration Commission
+**Australia. Development and Migration Commission, 1927**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/20996993)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2615263896)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Finterim-report-on-investigation-into-present-posit-nla.obj-2615263896&files=nla.obj-2615263896-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Finterim-report-on-investigation-into-present-posit-nla.obj-2615263896)
+
 ### International Labour Conference ... session ... : Australian Delegation report
+**Australia. Delegation to the International Labour Conference, 1966-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 14 of 14 issues have OCRd text available for download.
 
@@ -925,7 +3703,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Finternational-labour-conference-session-australian-nla.obj-1717950149&files=nla.obj-1717950149-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Finternational-labour-conference-session-australian-nla.obj-1717950149)
 
+### International accountants' journal : official organ of the International Accountants Corporation and Bookkeepers Institute of Australasia
+**International Accountants Corporation and Bookkeepers Institute of Australasia, 1929**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/24608588)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2942278153)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Finternational-accountants-journal-official-organ-o-nla.obj-2942278153&files=nla.obj-2942278153-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Finternational-accountants-journal-official-organ-o-nla.obj-2942278153)
+
 ### International directory (Adelaide, S.A.)
+**1927**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -934,7 +3725,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Finternational-directory-adelaide-s-a-nla.obj-851660905&files=nla.obj-851660905-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Finternational-directory-adelaide-s-a-nla.obj-851660905)
 
+### Investing in our natural and cultural heritage : the Commonwealth's environment expenditure ... / statement by ... , Minister for the Environment and Heritage
+**Australia. Environment Australia, 1999-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/32624614)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1563224833)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Finvesting-in-our-natural-and-cultural-heritage-the-nla.obj-1563224833&files=nla.obj-1563224833-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Finvesting-in-our-natural-and-cultural-heritage-the-nla.obj-1563224833)
+
+### Investing in our natural heritage : the Commonwealth's environment expenditure ... / statement by ... , Minister for the Environment
+**Australia. Department of the Environment, 1997-1998**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/8346127)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1600005617)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Finvesting-in-our-natural-heritage-the-commonwealth-nla.obj-1600005617&files=nla.obj-1600005617-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Finvesting-in-our-natural-heritage-the-commonwealth-nla.obj-1600005617)
+
 ### Ironside's advertiser and Sydney price current (Online)
+**1835**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -943,7 +3758,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fironside-s-advertiser-and-sydney-price-current-onl-nla.obj-731256985&files=nla.obj-731256985-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fironside-s-advertiser-and-sydney-price-current-onl-nla.obj-731256985)
 
+### J. Cox and Co's Australian almanac
+**1857-1858**  
+Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18165276)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2886952021)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fj-cox-and-co-s-australian-almanac-nla.obj-2886952021&files=nla.obj-2886952021-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fj-cox-and-co-s-australian-almanac-nla.obj-2886952021)
+
 ### Jahrbuch uber die Evangelisch-Lutherische Mission in Neuguinea
+**1925**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -953,6 +3781,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjahrbuch-uber-die-evangelisch-lutherische-mission--nla.obj-291668456)
 
 ### Jewish missionary intelligence
+**London Society for Promoting Christianity Amongst the Jews, 1893-1946**  
+Periodical | Periodical/Journal, magazine, other
 
 24 of 24 issues have OCRd text available for download.
 
@@ -961,7 +3791,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjewish-missionary-intelligence-nla.obj-265488023&files=nla.obj-265488023-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjewish-missionary-intelligence-nla.obj-265488023)
 
+### Jiao yu xin li jiang zuo yan jiu bao gao
+**Zhonghua jiao yu wen hua ji jin dong shi hui, 1929**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12605344)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-82717308)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjiao-yu-xin-li-jiang-zuo-yan-jiu-bao-gao-nla.obj-82717308&files=nla.obj-82717308-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjiao-yu-xin-li-jiang-zuo-yan-jiu-bao-gao-nla.obj-82717308)
+
+### Jindyworobak publications : list of available and projected books
+**Jindyworobak Club, 1940**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/34992338)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2931196221)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjindyworobak-publications-list-of-available-and-pr-nla.obj-2931196221&files=nla.obj-2931196221-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjindyworobak-publications-list-of-available-and-pr-nla.obj-2931196221)
+
 ### Journal and proceedings (Australian Historical Society)
+**Australian Historical Society, 1901-1918**  
+Periodical | Periodical/Journal, magazine, other
 
 46 of 46 issues have OCRd text available for download.
 
@@ -971,6 +3825,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournal-and-proceedings-australian-historical-soci-nla.obj-283107843)
 
 ### Journal and proceedings (Royal Australian Historical Society)
+**Royal Australian Historical Society, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 294 of 295 issues have OCRd text available for download.
 
@@ -980,6 +3836,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournal-and-proceedings-royal-australian-historica-nla.obj-579216301)
 
 ### Journal and transactions / the Society of Engineers (incorporated)
+**Society of Engineers (London, England), 1950-1962**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -989,6 +3847,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournal-and-transactions-the-society-of-engineers--nla.obj-523874935)
 
 ### Journal of proceedings (Royal Victorian Institute of Architects)
+**Royal Institute of British Architects, 1885-1926**  
+Periodical | Periodical/Journal, magazine, other
 
 120 of 120 issues have OCRd text available for download.
 
@@ -998,6 +3858,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournal-of-proceedings-royal-victorian-institute-o-nla.obj-395618641)
 
 ### Journal of proceedings of the Royal Victorian Institute of Architects
+**Royal Institute of British Architects, 1926-1929**  
+Periodical | Periodical/Journal, magazine, other
 
 18 of 18 issues have OCRd text available for download.
 
@@ -1006,7 +3868,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournal-of-proceedings-of-the-royal-victorian-inst-nla.obj-395626374&files=nla.obj-395626374-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournal-of-proceedings-of-the-royal-victorian-inst-nla.obj-395626374)
 
+### Journal of soil conservation, New South Wales
+**Soil Conservation Service of New South Wales, 1945-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+183 of 183 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10411388)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-740911077)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournal-of-soil-conservation-new-south-wales-nla.obj-740911077&files=nla.obj-740911077-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournal-of-soil-conservation-new-south-wales-nla.obj-740911077)
+
+### Journal of soil conservation, New South Wales
+**Soil Conservation Service of New South Wales, 1945-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+13 of 13 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10411388)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-758603548)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournal-of-soil-conservation-new-south-wales-nla.obj-758603548&files=nla.obj-758603548-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournal-of-soil-conservation-new-south-wales-nla.obj-758603548)
+
 ### Journal of the China Branch of the Royal Asiatic Society for the year ..
+**Royal Asiatic Society of Great Britain and Ireland. China Branch, 1884-1905**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1016,6 +3902,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournal-of-the-china-branch-of-the-royal-asiatic-s-nla.obj-689870804)
 
 ### Journal of the Institute of Architects of New South Wales
+**Institute of Architects of New South Wales, 1904**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 4 of 4 issues have OCRd text available for download.
 
@@ -1025,6 +3913,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournal-of-the-institute-of-architects-of-new-sout-nla.obj-815018361)
 
 ### Journal of the Pioneers and Old Residents' Association
+**Castlemaine Association of Pioneers and Old Residents, 1888-1900**  
+Periodical | Periodical/Journal, magazine, other
 
 12 of 12 issues have OCRd text available for download.
 
@@ -1033,7 +3923,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournal-of-the-pioneers-and-old-residents-associat-nla.obj-458085053&files=nla.obj-458085053-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournal-of-the-pioneers-and-old-residents-associat-nla.obj-458085053)
 
+### Journal of the Royal Military College of Australia
+**Royal Military College (Duntroon, A.C.T.), 1913-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+54 of 54 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5571768)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-734748369)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournal-of-the-royal-military-college-of-australia-nla.obj-734748369&files=nla.obj-734748369-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournal-of-the-royal-military-college-of-australia-nla.obj-734748369)
+
 ### Journal of the Royal Victorian Institute of Architects
+**Royal Institute of British Architects, 1929-1942**  
+Periodical | Periodical/Journal, magazine, other
 
 68 of 68 issues have OCRd text available for download.
 
@@ -1042,16 +3945,9 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournal-of-the-royal-victorian-institute-of-archit-nla.obj-395634663&files=nla.obj-395634663-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournal-of-the-royal-victorian-institute-of-archit-nla.obj-395634663)
 
-### Journalist (Sydney, N.S.W.)
-
-57 of 57 issues have OCRd text available for download.
-
-* [Details on Trove](https://trove.nla.gov.au/work/5550578)
-* [Browse issues on Trove](https://nla.gov.au/nla.obj-2055051665)
-* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournalist-sydney-n-s-w-nla.obj-2055051665&files=nla.obj-2055051665-issues.csv)
-* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjournalist-sydney-n-s-w-nla.obj-2055051665)
-
 ### Junior Red Cross record : official organ of the J.R.C. of N.S.W
+**Junior Red Cross of New South Wales, 1919-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 9 of 9 issues have OCRd text available for download.
 
@@ -1061,6 +3957,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fjunior-red-cross-record-official-organ-of-the-j-r--nla.obj-69071687)
 
 ### K.C.C. kennel gazette : the official organ of the publishers, the Kennel Control Council
+**Kennel Control Council (Vic.), 1932-1962**  
+Periodical | Periodical/Journal, magazine, other
 
 360 of 360 issues have OCRd text available for download.
 
@@ -1070,6 +3968,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fk-c-c-kennel-gazette-the-official-organ-of-the-pub-nla.obj-760030452)
 
 ### Kampspiegel Monatshefte : illustrierte zeitschrift fur die Kriegsgefangenen in Australien
+**1918**  
+Periodical | Periodical/Journal, magazine, other
 
 9 of 9 issues have OCRd text available for download.
 
@@ -1078,7 +3978,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fkampspiegel-monatshefte-illustrierte-zeitschrift-f-nla.obj-25844222&files=nla.obj-25844222-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fkampspiegel-monatshefte-illustrierte-zeitschrift-f-nla.obj-25844222)
 
+### Kerr's Melbourne almanac and Port Phillip directory for ... : a compendium of useful and accurate information connected with Port Phillip
+**1800**  
+Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21505055)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2868641758)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fkerr-s-melbourne-almanac-and-port-phillip-director-nla.obj-2868641758&files=nla.obj-2868641758-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fkerr-s-melbourne-almanac-and-port-phillip-director-nla.obj-2868641758)
+
 ### Kogarah school magazine
+**Kogarah School, 1921-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 6 issues have OCRd text available for download.
 
@@ -1088,6 +4001,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fkogarah-school-magazine-nla.obj-2387126210)
 
 ### Kwato Mission tidings
+**Kwato Extension Association, 1931**  
+Periodical | Periodical/Journal, magazine, other
 
 13 of 14 issues have OCRd text available for download.
 
@@ -1097,6 +4012,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fkwato-mission-tidings-nla.obj-287612280)
 
 ### La Vie Ormondaise
+**1919**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1106,6 +4023,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fla-vie-ormondaise-nla.obj-5745053)
 
 ### Ladder (Victoria Park, W.A.)
+**Australian Aborigines' Amelioration Association, 1936-1939**  
+Periodical | Periodical/Journal, magazine, other
 
 10 of 10 issues have OCRd text available for download.
 
@@ -1115,6 +4034,41 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fladder-victoria-park-w-a-nla.obj-2164526263)
 
 ### Laws, etc
+**Northern Territory, 1900-1977**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18588210)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-53997640)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-53997640&files=nla.obj-53997640-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-53997640)
+
+### Laws, etc
+**Western Australia, 1801-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+17 of 18 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19257118)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-55208664)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55208664&files=nla.obj-55208664-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55208664)
+
+### Laws, etc
+**Western Australia, 1841-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5705502)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-55568008)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55568008&files=nla.obj-55568008-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-55568008)
+
+### Laws, etc
+**Papua, 1906-1945**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1123,7 +4077,97 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-25561358&files=nla.obj-25561358-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-25561358)
 
+### Laws, etc
+**Queensland, 1800-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 11 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13426710)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-54468076)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-54468076&files=nla.obj-54468076-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-54468076)
+
+### Laws, etc
+**Northern Territory, 1961-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9383231)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-54933471)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-54933471&files=nla.obj-54933471-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-54933471)
+
+### Laws, etc
+**South Australia, 1800-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+19 of 19 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5697742)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-53890906)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-53890906&files=nla.obj-53890906-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-nla.obj-53890906)
+
+### Laws, etc. (Acts of Parliament of Victoria)
+**Victoria, 1800-1900**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+3 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12412785)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-54185597)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-acts-of-parliament-of-victoria-nla.obj-54185597&files=nla.obj-54185597-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-acts-of-parliament-of-victoria-nla.obj-54185597)
+
+### Laws, etc. (Acts of the Parliament)
+**Victoria, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Microform
+
+15 of 15 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10078182)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-54127737)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-acts-of-the-parliament-nla.obj-54127737&files=nla.obj-54127737-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-acts-of-the-parliament-nla.obj-54127737)
+
+### Laws, etc. (Acts of the Victorian Parliament)
+**Victoria, 1865-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26625903)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-55252550)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-acts-of-the-victorian-parliament-nla.obj-55252550&files=nla.obj-55252550-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-acts-of-the-victorian-parliament-nla.obj-55252550)
+
+### Laws, etc. (Acts)
+**Tasmania, 1822-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+13 of 13 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18065300)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-53819823)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-acts-nla.obj-53819823&files=nla.obj-53819823-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-acts-nla.obj-53819823)
+
+### Laws, etc. (Laws of the Australian Capital Territory)
+**Australian Capital Territory, 1938-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/17413554)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-54089858)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-laws-of-the-australian-capital-territory-nla.obj-54089858&files=nla.obj-54089858-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flaws-etc-laws-of-the-australian-capital-territory-nla.obj-54089858)
+
 ### Lesbians on the loose
+**1900-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 110 of 110 issues have OCRd text available for download.
 
@@ -1133,6 +4177,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flesbians-on-the-loose-nla.obj-851395032)
 
 ### Letter from Bishop Willis and report for... of the Anglican Church in Tonga
+**Anglican Church in Tonga, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 11 of 11 issues have OCRd text available for download.
 
@@ -1141,7 +4187,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fletter-from-bishop-willis-and-report-for-of-the-an-nla.obj-291423533&files=nla.obj-291423533-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fletter-from-bishop-willis-and-report-for-of-the-an-nla.obj-291423533)
 
+### Liberty (Sydney, N.S.W. : Online)
+**1932-1934**  
+Periodical | Periodical/Journal, magazine, other
+
+21 of 21 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238033248)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-760289107)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fliberty-sydney-n-s-w-online-nla.obj-760289107&files=nla.obj-760289107-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fliberty-sydney-n-s-w-online-nla.obj-760289107)
+
 ### Liberty (Sydney, N.S.W.)
+**1932-1934**  
+Periodical | Periodical/Journal, magazine, other
 
 21 of 21 issues have OCRd text available for download.
 
@@ -1151,6 +4210,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fliberty-sydney-n-s-w-nla.obj-760289107)
 
 ### Liberty (Victorian Democratic Rights Council)
+**Victorian Democratic Rights Council, 1950-1951**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -1160,6 +4221,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fliberty-victorian-democratic-rights-council-nla.obj-88851801)
 
 ### Life's continuing study of magazine audiences
+**Committee to Study Weekly Magazine Audiences, 1938-1947**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -1168,7 +4231,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flife-s-continuing-study-of-magazine-audiences-nla.obj-25542067&files=nla.obj-25542067-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flife-s-continuing-study-of-magazine-audiences-nla.obj-25542067)
 
+### Lincoln flock book : being a register of pure-bred Lincoln flocks in every state in the Commonwealth of Australia / Australian Longwool Sheepbreeders' Association
+**Australian Longwool Sheepbreeders' Association, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/32287330)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2946791855)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flincoln-flock-book-being-a-register-of-pure-bred-l-nla.obj-2946791855&files=nla.obj-2946791855-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flincoln-flock-book-being-a-register-of-pure-bred-l-nla.obj-2946791855)
+
+### List of commonwealth bodies / Senate Standing Committee on Finance and Government Operations
+**Australia. Parliament. Senate. Standing Committee on Finance and Government Operations, 1987-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9027351)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1313780550)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flist-of-commonwealth-bodies-senate-standing-commit-nla.obj-1313780550&files=nla.obj-1313780550-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flist-of-commonwealth-bodies-senate-standing-commit-nla.obj-1313780550)
+
 ### Listening post (Sydney, N.S.W.)
+**2SER-FM (Radio station : Sydney, N.S.W.), 1979-1998**  
+Periodical | Periodical/Journal, magazine, other
 
 138 of 138 issues have OCRd text available for download.
 
@@ -1177,7 +4264,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flistening-post-sydney-n-s-w-nla.obj-1447219380&files=nla.obj-1447219380-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flistening-post-sydney-n-s-w-nla.obj-1447219380)
 
+### Literary news (Online)
+**1837-1838**  
+Periodical | Periodical/Journal, magazine, other
+
+26 of 26 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238002346)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-765536757)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fliterary-news-online-nla.obj-765536757&files=nla.obj-765536757-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fliterary-news-online-nla.obj-765536757)
+
+### Local government national report ... : report on the operation of the Local Government (Financial Assistance) Act 1995
+**Australia. National Office of Local Government, 1996-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/24067556)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-998241323)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flocal-government-national-report-report-on-the-ope-nla.obj-998241323&files=nla.obj-998241323-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Flocal-government-national-report-report-on-the-ope-nla.obj-998241323)
+
 ### M. & H. magazine
+**Australia. Army. Australian General Hospital, 5th, 1918-1924**  
+Periodical | Periodical/Journal, magazine, other
 
 9 of 9 issues have OCRd text available for download.
 
@@ -1187,6 +4298,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fm-h-magazine-nla.obj-62417183)
 
 ### Macivor's farmers' year book : the Australasian agricultural annual
+**1800-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1196,6 +4309,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmacivor-s-farmers-year-book-the-australasian-agric-nla.obj-427445807)
 
 ### Mackay's Australian almanac for ..
+**Ramsay, T.M., 1861-1877**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -1204,7 +4319,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmackay-s-australian-almanac-for-nla.obj-448176790&files=nla.obj-448176790-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmackay-s-australian-almanac-for-nla.obj-448176790)
 
+### Magazine
+**Royal Australian Naval College, 1913-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13446863)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-8045075)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmagazine-nla.obj-8045075&files=nla.obj-8045075-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmagazine-nla.obj-8045075)
+
 ### Magazine / Bamaga P-12 School
+**Bamaga P-12 School, 1999-2004**  
+Periodical | Periodical/Journal, magazine, other
 
 6 of 6 issues have OCRd text available for download.
 
@@ -1214,6 +4342,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmagazine-bamaga-p-12-school-nla.obj-526662719)
 
 ### Magazine / Fawkner Subschool
+**Fawkner Subschool, 1975-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 4 of 4 issues have OCRd text available for download.
 
@@ -1223,6 +4353,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmagazine-fawkner-subschool-nla.obj-355881248)
 
 ### Make 'n' break : unofficial organ of the 57 Aust. Fd. Park Coy. R.A.E. and 329 Aust. L.A.D. A.E.M.E
+**Australia. Army. Royal Australian Engineers. Field Park Company, 57th, 1943**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1231,7 +4363,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmake-n-break-unofficial-organ-of-the-57-aust-fd-pa-nla.obj-324578575&files=nla.obj-324578575-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmake-n-break-unofficial-organ-of-the-57-aust-fd-pa-nla.obj-324578575)
 
+### Manila carnival recreation center commer : commercial and industrial fair February 7 to 15, 1925
+**Philippines Carnival Association, 1925-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10505336)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2924303349)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmanila-carnival-recreation-center-commer-commercia-nla.obj-2924303349&files=nla.obj-2924303349-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmanila-carnival-recreation-center-commer-commercia-nla.obj-2924303349)
+
 ### Manual of public examinations
+**University of Sydney, 1800-1919**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1240,16 +4385,97 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmanual-of-public-examinations-nla.obj-719534812&files=nla.obj-719534812-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmanual-of-public-examinations-nla.obj-719534812)
 
-### Melbourne punch's almanack
+### Marine Sciences and Technologies (M.S.T.) Research Grants Scheme : report of grants approved for ... / Australian Marine Sciences and Technologies Advisory Committee, Funding Advisory Panel
+**Australian Marine Sciences and Technologies Advisory Committee. Funding Advisory Panel, 1981-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/25140980)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1430766583)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmarine-sciences-and-technologies-m-s-t-research-gr-nla.obj-1430766583&files=nla.obj-1430766583-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmarine-sciences-and-technologies-m-s-t-research-gr-nla.obj-1430766583)
+
+### Marine Sciences and Technologies (MST) Grants Scheme and Queen's Fellowships Scheme : report of grants approved and fellowships awarded for ... / Queen's Fellowships and Marine Research Allocations Advisory Committee
+**Australia. Queen's Fellowships and Marine Research Allocations Advisory Committee, 1983-1984**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21452730)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1430778960)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmarine-sciences-and-technologies-mst-grants-scheme-nla.obj-1430778960&files=nla.obj-1430778960-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmarine-sciences-and-technologies-mst-grants-scheme-nla.obj-1430778960)
+
+### Maryborough almanack
+**1800-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
+* [Details on Trove](https://trove.nla.gov.au/work/7461417)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2922890097)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmaryborough-almanack-nla.obj-2922890097&files=nla.obj-2922890097-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmaryborough-almanack-nla.obj-2922890097)
+
+### Medical research (1982)
+**National Health and Medical Research Council (Australia), 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+11 of 11 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/7814404)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1310990105)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmedical-research-1982-nla.obj-1310990105&files=nla.obj-1310990105-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmedical-research-1982-nla.obj-1310990105)
+
+### Medical research : report upon the work done under the Medical research endowment act
+**National Health and Medical Research Council (Australia), 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12321479)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2057739846)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmedical-research-report-upon-the-work-done-under-t-nla.obj-2057739846&files=nla.obj-2057739846-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmedical-research-report-upon-the-work-done-under-t-nla.obj-2057739846)
+
+### Medical research projects .. : report upon the work under the Medical Research Endowment Act ... / National Health and Medical Research Council
+**National Health and Medical Research Council (Australia), 1973-1981**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19395028)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1423625129)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmedical-research-projects-report-upon-the-work-und-nla.obj-1423625129&files=nla.obj-1423625129-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmedical-research-projects-report-upon-the-work-und-nla.obj-1423625129)
+
+### Medical research projects .. : report upon the work under the Medical Research Endowment Act ... / National Health and Medical Research Council
+**National Health and Medical Research Council (Australia), 1973-1981**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19395028)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1285442844)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmedical-research-projects-report-upon-the-work-und-nla.obj-1285442844&files=nla.obj-1285442844-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmedical-research-projects-report-upon-the-work-und-nla.obj-1285442844)
+
+### Melbourne punch's almanack
+**British Library. Newspaper Library, 1856-1890**  
+Periodical/Newspaper | Periodical | Microform
+
+2 of 2 issues have OCRd text available for download.
+
 * [Details on Trove](https://trove.nla.gov.au/work/22484065)
-* [Browse issues on Trove](http://nla.gov.au/nla.obj-471597893)
-* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmelbourne-punch-s-almanack-nla.obj-471597893&files=nla.obj-471597893-issues.csv)
-* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmelbourne-punch-s-almanack-nla.obj-471597893)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2865885551)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmelbourne-punch-s-almanack-nla.obj-2865885551&files=nla.obj-2865885551-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmelbourne-punch-s-almanack-nla.obj-2865885551)
 
 ### Memorandum by the Minister of State for Defence on the Estimates of the Defence Department for the Financial year ..
+**Australia. Parliament. House of Representatives, 1904-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 9 of 9 issues have OCRd text available for download.
 
@@ -1259,6 +4485,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmemorandum-by-the-minister-of-state-for-defence-on-nla.obj-2009886133)
 
 ### Mernda magazine
+**Hayes, Herbert E. E. (Herbert Edward Elton), 1900**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -1267,7 +4495,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmernda-magazine-nla.obj-38378641&files=nla.obj-38378641-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmernda-magazine-nla.obj-38378641)
 
+### Metal Working Machine Tools Bounty Act. Parliament of the Commonwealth of Australia
+**Australia. Parliament, 1973-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6761318)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1277358211)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmetal-working-machine-tools-bounty-act-parliament--nla.obj-1277358211&files=nla.obj-1277358211-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmetal-working-machine-tools-bounty-act-parliament--nla.obj-1277358211)
+
 ### Mezamashi chinbun
+**Shinshindō, 1885-1886**  
+Periodical | Periodical/Journal, magazine, other
 
 14 of 14 issues have OCRd text available for download.
 
@@ -1277,6 +4518,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmezamashi-chinbun-nla.obj-284223979)
 
 ### Middlesex Yeomanry magazine
+**Great Britain. Army. Middlesex Yeomanry, 1910**  
+Periodical | Periodical/Journal, magazine, other
 
 5 of 5 issues have OCRd text available for download.
 
@@ -1286,6 +4529,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmiddlesex-yeomanry-magazine-nla.obj-18408295)
 
 ### Mimag / Mount Isa Mines Limited
+**Mount Isa Mines Limited, 1947-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 302 of 302 issues have OCRd text available for download.
 
@@ -1295,6 +4540,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmimag-mount-isa-mines-limited-nla.obj-302106893)
 
 ### Miners' advocate and Northumberland recorder
+**1873-1876**  
+Periodical/Newspaper | Periodical | Microform
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1303,7 +4550,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fminers-advocate-and-northumberland-recorder-nla.obj-692524051&files=nla.obj-692524051-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fminers-advocate-and-northumberland-recorder-nla.obj-692524051)
 
+### Minutes and votes and proceedings of the Parliament ... with papers presented to both Houses
+**Western Australia. Parliament, 1890-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+20 of 20 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18644372)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-61348267)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fminutes-and-votes-and-proceedings-of-the-parliamen-nla.obj-61348267&files=nla.obj-61348267-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fminutes-and-votes-and-proceedings-of-the-parliamen-nla.obj-61348267)
+
 ### Minutes of several conversations between the ministers of the Australasian Wesleyan Methodist Church at their ... annual conference
+**Australasian Wesleyan Methodist Church. Annual Conference, 1800-1873**  
+Conference Proceedings | Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -1313,6 +4573,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fminutes-of-several-conversations-between-the-minis-nla.obj-381363069)
 
 ### Monster comic (Sydney, N.S.W.)
+**Miller, Syd, 1901-1983, 1945**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1321,7 +4583,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmonster-comic-sydney-n-s-w-nla.obj-31915643&files=nla.obj-31915643-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmonster-comic-sydney-n-s-w-nla.obj-31915643)
 
+### Month (Sydney, N.S.W. : Online)
+**1857-1860**  
+Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238004028)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-597762006)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmonth-sydney-n-s-w-online-nla.obj-597762006&files=nla.obj-597762006-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmonth-sydney-n-s-w-online-nla.obj-597762006)
+
 ### Month (Sydney, N.S.W.)
+**Moore, J. Sheridan, 1857-1860**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -1330,7 +4605,75 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmonth-sydney-n-s-w-nla.obj-597762006&files=nla.obj-597762006-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmonth-sydney-n-s-w-nla.obj-597762006)
 
+### Monthly bulletin of employment statistics : wage and salary earners in employment / Commonwealth Bureau of Census and Statistics
+**Commonwealth Bureau of Census and Statistics (Australia), 1942-1963**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18606165)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2955861625)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmonthly-bulletin-of-employment-statistics-wage-and-nla.obj-2955861625&files=nla.obj-2955861625-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmonthly-bulletin-of-employment-statistics-wage-and-nla.obj-2955861625)
+
+### Monthly survey of employment statistics / Commonwealth Bureau of Census and Statistics
+**Commonwealth Bureau of Census and Statistics (Australia), 1941-1942**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18606115)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2955851902)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmonthly-survey-of-employment-statistics-commonweal-nla.obj-2955851902&files=nla.obj-2955851902-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmonthly-survey-of-employment-statistics-commonweal-nla.obj-2955851902)
+
+### Moore's Australian almanac and country directory for the year ..
+**1880-1900**  
+Periodical | Periodical/Journal, magazine, other
+
+15 of 15 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19490530)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2923969776)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmoore-s-australian-almanac-and-country-directory-f-nla.obj-2923969776&files=nla.obj-2923969776-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmoore-s-australian-almanac-and-country-directory-f-nla.obj-2923969776)
+
+### Moore's Australian almanac and hand-book for the year ..
+**1850-1880**  
+Periodical | Periodical/Journal, magazine, other
+
+19 of 19 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19490518)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2923146178)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmoore-s-australian-almanac-and-hand-book-for-the-y-nla.obj-2923146178&files=nla.obj-2923146178-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmoore-s-australian-almanac-and-hand-book-for-the-y-nla.obj-2923146178)
+
+### Moore's almanac and hand book for New South Wales for the year ..
+**1852**  
+Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19490540)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2922908149)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmoore-s-almanac-and-hand-book-for-new-south-wales--nla.obj-2922908149&files=nla.obj-2922908149-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmoore-s-almanac-and-hand-book-for-new-south-wales--nla.obj-2922908149)
+
+### Moore's improved Melbourne almanack for the year ..
+**1800**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21268038)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2922806394)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmoore-s-improved-melbourne-almanack-for-the-year-nla.obj-2922806394&files=nla.obj-2922806394-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmoore-s-improved-melbourne-almanack-for-the-year-nla.obj-2922806394)
+
 ### Mountain mists : a monthly magazine / published by the convalescent soldiers of Bodington, N.S.W
+**1920**  
+Periodical | Periodical/Journal, magazine, other
 
 21 of 21 issues have OCRd text available for download.
 
@@ -1339,7 +4682,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmountain-mists-a-monthly-magazine-published-by-the-nla.obj-14556908&files=nla.obj-14556908-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmountain-mists-a-monthly-magazine-published-by-the-nla.obj-14556908)
 
+### Munro & Cowie's Port Curtis almanac and miners' and settlers' companion for ..
+**1800-1890**  
+Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19554488)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2880641402)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmunro-cowie-s-port-curtis-almanac-and-miners-and-s-nla.obj-2880641402&files=nla.obj-2880641402-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmunro-cowie-s-port-curtis-almanac-and-miners-and-s-nla.obj-2880641402)
+
+### Munro's Port Curtis almanac and miners' and settlers' companion for ..
+**1800**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19554481)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2880473460)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmunro-s-port-curtis-almanac-and-miners-and-settler-nla.obj-2880473460&files=nla.obj-2880473460-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmunro-s-port-curtis-almanac-and-miners-and-settler-nla.obj-2880473460)
+
+### Munro's Port Curtis almanac and miners' and settlers' companion for ... (Rockhampton, Qld.  : 1898)
+**1890**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19554521)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2880947463)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmunro-s-port-curtis-almanac-and-miners-and-settler-nla.obj-2880947463&files=nla.obj-2880947463-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmunro-s-port-curtis-almanac-and-miners-and-settler-nla.obj-2880947463)
+
 ### Murray's Austral-Asiatic review
+**1828**  
+Periodical | Periodical/Journal, magazine, other
 
 5 of 5 issues have OCRd text available for download.
 
@@ -1348,7 +4726,75 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmurray-s-austral-asiatic-review-nla.obj-358892258&files=nla.obj-358892258-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmurray-s-austral-asiatic-review-nla.obj-358892258)
 
+### Na Viti : na nodra pepa na gone i taukei e Viti = Viti, a magazine for young Fiji
+**Derrick, R. A. (Ronald Albert), 1892-1960, 1924-1925**  
+Periodical | Periodical/Journal, magazine, other
+
+9 of 9 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22331084)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2887895123)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fna-viti-na-nodra-pepa-na-gone-i-taukei-e-viti-viti-nla.obj-2887895123&files=nla.obj-2887895123-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fna-viti-na-nodra-pepa-na-gone-i-taukei-e-viti-viti-nla.obj-2887895123)
+
+### National accounting estimates of public authority receipts and expenditure / issued by the Commonwealth Treasury
+**Australia. Treasury, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18733491)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1571558706)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnational-accounting-estimates-of-public-authority--nla.obj-1571558706&files=nla.obj-1571558706-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnational-accounting-estimates-of-public-authority--nla.obj-1571558706)
+
+### National accounting estimates of receipts and outlays of Commonwealth Government authorities
+**1977-1981**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/235106868)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-838156597)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnational-accounting-estimates-of-receipts-and-outl-nla.obj-838156597&files=nla.obj-838156597-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnational-accounting-estimates-of-receipts-and-outl-nla.obj-838156597)
+
+### National fitness in Australia
+**Australia. Department of Home Affairs, 1970-1980**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+11 of 11 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5532985)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-836956100)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnational-fitness-in-australia-nla.obj-836956100&files=nla.obj-836956100-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnational-fitness-in-australia-nla.obj-836956100)
+
+### National fitness, Australia
+**Australia. Department of Health, 1967-1970**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5710513)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2237504551)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnational-fitness-australia-nla.obj-2237504551&files=nla.obj-2237504551-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnational-fitness-australia-nla.obj-2237504551)
+
+### National income and expenditure  (Canberra, A.C.T.)
+**Australian Bureau of Statistics, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+47 of 47 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10402658)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-838158930)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnational-income-and-expenditure-canberra-a-c-t-nla.obj-838158930&files=nla.obj-838158930-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnational-income-and-expenditure-canberra-a-c-t-nla.obj-838158930)
+
 ### National record (Canberra Australian National Football League)
+**Canberra Australian National Football League, 1928**  
+Periodical | Periodical/Journal, magazine, other
 
 21 of 21 issues have OCRd text available for download.
 
@@ -1357,7 +4803,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnational-record-canberra-australian-national-footb-nla.obj-319258338&files=nla.obj-319258338-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnational-record-canberra-australian-national-footb-nla.obj-319258338)
 
+### Nationality Act : return of number of persons to whom Certificates of Naturalization were granted during ... ..
+**Australia. Parliament, 1922-1940**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/239052200)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2586931896)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnationality-act-return-of-number-of-persons-to-who-nla.obj-2586931896&files=nla.obj-2586931896-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnationality-act-return-of-number-of-persons-to-who-nla.obj-2586931896)
+
+### Naturalization Act : (return of number of persons to whom Certificates of Naturalization were granted during ... ..
+**Australia. Parliament, 1906-1920**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/239052202)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2587084899)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnaturalization-act-return-of-number-of-persons-to--nla.obj-2587084899&files=nla.obj-2587084899-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnaturalization-act-return-of-number-of-persons-to--nla.obj-2587084899)
+
 ### New Guinea tidings
+**Kwato Extension Association, 1923-1930**  
+Periodical | Periodical/Journal, magazine, other
 
 22 of 22 issues have OCRd text available for download.
 
@@ -1366,7 +4836,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnew-guinea-tidings-nla.obj-287422133&files=nla.obj-287422133-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnew-guinea-tidings-nla.obj-287422133)
 
+### New South Wales law almanac for ..
+**1850-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12833436)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-447069643)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnew-south-wales-law-almanac-for-nla.obj-447069643&files=nla.obj-447069643-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnew-south-wales-law-almanac-for-nla.obj-447069643)
+
+### New South Wales magazine (1833 : Online)
+**1833-1834**  
+Periodical | Periodical/Journal, magazine, other
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238053011)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-753076802)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnew-south-wales-magazine-1833-online-nla.obj-753076802&files=nla.obj-753076802-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnew-south-wales-magazine-1833-online-nla.obj-753076802)
+
 ### New South Wales magazine (1833)
+**1833-1834**  
+Periodical | Periodical/Journal, magazine, other
 
 8 of 8 issues have OCRd text available for download.
 
@@ -1375,7 +4869,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnew-south-wales-magazine-1833-nla.obj-753076802&files=nla.obj-753076802-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnew-south-wales-magazine-1833-nla.obj-753076802)
 
+### New South Wales pocket almanack : for the year of our Lord and Saviour ... ..
+**Howe, George, 1769 or 1771-1821, 1808-1821**  
+Microform | Periodical | Periodical/Journal, magazine, other
+
+8 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18161890)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2967432484)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnew-south-wales-pocket-almanack-for-the-year-of-ou-nla.obj-2967432484&files=nla.obj-2967432484-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnew-south-wales-pocket-almanack-for-the-year-of-ou-nla.obj-2967432484)
+
+### New South Wales school magazine of literature for our boys and girls (Online)
+**New South Wales. Department of Education, 1950-1960**  
+Periodical | Periodical/Journal, magazine, other
+
+180 of 180 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238053149)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-748141557)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnew-south-wales-school-magazine-of-literature-for--nla.obj-748141557&files=nla.obj-748141557-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnew-south-wales-school-magazine-of-literature-for--nla.obj-748141557)
+
+### New Triad (Online)
+**1927-1928**  
+Periodical | Periodical/Journal, magazine, other
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238053099)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-788254980)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnew-triad-online-nla.obj-788254980&files=nla.obj-788254980-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnew-triad-online-nla.obj-788254980)
+
 ### New Zealand report / Friends of the Church of New Zealand
+**Friends of New Zealand, 1800-1900**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -1385,6 +4914,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnew-zealand-report-friends-of-the-church-of-new-ze-nla.obj-137752768)
 
 ### Newcastle and Maitland Catholic Sentinel (Online)
+**1931-1968**  
+Periodical | Periodical/Journal, magazine, other
 
 415 of 416 issues have OCRd text available for download.
 
@@ -1394,6 +4925,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnewcastle-and-maitland-catholic-sentinel-online-nla.obj-302666124)
 
 ### Newsletter (Geological Society of Australia. Specialist Group on Solid-Earth Geophysics)
+**Geological Society of Australia. Specialist Group on Solid-Earth Geophysics, 1985-1989**  
+Periodical | Periodical/Journal, magazine, other
 
 10 of 10 issues have OCRd text available for download.
 
@@ -1402,7 +4935,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnewsletter-geological-society-of-australia-special-nla.obj-45865&files=nla.obj-45865-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnewsletter-geological-society-of-australia-special-nla.obj-45865)
 
+### Nitrogenous Fertilizers Subsidy Act. Parliament of the Commonwealth of Australia
+**Australia. Parliament, 1966-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+15 of 15 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6761025)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1296206775)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnitrogenous-fertilizers-subsidy-act-parliament-of--nla.obj-1296206775&files=nla.obj-1296206775-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnitrogenous-fertilizers-subsidy-act-parliament-of--nla.obj-1296206775)
+
 ### Noodzakelijke blik op de geschiedenis van Java / Maatschappij tot Nut van den Javaan
+**Maatschappij tot Nut van den Javaan, 1866-1869**  
+Periodical | Periodical/Journal, magazine, other
 
 7 of 8 issues have OCRd text available for download.
 
@@ -1411,7 +4957,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnoodzakelijke-blik-op-de-geschiedenis-van-java-maa-nla.obj-287634815&files=nla.obj-287634815-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnoodzakelijke-blik-op-de-geschiedenis-van-java-maa-nla.obj-287634815)
 
+### Norfolk Island ... report / Administrator
+**Norfolk Island. Administrator, 1980-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19460269)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-838936257)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnorfolk-island-report-administrator-nla.obj-838936257&files=nla.obj-838936257-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnorfolk-island-report-administrator-nla.obj-838936257)
+
+### North Australia government gazette
+**1847**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/32732698)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-839898820)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnorth-australia-government-gazette-nla.obj-839898820&files=nla.obj-839898820-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnorth-australia-government-gazette-nla.obj-839898820)
+
+### Northern Territory statistical returns : showing the voting within each subdivision ... ..
+**Australia. Parliament, 1923-1938**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238845998)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2536128032)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnorthern-territory-statistical-returns-showing-the-nla.obj-2536128032&files=nla.obj-2536128032-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnorthern-territory-statistical-returns-showing-the-nla.obj-2536128032)
+
 ### Notice of annual meeting / Canberra Chamber of Commerce
+**Canberra Chamber of Commerce, 1949-1959**  
+Periodical | Periodical/Journal, magazine, other
 
 10 of 10 issues have OCRd text available for download.
 
@@ -1420,7 +5001,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnotice-of-annual-meeting-canberra-chamber-of-comme-nla.obj-2057769287&files=nla.obj-2057769287-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fnotice-of-annual-meeting-canberra-chamber-of-comme-nla.obj-2057769287)
 
+### Occupational pamphlet : prepared for the guidance of service men and women who are returning to civil life / by the Ministry of Post-War Reconstruction in collaboration with the Department of Labour and National Service
+**Australia. Department of Labour and National Service, 1946**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+38 of 38 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6309280)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-964915858)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Foccupational-pamphlet-prepared-for-the-guidance-of-nla.obj-964915858&files=nla.obj-964915858-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Foccupational-pamphlet-prepared-for-the-guidance-of-nla.obj-964915858)
+
 ### Odd fellows' magazine (Adelaide, S. Aust.)
+**Moffitt, William, 1802-1874, 1843-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 9 of 9 issues have OCRd text available for download.
 
@@ -1429,16 +5023,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fodd-fellows-magazine-adelaide-s-aust-nla.obj-2343729079&files=nla.obj-2343729079-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fodd-fellows-magazine-adelaide-s-aust-nla.obj-2343729079)
 
-### Official records of debates
+### Odds and ends : an illustrated journal / conducted by J.P. Braga
+**Braga, J. P. (José Pedro), 1871-1944, 1896-1897**  
+Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/32458532)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2833432794)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fodds-and-ends-an-illustrated-journal-conducted-by--nla.obj-2833432794&files=nla.obj-2833432794-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fodds-and-ends-an-illustrated-journal-conducted-by--nla.obj-2833432794)
+
+### Office of Defence Production ... financial statements / Department of Defence
+**Australia. Department of Defence. Office of Defence Production, 1988-1989**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16492163)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1883665514)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Foffice-of-defence-production-financial-statements--nla.obj-1883665514&files=nla.obj-1883665514-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Foffice-of-defence-production-financial-statements--nla.obj-1883665514)
+
+### Official record of debates / Federal Council of Australasia
+**Federal Council of Australasia, 1886-1897**  
+Periodical | Periodical/Journal, magazine, other
 
 8 of 8 issues have OCRd text available for download.
 
 * [Details on Trove](https://trove.nla.gov.au/work/5542881)
 * [Browse issues on Trove](http://nla.gov.au/nla.obj-2841618)
-* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fofficial-records-of-debates-nla.obj-2841618&files=nla.obj-2841618-issues.csv)
-* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fofficial-records-of-debates-nla.obj-2841618)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fofficial-record-of-debates-federal-council-of-aust-nla.obj-2841618&files=nla.obj-2841618-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fofficial-record-of-debates-federal-council-of-aust-nla.obj-2841618)
 
 ### Official strike bulletin
+**Moir, John Alfred, 1879-, 1912**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 54 of 54 issues have OCRd text available for download.
 
@@ -1448,6 +5068,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fofficial-strike-bulletin-nla.obj-2397863197)
 
 ### Old and new Sydney / by Edward Hordern and Sons
+**Sydney Morning Herald, 1882**  
+Periodical | Periodical/Journal, magazine, other
 
 6 of 6 issues have OCRd text available for download.
 
@@ -1457,6 +5079,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fold-and-new-sydney-by-edward-hordern-and-sons-nla.obj-754014065)
 
 ### Old times (Sydney, N.S.W.)
+**1903-2021**  
+Periodical | Periodical/Journal, magazine, other | Book/Illustrated | Book
 
 3 of 3 issues have OCRd text available for download.
 
@@ -1465,7 +5089,64 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fold-times-sydney-n-s-w-nla.obj-321126052&files=nla.obj-321126052-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fold-times-sydney-n-s-w-nla.obj-321126052)
 
+### Operations of the IMF and World Bank : annual report to the Parliament under the International Monetary Agreements Act 1947 / by ... Treasurer
+**Australia. Treasury, 1900-1993**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/34717046)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1567925310)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Foperations-of-the-imf-and-world-bank-annual-report-nla.obj-1567925310&files=nla.obj-1567925310-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Foperations-of-the-imf-and-world-bank-annual-report-nla.obj-1567925310)
+
+### Operations of the registered health insurance organisations / Private Health Insurance Administration Council
+**Private Health Insurance Administration Council (Australia), 1987-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18017759)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-854468992)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Foperations-of-the-registered-health-insurance-orga-nla.obj-854468992&files=nla.obj-854468992-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Foperations-of-the-registered-health-insurance-orga-nla.obj-854468992)
+
+### Operations of the registered health insurance organizations : annual report / Commonwealth Department of Health
+**Australia. Department of Health, 1984-1988**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9651686)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1289036338)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Foperations-of-the-registered-health-insurance-orga-nla.obj-1289036338&files=nla.obj-1289036338-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Foperations-of-the-registered-health-insurance-orga-nla.obj-1289036338)
+
+### Operations of the registered health insurance organizations : annual report / Commonwealth Department of Health
+**Australia. Department of Health, 1984-1988**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9651686)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-829314379)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Foperations-of-the-registered-health-insurance-orga-nla.obj-829314379&files=nla.obj-829314379-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Foperations-of-the-registered-health-insurance-orga-nla.obj-829314379)
+
+### Operations of the registered medical benefits and hospital benefits organizations : annual report / Commonwealth Department of Health
+**Australia. Department of Health, 1971-1983**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19263540)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-829314867)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Foperations-of-the-registered-medical-benefits-and--nla.obj-829314867&files=nla.obj-829314867-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Foperations-of-the-registered-medical-benefits-and--nla.obj-829314867)
+
 ### Our Empire : the Imperial review of the United Kingdom and the British Dominions beyond the seas
+**1910-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -1475,6 +5156,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Four-empire-the-imperial-review-of-the-united-kingd-nla.obj-71533419)
 
 ### Our own news and monthly notes / Holy Trinity Church, Argyle Street
+**Holy Trinity Church (Sydney, N.S.W.), 1800**  
+Periodical | Periodical/Journal, magazine, other
 
 12 of 12 issues have OCRd text available for download.
 
@@ -1483,7 +5166,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Four-own-news-and-monthly-notes-holy-trinity-church-nla.obj-2004728454&files=nla.obj-2004728454-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Four-own-news-and-monthly-notes-holy-trinity-church-nla.obj-2004728454)
 
+### Overseas migration for the quarter ended ... / Commonwealth Bureau of Census and Statistics
+**Commonwealth Bureau of Census and Statistics (Australia), 1900-1950**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/32684676)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-324250939)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Foverseas-migration-for-the-quarter-ended-commonwea-nla.obj-324250939&files=nla.obj-324250939-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Foverseas-migration-for-the-quarter-ended-commonwea-nla.obj-324250939)
+
+### Overseas trading
+**Australian Trade Commission, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+884 of 884 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26570528)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-855657180)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Foverseas-trading-nla.obj-855657180&files=nla.obj-855657180-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Foverseas-trading-nla.obj-855657180)
+
+### P.O.W. : the monthly newsletter of the Australian Prisoners of War Relatives Association
+**Australian Prisoners of War Relatives Association, 1942-1946**  
+Periodical | Periodical/Journal, magazine, other
+
+22 of 22 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/34826973)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2812329711)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fp-o-w-the-monthly-newsletter-of-the-australian-pri-nla.obj-2812329711&files=nla.obj-2812329711-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fp-o-w-the-monthly-newsletter-of-the-australian-pri-nla.obj-2812329711)
+
 ### Pacific islands monthly : PIM
+**1930-2021**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 840 of 840 issues have OCRd text available for download.
 
@@ -1493,6 +5211,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpacific-islands-monthly-pim-nla.obj-310385031)
 
 ### Palestine : economic and commercial conditions in Palestine
+**Great Britain. Board of Trade, 1927-1935**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1501,7 +5221,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpalestine-economic-and-commercial-conditions-in-pa-nla.obj-651793918&files=nla.obj-651793918-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpalestine-economic-and-commercial-conditions-in-pa-nla.obj-651793918)
 
+### Pamphlet (Council for Scientific and Industrial Research (Australia))
+**Council for Scientific and Industrial Research (Australia), 1918-1942**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/20103583)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-648198871)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpamphlet-council-for-scientific-and-industrial-res-nla.obj-648198871&files=nla.obj-648198871-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpamphlet-council-for-scientific-and-industrial-res-nla.obj-648198871)
+
+### Papua : annual report for the year ending 30th June ... ..
+**Papua. Lieutenant Governor, 1907-1922**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+31 of 31 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19192065)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-268724687)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpapua-annual-report-for-the-year-ending-30th-june-nla.obj-268724687&files=nla.obj-268724687-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpapua-annual-report-for-the-year-ending-30th-june-nla.obj-268724687)
+
 ### Papunya newspaper : Warumpiku tjakulpa kuwarritja
+**Kantawarra, Sabrina, 1900-1995**  
+Periodical | Periodical/Journal, magazine, other
 
 6 of 6 issues have OCRd text available for download.
 
@@ -1510,7 +5254,64 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpapunya-newspaper-warumpiku-tjakulpa-kuwarritja-nla.obj-1311673985&files=nla.obj-1311673985-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpapunya-newspaper-warumpiku-tjakulpa-kuwarritja-nla.obj-1311673985)
 
+### Parliamentary papers : printed during the ... ... ..
+**Queensland. Parliament, 1902-2012**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+17 of 17 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10327501)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-53867668)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fparliamentary-papers-printed-during-the-nla.obj-53867668&files=nla.obj-53867668-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fparliamentary-papers-printed-during-the-nla.obj-53867668)
+
+### Payments to or for the states and local government authorities / presented by the ... Treasurer
+**Australia. Treasury, 1975-1978**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9066947)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1319400209)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpayments-to-or-for-the-states-and-local-government-nla.obj-1319400209&files=nla.obj-1319400209-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpayments-to-or-for-the-states-and-local-government-nla.obj-1319400209)
+
+### Payments to or for the states, the Northern Territory, and local government authorities / presented by ... Treasurer of the Commonwealth of Australia for the information of honourable members on the occasion of the budget
+**Australia, 1970-1987**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+9 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21564162)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-837148732)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpayments-to-or-for-the-states-the-northern-territo-nla.obj-837148732&files=nla.obj-837148732-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpayments-to-or-for-the-states-the-northern-territo-nla.obj-837148732)
+
+### Peace loan bulletin / published by authority of the N.S.W. Central Loan Committee
+**N.S.W. Central Peace Loan Committee, 1919**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12586278)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-22281649)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpeace-loan-bulletin-published-by-authority-of-the--nla.obj-22281649&files=nla.obj-22281649-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpeace-loan-bulletin-published-by-authority-of-the--nla.obj-22281649)
+
+### Penicillin Bounty Act. Parliament of the Commonwealth of Australia
+**Australia. Parliament, 1981-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238040268)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2345919721)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpenicillin-bounty-act-parliament-of-the-commonweal-nla.obj-2345919721&files=nla.obj-2345919721-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpenicillin-bounty-act-parliament-of-the-commonweal-nla.obj-2345919721)
+
 ### Peninsula press
+**Great Britain. Army. Mediterranean Expeditionary Force, 1915-1916**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1520,6 +5321,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpeninsula-press-nla.obj-17911930)
 
 ### Penny Saturday journal (Online)
+**1846**  
+Periodical | Periodical/Journal, magazine, other
 
 18 of 18 issues have OCRd text available for download.
 
@@ -1528,7 +5331,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpenny-saturday-journal-online-nla.obj-767558399&files=nla.obj-767558399-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpenny-saturday-journal-online-nla.obj-767558399)
 
+### Petroleum Search Subsidy Act, 1959 : annual statement
+**Australia. Department of National Development, 1959-1976**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5706612)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1295767956)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpetroleum-search-subsidy-act-1959-annual-statement-nla.obj-1295767956&files=nla.obj-1295767956-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpetroleum-search-subsidy-act-1959-annual-statement-nla.obj-1295767956)
+
+### Phosphate Fertilizers Bounty Act. Parliament of the Commonwealth of Australia
+**Australia. Parliament, 1964-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+16 of 16 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6760987)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1295811231)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fphosphate-fertilizers-bounty-act-parliament-of-the-nla.obj-1295811231&files=nla.obj-1295811231-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fphosphate-fertilizers-bounty-act-parliament-of-the-nla.obj-1295811231)
+
 ### Photographic review of reviews
+**1894**  
+Periodical | Periodical/Journal, magazine, other
 
 12 of 12 issues have OCRd text available for download.
 
@@ -1537,7 +5364,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fphotographic-review-of-reviews-nla.obj-389050007&files=nla.obj-389050007-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fphotographic-review-of-reviews-nla.obj-389050007)
 
+### Photographic review of reviews (Online)
+**1894**  
+Periodical | Periodical/Journal, magazine, other
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238058947)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-389050007)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fphotographic-review-of-reviews-online-nla.obj-389050007&files=nla.obj-389050007-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fphotographic-review-of-reviews-online-nla.obj-389050007)
+
 ### Pix
+**1938-1972**  
+Periodical | Periodical/Newspaper | Periodical/Journal, magazine, other
 
 826 of 826 issues have OCRd text available for download.
 
@@ -1546,7 +5386,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpix-nla.obj-389050162&files=nla.obj-389050162-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpix-nla.obj-389050162)
 
+### Platt's almanac, diary, and South Australian directory
+**1800**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/247313359)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2922804658)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fplatt-s-almanac-diary-and-south-australian-directo-nla.obj-2922804658&files=nla.obj-2922804658-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fplatt-s-almanac-diary-and-south-australian-directo-nla.obj-2922804658)
+
 ### Port Lincoln bully-tin : the troopship's journal
+**1917**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1556,6 +5409,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fport-lincoln-bully-tin-the-troopship-s-journal-nla.obj-17895366)
 
 ### Portal
+**Brisbane Boys' College, 1916-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 23 of 23 issues have OCRd text available for download.
 
@@ -1564,7 +5419,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fportal-nla.obj-969917508&files=nla.obj-969917508-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fportal-nla.obj-969917508)
 
+### Portfolio program statements / presented by  ... Minister for Finance of the Commonwealth of Australia for the information of honourable members
+**Australia. Department of Finance, 1985-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11875015)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1600230137)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fportfolio-program-statements-presented-by-minister-nla.obj-1600230137&files=nla.obj-1600230137-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fportfolio-program-statements-presented-by-minister-nla.obj-1600230137)
+
+### Post office prospects and capital programme
+**Australia. Postmaster-General's Department, 1969-1975**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11363719)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1201911311)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpost-office-prospects-and-capital-programme-nla.obj-1201911311&files=nla.obj-1201911311-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpost-office-prospects-and-capital-programme-nla.obj-1201911311)
+
 ### Printers' bulletin (Sydney, N.S.W.)
+**1888**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1574,6 +5453,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprinters-bulletin-sydney-n-s-w-nla.obj-465415840)
 
 ### Proceedings of the annual meeting of the Synod of Eastern Australia
+**Church of Scotland. Synod of Eastern Australia, 1800**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1583,6 +5464,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fproceedings-of-the-annual-meeting-of-the-synod-of--nla.obj-688486592)
 
 ### Proceedings of the half-yearly meeting of the Synod of Eastern Australia
+**Church of Scotland. Synod of Eastern Australia, 1800**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1591,7 +5474,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fproceedings-of-the-half-yearly-meeting-of-the-syno-nla.obj-688490972&files=nla.obj-688490972-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fproceedings-of-the-half-yearly-meeting-of-the-syno-nla.obj-688490972)
 
+### Productivity : activities and developments / Department of Productivity
+**Australia. Department of Productivity, 1977-1979**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22369651)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1996365590)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fproductivity-activities-and-developments-departmen-nla.obj-1996365590&files=nla.obj-1996365590-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fproductivity-activities-and-developments-departmen-nla.obj-1996365590)
+
+### Program guidelines / Commonwealth Schools Commission
+**Commonwealth Schools Commission (Australia), 1981-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26008639)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1295756748)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprogram-guidelines-commonwealth-schools-commission-nla.obj-1295756748&files=nla.obj-1295756748-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprogram-guidelines-commonwealth-schools-commission-nla.obj-1295756748)
+
+### Program presentation of appropriations and outlays. Departmental estimates / presented by ..., Minister for Finance
+**Australia. Department of Finance, 1984-1985**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21763044)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1576603660)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprogram-presentation-of-appropriations-and-outlays-nla.obj-1576603660&files=nla.obj-1576603660-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprogram-presentation-of-appropriations-and-outlays-nla.obj-1576603660)
+
 ### Programme / Australasian Association for the Advancement of Science
+**Australasian Association for the Advancement of Science. Meeting, 1800-1900**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1601,6 +5519,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprogramme-australasian-association-for-the-advance-nla.obj-250302024)
 
 ### Progress (Melbourne, Vic.)
+**Single Tax League of Victoria, 1904-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1609,7 +5529,64 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprogress-melbourne-vic-nla.obj-73519776&files=nla.obj-73519776-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprogress-melbourne-vic-nla.obj-73519776)
 
+### Progress report / Australian Land Transport Development Program
+**Australian Land Transport Development Program, 1994-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21182549)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-888407196)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprogress-report-australian-land-transport-developm-nla.obj-888407196&files=nla.obj-888407196-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprogress-report-australian-land-transport-developm-nla.obj-888407196)
+
+### Progress report / Ministry of Aboriginal Affairs, Victoria
+**Victoria. Ministry of Aboriginal Affairs, 1968-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21775090)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2645874477)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprogress-report-ministry-of-aboriginal-affairs-vic-nla.obj-2645874477&files=nla.obj-2645874477-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprogress-report-ministry-of-aboriginal-affairs-vic-nla.obj-2645874477)
+
+### Progress report : control of national expenditure / Joint Committee of War Expenditure
+**Australia. Parliament. Joint Committee on War Expenditure, 1941-1946**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22797993)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1905180330)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprogress-report-control-of-national-expenditure-jo-nla.obj-1905180330&files=nla.obj-1905180330-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprogress-report-control-of-national-expenditure-jo-nla.obj-1905180330)
+
+### Protector's reports
+**South Australia. Office of the Government Resident (Northern Territory), 1882-1909**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13425503)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-55034942)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprotector-s-reports-nla.obj-55034942&files=nla.obj-55034942-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprotector-s-reports-nla.obj-55034942)
+
+### Protector's reports
+**Western Australia. Aborigines Department, 1899-1936**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18168043)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-55058106)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprotector-s-reports-nla.obj-55058106&files=nla.obj-55058106-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprotector-s-reports-nla.obj-55058106)
+
 ### Provisions for child migrant education : report by the Minister for Education / Commonwealth Dept. of Education
+**Australia. Department of Education, 1978**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1618,7 +5595,64 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprovisions-for-child-migrant-education-report-by-t-nla.obj-1666951259&files=nla.obj-1666951259-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fprovisions-for-child-migrant-education-report-by-t-nla.obj-1666951259)
 
+### Publication (Geological Survey of Queensland)
+**Geological Survey of Queensland, 1879-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16183492)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-211180792)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpublication-geological-survey-of-queensland-nla.obj-211180792&files=nla.obj-211180792-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpublication-geological-survey-of-queensland-nla.obj-211180792)
+
+### Pyrites Bounty Act - Return - Year
+**1967-1972**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/237168075)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1717562148)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpyrites-bounty-act-return-year-nla.obj-1717562148&files=nla.obj-1717562148-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fpyrites-bounty-act-return-year-nla.obj-1717562148)
+
+### Questions and answers (Sydney, N.S.W.)
+**Australia. Department of Post-war Reconstruction, 1940**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21182103)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-966238754)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fquestions-and-answers-sydney-n-s-w-nla.obj-966238754&files=nla.obj-966238754-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fquestions-and-answers-sydney-n-s-w-nla.obj-966238754)
+
+### Quinquennial investigation of the Defence Forces Retirement Benefits Fund
+**Australia. Defence Forces Retirement Benefits Board, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/31024483)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1704272217)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fquinquennial-investigation-of-the-defence-forces-r-nla.obj-1704272217&files=nla.obj-1704272217-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fquinquennial-investigation-of-the-defence-forces-r-nla.obj-1704272217)
+
+### Quinquennial investigation of the superannuation fund
+**Australia. Superannuation Board, 1957-1972**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5536395)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1955159874)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fquinquennial-investigation-of-the-superannuation-f-nla.obj-1955159874&files=nla.obj-1955159874-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fquinquennial-investigation-of-the-superannuation-f-nla.obj-1955159874)
+
 ### R.S.A. magazine
+**Cheer-up Society (S.A.), 1916-1919**  
+Periodical | Periodical/Journal, magazine, other
 
 18 of 18 issues have OCRd text available for download.
 
@@ -1627,7 +5661,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fr-s-a-magazine-nla.obj-8173282&files=nla.obj-8173282-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fr-s-a-magazine-nla.obj-8173282)
 
+### Railways : report, with appendices, on Commonwealth Railways, and progress of operations to ... by the engineer-in-chief and acting commissioner
+**Commonwealth Railways (Australia), 1900-1926**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+9 of 9 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19254775)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2566364316)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frailways-report-with-appendices-on-commonwealth-ra-nla.obj-2566364316&files=nla.obj-2566364316-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frailways-report-with-appendices-on-commonwealth-ra-nla.obj-2566364316)
+
+### Raw Cotton Bounty Act - Return - Year ended
+**1965-1972**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/237168076)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1717681356)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fraw-cotton-bounty-act-return-year-ended-nla.obj-1717681356&files=nla.obj-1717681356-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fraw-cotton-bounty-act-return-year-ended-nla.obj-1717681356)
+
+### Re-establishment pamphlet
+**Australia. Department of Post-war Reconstruction, 1940**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+13 of 13 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21182350)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-966273887)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fre-establishment-pamphlet-nla.obj-966273887&files=nla.obj-966273887-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fre-establishment-pamphlet-nla.obj-966273887)
+
 ### Realtime
+**1994-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 130 of 130 issues have OCRd text available for download.
 
@@ -1636,7 +5705,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frealtime-nla.obj-733140625&files=nla.obj-733140625-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frealtime-nla.obj-733140625)
 
+### Receipts and expenditure of the consolidated revenue fund for the year ended..
+**Australia. Treasury, 1900**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22754693)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2544831134)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freceipts-and-expenditure-of-the-consolidated-reven-nla.obj-2544831134&files=nla.obj-2544831134-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freceipts-and-expenditure-of-the-consolidated-reven-nla.obj-2544831134)
+
+### Recommendations for ... / Commonwealth Schools Commission
+**Commonwealth Schools Commission (Australia), 1982-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13452155)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1427167916)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frecommendations-for-commonwealth-schools-commissio-nla.obj-1427167916&files=nla.obj-1427167916-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frecommendations-for-commonwealth-schools-commissio-nla.obj-1427167916)
+
+### Recommendations for grants to councils for ... / Western Australian Local Government Grants Committee
+**Western Australian Local Government Grants Committee, 1976-1978**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12999609)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2644580331)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frecommendations-for-grants-to-councils-for-western-nla.obj-2644580331&files=nla.obj-2644580331-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frecommendations-for-grants-to-councils-for-western-nla.obj-2644580331)
+
 ### Recommendations for... / Australian Universities Commission
+**Australian Universities Commission, 1900-1976**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1646,6 +5750,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frecommendations-for-australian-universities-commis-nla.obj-829569882)
 
 ### Record (Bathurst, N.S.W. : Online)
+**1877-1931**  
+Periodical | Periodical/Journal, magazine, other
 
 193 of 193 issues have OCRd text available for download.
 
@@ -1655,6 +5761,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frecord-bathurst-n-s-w-online-nla.obj-353793576)
 
 ### Red Triangle papers
+**Young Men's Christian Associations of Australia, 1910**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1664,6 +5772,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fred-triangle-papers-nla.obj-359543401)
 
 ### Reflux : official bulletin of the Western Australian Medical Students' Society
+**Western Australian Medical Students Society, 1970-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 11 of 11 issues have OCRd text available for download.
 
@@ -1672,7 +5782,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freflux-official-bulletin-of-the-western-australian-nla.obj-324628221&files=nla.obj-324628221-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freflux-official-bulletin-of-the-western-australian-nla.obj-324628221)
 
+### Refrigeration Compressors Bounty Act. Parliament of the Commonwealth of Australia
+**Australia. Parliament, 1975-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6761351)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1284642023)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frefrigeration-compressors-bounty-act-parliament-of-nla.obj-1284642023&files=nla.obj-1284642023-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frefrigeration-compressors-bounty-act-parliament-of-nla.obj-1284642023)
+
 ### Repatriation (Melbourne, Vic.)
+**Australia. Department of Repatriation, 1919**  
+Periodical | Periodical/Journal, magazine, other
 
 22 of 22 issues have OCRd text available for download.
 
@@ -1681,7 +5804,328 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frepatriation-melbourne-vic-nla.obj-7251480&files=nla.obj-7251480-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frepatriation-melbourne-vic-nla.obj-7251480)
 
+### Report (Australia. Advisory Council for Inter-government Relations)
+**Australia. Advisory Council for Inter-government Relations, 1978-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22380058)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-769988012)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australia-advisory-council-for-inter-govern-nla.obj-769988012&files=nla.obj-769988012-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australia-advisory-council-for-inter-govern-nla.obj-769988012)
+
+### Report (Australia. Atomic Weapons Tests Safety Committee)
+**Australia. Atomic Weapons Tests Safety Committee, 1971-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6223219)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-829792273)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australia-atomic-weapons-tests-safety-commi-nla.obj-829792273&files=nla.obj-829792273-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australia-atomic-weapons-tests-safety-commi-nla.obj-829792273)
+
+### Report (Australia. Bureau of Transport Economics)
+**Australia. Bureau of Transport Economics, 1970-2001**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Microform
+
+25 of 25 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13480189)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1597412308)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australia-bureau-of-transport-economics-nla.obj-1597412308&files=nla.obj-1597412308-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australia-bureau-of-transport-economics-nla.obj-1597412308)
+
+### Report (Australia. Human Rights Commission)
+**Australia. Human Rights Commission, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+20 of 20 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5795525)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-766348926)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australia-human-rights-commission-nla.obj-766348926&files=nla.obj-766348926-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australia-human-rights-commission-nla.obj-766348926)
+
+### Report (Australia. Industry Commission)
+**Australia. Industry Commission, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+59 of 67 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6614428)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1185787774)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australia-industry-commission-nla.obj-1185787774&files=nla.obj-1185787774-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australia-industry-commission-nla.obj-1185787774)
+
+### Report (Australia. Parliament. Joint Committee of Public Accounts and Audit)
+**Australia. Parliament. Joint Committee of Public Accounts and Audit, 1998-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+38 of 43 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/8194556)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-764415919)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australia-parliament-joint-committee-of-pub-nla.obj-764415919&files=nla.obj-764415919-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australia-parliament-joint-committee-of-pub-nla.obj-764415919)
+
+### Report (Australia. Parliament. Joint Committee of Public Accounts)
+**Australia. Parliament. Joint Committee of Public Accounts, 1953-1997**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+333 of 337 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12569931)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-806465994)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australia-parliament-joint-committee-of-pub-nla.obj-806465994&files=nla.obj-806465994-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australia-parliament-joint-committee-of-pub-nla.obj-806465994)
+
+### Report (Australia. Parliament. Standing Committee on Public Works)
+**Australia. Parliament. Standing Committee on Public Works, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+826 of 835 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/7303598)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-666533744)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australia-parliament-standing-committee-on--nla.obj-666533744&files=nla.obj-666533744-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australia-parliament-standing-committee-on--nla.obj-666533744)
+
+### Report (Australian Human Rights Commission)
+**Australian Human Rights Commission, 2008-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+17 of 18 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/35527571)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-666540883)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australian-human-rights-commission-nla.obj-666540883&files=nla.obj-666540883-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australian-human-rights-commission-nla.obj-666540883)
+
+### Report (Australian Law Reform Commission)
+**Australian Law Reform Commission, 1975-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+34 of 36 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/8373077)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-666515939)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australian-law-reform-commission-nla.obj-666515939&files=nla.obj-666515939-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australian-law-reform-commission-nla.obj-666515939)
+
+### Report (Australian National Parks and Wildlife Service)
+**Australian National Parks and Wildlife Service, 1976-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18947563)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-838874006)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australian-national-parks-and-wildlife-serv-nla.obj-838874006&files=nla.obj-838874006-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australian-national-parks-and-wildlife-serv-nla.obj-838874006)
+
+### Report ... / Joint Standing Committee on Treaties
+**Australia. Parliament. Joint Standing Committee on Treaties, 1996-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+131 of 137 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9245201)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-666527378)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-joint-standing-committee-on-treaties-nla.obj-666527378&files=nla.obj-666527378-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-joint-standing-committee-on-treaties-nla.obj-666527378)
+
+### Report ... on financial assistance for local government / Grants Commission
+**Australia. Grants Commission, 1974-1979**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/7304033)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1334061336)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-financial-assistance-for-local-governmen-nla.obj-1334061336&files=nla.obj-1334061336-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-financial-assistance-for-local-governmen-nla.obj-1334061336)
+
+### Report ... on financial assistance for local government / Local Government Grants Commission, New South Wales
+**New South Wales. Local Government Grants Commission, 1976-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9022617)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2055600916)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-financial-assistance-for-local-governmen-nla.obj-2055600916&files=nla.obj-2055600916-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-financial-assistance-for-local-governmen-nla.obj-2055600916)
+
+### Report ... on financing the Australian Capital Territory / Commonwealth Grants Commission
+**Commonwealth Grants Commission (Australia), 1967-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Book/Illustrated | Book
+
+3 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12648278)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1894232027)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-financing-the-australian-capital-territo-nla.obj-1894232027&files=nla.obj-1894232027-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-financing-the-australian-capital-territo-nla.obj-1894232027)
+
+### Report ... on special assistance for states / Commonwealth Grants Commission
+**Commonwealth Grants Commission (Australia), 1900-1982**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6466722)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1597256783)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-special-assistance-for-states-commonweal-nla.obj-1597256783&files=nla.obj-1597256783-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-special-assistance-for-states-commonweal-nla.obj-1597256783)
+
+### Report ... on the operations of the Papua New Guinea Superannuation Board during the year ended 30 June
+**Australian Government Retirement Benefits Office, 1973-1976**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11063156)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1425459569)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-operations-of-the-papua-new-guinea-s-nla.obj-1425459569&files=nla.obj-1425459569-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-operations-of-the-papua-new-guinea-s-nla.obj-1425459569)
+
+### Report / Accountancy Advisory Panel
+**Australia. Accountancy Advisory Panel, 1939**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16360671)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2681272450)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-accountancy-advisory-panel-nla.obj-2681272450&files=nla.obj-2681272450-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-accountancy-advisory-panel-nla.obj-2681272450)
+
+### Report / Australian Biological Resources Study Interim Council
+**Australian Biological Resources Study. Interim Council, 1974-1979**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18145910)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1727894533)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australian-biological-resources-study-inter-nla.obj-1727894533&files=nla.obj-1727894533-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australian-biological-resources-study-inter-nla.obj-1727894533)
+
+### Report / Australian Maritime Safety Authority
+**Australian Maritime Safety Authority, 1991**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/29988422)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1791225099)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australian-maritime-safety-authority-nla.obj-1791225099&files=nla.obj-1791225099-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australian-maritime-safety-authority-nla.obj-1791225099)
+
+### Report / Australian Research Grants Committee
+**Australian Research Grants Committee, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11363345)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1169628625)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australian-research-grants-committee-nla.obj-1169628625&files=nla.obj-1169628625-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australian-research-grants-committee-nla.obj-1169628625)
+
+### Report / Australian Science and Technology Council
+**Australian Science and Technology Council, 1978-1984**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/15909913)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-751702647)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australian-science-and-technology-council-nla.obj-751702647&files=nla.obj-751702647-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-australian-science-and-technology-council-nla.obj-751702647)
+
+### Report / Commonwealth Grants Commission
+**Commonwealth Grants Commission (Australia), 1933-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+11 of 11 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5585911)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-919768689)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-commonwealth-grants-commission-nla.obj-919768689&files=nla.obj-919768689-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-commonwealth-grants-commission-nla.obj-919768689)
+
+### Report / Commonwealth Grants Commission
+**Commonwealth Grants Commission (Australia), 1933-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5585911)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2510765523)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-commonwealth-grants-commission-nla.obj-2510765523&files=nla.obj-2510765523-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-commonwealth-grants-commission-nla.obj-2510765523)
+
+### Report / Cotton Research and Development Corporation
+**Cotton Research and Development Corporation (Australia), 1991**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/34693013)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1603969946)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-cotton-research-and-development-corporation-nla.obj-1603969946&files=nla.obj-1603969946-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-cotton-research-and-development-corporation-nla.obj-1603969946)
+
+### Report / Defence Force Remuneration Tribunal
+**Australia. Defence Force Remuneration Tribunal, 1980-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10096343)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2137302489)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-defence-force-remuneration-tribunal-nla.obj-2137302489&files=nla.obj-2137302489-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-defence-force-remuneration-tribunal-nla.obj-2137302489)
+
+### Report / Department of Science
+**Australia. Department of Science, 1973-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11388431)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1628687314)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-department-of-science-nla.obj-1628687314&files=nla.obj-1628687314-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-department-of-science-nla.obj-1628687314)
+
+### Report / Department of the Environment and Conservation
+**Australia. Department of Environment and Conservation, 1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6294476)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2012672606)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-department-of-the-environment-and-conservat-nla.obj-2012672606&files=nla.obj-2012672606-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-department-of-the-environment-and-conservat-nla.obj-2012672606)
+
+### Report / Development and Migration Commission
+**Australia. Development and Migration Commission, 1930**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/20995972)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2531778584)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-development-and-migration-commission-nla.obj-2531778584&files=nla.obj-2531778584-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-development-and-migration-commission-nla.obj-2531778584)
+
 ### Report / Federal Airports Corporation
+**Federal Airports Corporation (Australia), 1987**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1690,7 +6134,53 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-federal-airports-corporation-nla.obj-1913607276&files=nla.obj-1913607276-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-federal-airports-corporation-nla.obj-1913607276)
 
+### Report / Foreign Investment Review Board
+**Australia. Foreign Investment Review Board, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+35 of 35 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6551817)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-742692411)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-foreign-investment-review-board-nla.obj-742692411&files=nla.obj-742692411-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-foreign-investment-review-board-nla.obj-742692411)
+
+### Report / Grants Commission
+**Australia. Grants Commission, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/7304058)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1663922534)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-grants-commission-nla.obj-1663922534&files=nla.obj-1663922534-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-grants-commission-nla.obj-1663922534)
+
+### Report / House of Representatives Standing Committee on Appropriations and Administration
+**Australia. Parliament. House of Representatives. Standing Committee on Appropriations and Administration, 2011-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/165364218)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-766230646)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-house-of-representatives-standing-committee-nla.obj-766230646&files=nla.obj-766230646-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-house-of-representatives-standing-committee-nla.obj-766230646)
+
+### Report / Indicative Planning Council for the Housing Industry
+**Australia. Indicative Planning Council for the Housing Industry, 1976-1983**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16348652)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1665168090)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-indicative-planning-council-for-the-housing-nla.obj-1665168090&files=nla.obj-1665168090-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-indicative-planning-council-for-the-housing-nla.obj-1665168090)
+
 ### Report / Interim Council for a National Film and Television Training School
+**Interim Council for a National Film and Television Training School (Australia), 1970-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -1699,7 +6189,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-interim-council-for-a-national-film-and-tel-nla.obj-1719339552&files=nla.obj-1719339552-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-interim-council-for-a-national-film-and-tel-nla.obj-1719339552)
 
+### Report / Joint Committee on the Broadcasting of Parliamentary Proceedings
+**Australia. Parliament. Joint Committee on the Broadcasting of Parliamentary Proceedings, 1946-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22803676)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1380237919)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-joint-committee-on-the-broadcasting-of-parl-nla.obj-1380237919&files=nla.obj-1380237919-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-joint-committee-on-the-broadcasting-of-parl-nla.obj-1380237919)
+
+### Report / Legislative Drafting Institute
+**Australia. Legislative Drafting Institute, 1982**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/27050956)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1571467936)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-legislative-drafting-institute-nla.obj-1571467936&files=nla.obj-1571467936-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-legislative-drafting-institute-nla.obj-1571467936)
+
 ### Report / Maloga Aboriginal Mission School
+**Maloga Aboriginal Mission School, 1876-1881**  
+Periodical | Periodical/Journal, magazine, other
 
 4 of 4 issues have OCRd text available for download.
 
@@ -1709,15 +6223,107 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-maloga-aboriginal-mission-school-nla.obj-425458625)
 
 ### Report / Maloga Aboriginal Mission Station
+**Maloga Aboriginal Mission Station, 1882-1888**  
+Periodical | Periodical/Journal, magazine, other
 
-2 of 2 issues have OCRd text available for download.
+10 of 10 issues have OCRd text available for download.
 
 * [Details on Trove](https://trove.nla.gov.au/work/18600184)
-* [Browse issues on Trove](http://nla.gov.au/nla.obj-424100246)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-424100246)
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-maloga-aboriginal-mission-station-nla.obj-424100246&files=nla.obj-424100246-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-maloga-aboriginal-mission-station-nla.obj-424100246)
 
+### Report / Medical Training Review Panel
+**Medical Training Review Panel (Australia), 1997-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/24648812)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1962352980)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-medical-training-review-panel-nla.obj-1962352980&files=nla.obj-1962352980-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-medical-training-review-panel-nla.obj-1962352980)
+
+### Report / National Advisory Council for the Handicapped
+**Australia. National Advisory Council for the Handicapped, 1975-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21999246)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1425782847)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-national-advisory-council-for-the-handicapp-nla.obj-1425782847&files=nla.obj-1425782847-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-national-advisory-council-for-the-handicapp-nla.obj-1425782847)
+
+### Report / Parliamentary Joint Committee on Human Rights
+**Australia. Parliament. Joint Committee on Human Rights, 2012-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/171978258)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-766259500)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-parliamentary-joint-committee-on-human-righ-nla.obj-766259500&files=nla.obj-766259500-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-parliamentary-joint-committee-on-human-righ-nla.obj-766259500)
+
+### Report / Parole Board of the Australian Capital Territory
+**Australian Capital Territory. Parole Board, 1978-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13688787)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1925468654)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-parole-board-of-the-australian-capital-terr-nla.obj-1925468654&files=nla.obj-1925468654-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-parole-board-of-the-australian-capital-terr-nla.obj-1925468654)
+
+### Report / Select Committee on Regional and Remote Indigenous Communities
+**Australia. Parliament. Senate. Select Committee on Regional and Remote Indigenous Communities, 2008-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/31728619)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-743675863)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-select-committee-on-regional-and-remote-ind-nla.obj-743675863&files=nla.obj-743675863-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-select-committee-on-regional-and-remote-ind-nla.obj-743675863)
+
+### Report / Temporary Assistance Authority
+**Australia. Temporary Assistance Authority, 1970-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+24 of 24 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18280872)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-835739400)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-temporary-assistance-authority-nla.obj-835739400&files=nla.obj-835739400-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-temporary-assistance-authority-nla.obj-835739400)
+
+### Report / The Senate Committee of Privileges
+**Australia. Parliament. Senate. Committee of Privileges, 1971-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Archived website
+
+129 of 138 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12839361)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-758314723)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-the-senate-committee-of-privileges-nla.obj-758314723&files=nla.obj-758314723-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-the-senate-committee-of-privileges-nla.obj-758314723)
+
+### Report / The Senate Procedure Committee
+**Australia. Parliament. Senate. Procedure Committee, 1987-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+46 of 46 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/20155478)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-764721596)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-the-senate-procedure-committee-nla.obj-764721596&files=nla.obj-764721596-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-the-senate-procedure-committee-nla.obj-764721596)
+
 ### Report / Trench Comforts Fund of the League of Loyal Women, South Australian Division, Australian Comforts Fund
+**League of Loyal Women of Australia. Trench Comforts Fund, 1917-1918**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1726,7 +6332,64 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-trench-comforts-fund-of-the-league-of-loyal-nla.obj-359545877&files=nla.obj-359545877-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-trench-comforts-fund-of-the-league-of-loyal-nla.obj-359545877)
 
+### Report / Uranium Advisory Council
+**Australia. Uranium Advisory Council, 1979-1983**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/27637600)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-839898905)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-uranium-advisory-council-nla.obj-839898905&files=nla.obj-839898905-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-uranium-advisory-council-nla.obj-839898905)
+
+### Report / by the Aboriginal Land Commissioner
+**Australia. Office of the Aboriginal Land Commissioner, 1979-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+47 of 48 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18560782)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-882163321)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-by-the-aboriginal-land-commissioner-nla.obj-882163321&files=nla.obj-882163321-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-by-the-aboriginal-land-commissioner-nla.obj-882163321)
+
+### Report : to the Minister / Committee on Overseas Professional Qualifications
+**Australia. Committee on Overseas Professional Qualifications, 1900-1983**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+9 of 9 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/27596736)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1381264864)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-minister-committee-on-overseas-profe-nla.obj-1381264864&files=nla.obj-1381264864-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-minister-committee-on-overseas-profe-nla.obj-1381264864)
+
+### Report and accounts for the year ended 30th June ... / British Phosphate Commissioners
+**Australia. Parliament, 1920-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/236351675)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2563617338)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-and-accounts-for-the-year-ended-30th-june-b-nla.obj-2563617338&files=nla.obj-2563617338-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-and-accounts-for-the-year-ended-30th-june-b-nla.obj-2563617338)
+
+### Report and determination / Remuneration Tribunal
+**Australia. Remuneration Tribunal, 1970-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+17 of 17 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13446417)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1309231976)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-and-determination-remuneration-tribunal-nla.obj-1309231976&files=nla.obj-1309231976-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-and-determination-remuneration-tribunal-nla.obj-1309231976)
+
 ### Report and financial statements / Aboriginal Loans Commission
+**Australia. Aboriginal Loans Commission, 1975-1978**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -1735,7 +6398,174 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-and-financial-statements-aboriginal-loans-c-nla.obj-744559428&files=nla.obj-744559428-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-and-financial-statements-aboriginal-loans-c-nla.obj-744559428)
 
+### Report and financial statements for year ended 30th June / Australian Stevedoring Industry Authority
+**Australian Stevedoring Industry Authority, 1965-1970**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18155068)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2789037522)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-and-financial-statements-for-year-ended-30t-nla.obj-2789037522&files=nla.obj-2789037522-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-and-financial-statements-for-year-ended-30t-nla.obj-2789037522)
+
+### Report by the Commissioner for Superannuation on the general administration and operation of the Papua New Guinea Superannuation Scheme and the Contract Officers Retirement Benefits Scheme for the year ended 30 June
+**Australian Government Retirement Benefits Office, 1900-1983**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21301389)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1791249461)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-by-the-commissioner-for-superannuation-on-t-nla.obj-1791249461&files=nla.obj-1791249461-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-by-the-commissioner-for-superannuation-on-t-nla.obj-1791249461)
+
+### Report by the Commonwealth Actuary upon the Parliamentary Retiring Allowances Fund
+**Parliamentary Retiring Allowances Trust, 1959**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/20905355)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2287603812)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-by-the-commonwealth-actuary-upon-the-parlia-nla.obj-2287603812&files=nla.obj-2287603812-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-by-the-commonwealth-actuary-upon-the-parlia-nla.obj-2287603812)
+
+### Report by the Director of the Naval Forces on the naval defence of the Commonwealth of Australia
+**Commonwealth Naval Forces (Australia), 1900**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/32541201)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2044971028)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-by-the-director-of-the-naval-forces-on-the--nla.obj-2044971028&files=nla.obj-2044971028-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-by-the-director-of-the-naval-forces-on-the--nla.obj-2044971028)
+
+### Report by the Minister / Migrant Education Program, Department of Education
+**Migrant Education Program (Australia), 1900-1978**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12900453)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1284466062)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-by-the-minister-migrant-education-program-d-nla.obj-1284466062&files=nla.obj-1284466062-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-by-the-minister-migrant-education-program-d-nla.obj-1284466062)
+
+### Report by the Minister for Immigration and Ethnic Affairs
+**Adult Migrant Education Program (Australia), 1978**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18441180)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1295780549)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-by-the-minister-for-immigration-and-ethnic--nla.obj-1295780549&files=nla.obj-1295780549-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-by-the-minister-for-immigration-and-ethnic--nla.obj-1295780549)
+
+### Report by the Trustees of the Royal Australian Navy Relief Trust Fund for the six months ..
+**Australia. Royal Australian Navy. Relief Trust Fund, 1973-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19206127)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1685690259)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-by-the-trustees-of-the-royal-australian-nav-nla.obj-1685690259&files=nla.obj-1685690259-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-by-the-trustees-of-the-royal-australian-nav-nla.obj-1685690259)
+
+### Report by the trustees for the year ... / Royal Australian Navy Relief Trust Fund
+**Australia. Royal Australian Navy. Relief Trust Fund, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+20 of 20 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21207706)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-839813734)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-by-the-trustees-for-the-year-royal-australi-nla.obj-839813734&files=nla.obj-839813734-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-by-the-trustees-for-the-year-royal-australi-nla.obj-839813734)
+
+### Report concerning the operations of the Committee of Members' Interests during ... / House of Representatives, Committee of Privileges and Members' Interests
+**Australia. Parliament. House of Representatives. Committee of Members' Interests, 2007-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/25010165)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-888441887)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-concerning-the-operations-of-the-committee--nla.obj-888441887&files=nla.obj-888441887-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-concerning-the-operations-of-the-committee--nla.obj-888441887)
+
+### Report for ... / Department of Education and Science
+**Australia. Department of Education and Science, 1900-1973**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22321724)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1296639323)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-department-of-education-and-science-nla.obj-1296639323&files=nla.obj-1296639323-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-department-of-education-and-science-nla.obj-1296639323)
+
+### Report for ... / Department of Education and Youth Affairs
+**Australia. Department of Education and Youth Affairs, 1983-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22303361)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1285086299)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-department-of-education-and-youth-affai-nla.obj-1285086299&files=nla.obj-1285086299-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-department-of-education-and-youth-affai-nla.obj-1285086299)
+
+### Report for ... / National Training Council
+**National Training Council (Australia), 1984**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12573651)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2059199151)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-national-training-council-nla.obj-2059199151&files=nla.obj-2059199151-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-national-training-council-nla.obj-2059199151)
+
+### Report for ... / the Northern Territory
+**Northern Territory Administration, 1959-1966**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Microform
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13433274)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2497619777)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-northern-territory-nla.obj-2497619777&files=nla.obj-2497619777-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-northern-territory-nla.obj-2497619777)
+
+### Report for ... : response to government guidelines
+**Commonwealth Schools Commission (Australia), 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13443027)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-829484857)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-response-to-government-guidelines-nla.obj-829484857&files=nla.obj-829484857-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-response-to-government-guidelines-nla.obj-829484857)
+
+### Report for ... session / Standing Orders Committee
+**Australia. Parliament. Senate. Standing Orders Committee, 1970-1986**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+21 of 21 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19106015)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-836793258)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-session-standing-orders-committee-nla.obj-836793258&files=nla.obj-836793258-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-session-standing-orders-committee-nla.obj-836793258)
+
 ### Report for ... to the members of the Rationalist Association of New South Wales and the Rationalist Press Association Limited of London in New South Wales
+**Rationalist Association of New South Wales, 1900**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -1744,7 +6574,108 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-to-the-members-of-the-rationalist-assoc-nla.obj-18208107&files=nla.obj-18208107-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-to-the-members-of-the-rationalist-assoc-nla.obj-18208107)
 
+### Report for ... triennium / Commonwealth Tertiary Education Commission
+**Commonwealth Tertiary Education Commission (Australia), 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+20 of 20 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26761282)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1277249998)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-triennium-commonwealth-tertiary-educati-nla.obj-1277249998&files=nla.obj-1277249998-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-triennium-commonwealth-tertiary-educati-nla.obj-1277249998)
+
+### Report for ... triennium / Tertiary Education Commission
+**Australia. Tertiary Education Commission, 1970-1984**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9021737)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-829625467)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-triennium-tertiary-education-commission-nla.obj-829625467&files=nla.obj-829625467-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-triennium-tertiary-education-commission-nla.obj-829625467)
+
+### Report for / Department of Education
+**Australia. Department of Education, 1973-1987**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11427313)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1297946654)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-department-of-education-nla.obj-1297946654&files=nla.obj-1297946654-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-department-of-education-nla.obj-1297946654)
+
+### Report for period ... / Australian Wool Corporation
+**Australian Wool Corporation, 1973**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18497134)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1694270136)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-period-australian-wool-corporation-nla.obj-1694270136&files=nla.obj-1694270136-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-period-australian-wool-corporation-nla.obj-1694270136)
+
+### Report for period / Department of Employment and Industrial Relations, Commonwealth Arbitration Inspectorate
+**Commonwealth Arbitration Inspectorate (Australia), 1976-1978**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26418790)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1284541862)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-period-department-of-employment-and-ind-nla.obj-1284541862&files=nla.obj-1284541862-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-period-department-of-employment-and-ind-nla.obj-1284541862)
+
+### Report for period ended 30th June ... / Clothing Factory
+**Australian Government Clothing Factory, 1912**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/28490729)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2518643839)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-period-ended-30th-june-clothing-factory-nla.obj-2518643839&files=nla.obj-2518643839-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-period-ended-30th-june-clothing-factory-nla.obj-2518643839)
+
+### Report for period ended... / Aerial, Geological and Geophysical Survey of Northern Australia
+**Aerial, Geological and Geophysical Survey of Northern Australia, 1935-1941**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+11 of 11 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18884429)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1666909622)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-period-ended-aerial-geological-and-geop-nla.obj-1666909622&files=nla.obj-1666909622-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-period-ended-aerial-geological-and-geop-nla.obj-1666909622)
+
+### Report for period... ... / Department of Industrial Relations
+**Australia. Department of Industrial Relations, 1980-1981**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/27580818)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-838023692)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-period-department-of-industrial-relatio-nla.obj-838023692&files=nla.obj-838023692-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-period-department-of-industrial-relatio-nla.obj-838023692)
+
+### Report for the ... biennium / Australian National Commission for Unesco
+**Australian National Commission for Unesco, 1978-1980**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18743641)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2345514166)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-biennium-australian-national-commis-nla.obj-2345514166&files=nla.obj-2345514166-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-biennium-australian-national-commis-nla.obj-2345514166)
+
 ### Report for the period ... / Army and Air Force Canteen Service. Board of Management
+**Australia. Army and Airforce Canteen Service. Board of Management, 1998-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -1753,7 +6684,240 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-army-and-air-force-canteen-s-nla.obj-1602490036&files=nla.obj-1602490036-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-army-and-air-force-canteen-s-nla.obj-1602490036)
 
+### Report for the period ... / Commonwealth Department of Education
+**Australia. Department of Education, 1973-1985**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/8479508)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2133025293)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-commonwealth-department-of-e-nla.obj-2133025293&files=nla.obj-2133025293-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-commonwealth-department-of-e-nla.obj-2133025293)
+
+### Report for the period ... / Department of Community Services and Health
+**Australia. Department of Community Services and Health. Policy Co-ordination Unit, 1987**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18260188)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1127378491)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-department-of-community-serv-nla.obj-1127378491&files=nla.obj-1127378491-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-department-of-community-serv-nla.obj-1127378491)
+
+### Report for the period ... / Department of Defence, Australian Military Court
+**Australian Defence Force. Office of the Director of Military Prosecutions, 2006-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26820582)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-900031569)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-department-of-defence-austra-nla.obj-900031569&files=nla.obj-900031569-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-department-of-defence-austra-nla.obj-900031569)
+
+### Report for the period ... / Department of Defence, Australian Military Court
+**Australian Defence Force. Office of the Director of Military Prosecutions, 2006-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26820582)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-743678606)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-department-of-defence-austra-nla.obj-743678606&files=nla.obj-743678606-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-department-of-defence-austra-nla.obj-743678606)
+
+### Report for the period ... / National Oceans Office
+**National Oceans Office (Australia), 1999-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/32746717)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-838826423)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-national-oceans-office-nla.obj-838826423&files=nla.obj-838826423-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-national-oceans-office-nla.obj-838826423)
+
+### Report for the period ... / Northern Territory Fisheries Joint Authority
+**Northern Territory Fisheries Joint Authority, 1990-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+14 of 14 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9292316)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-888441241)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-northern-territory-fisheries-nla.obj-888441241&files=nla.obj-888441241-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-northern-territory-fisheries-nla.obj-888441241)
+
+### Report for the period ... / the Northern Territory
+**Australia. Parliament, 1953-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/235717155)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1802428079)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-the-northern-territory-nla.obj-1802428079&files=nla.obj-1802428079-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-the-northern-territory-nla.obj-1802428079)
+
+### Report for the period ... / the Northern Territory
+**Northern Territory Administration, 1953-1955**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Microform
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13432652)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-54070539)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-the-northern-territory-nla.obj-54070539&files=nla.obj-54070539-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-the-northern-territory-nla.obj-54070539)
+
+### Report for the period / Australian Stevedoring Industry Authority
+**Australian Stevedoring Industry Authority, 1977-1978**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18154968)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1425685366)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-australian-stevedoring-indus-nla.obj-1425685366&files=nla.obj-1425685366-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-australian-stevedoring-indus-nla.obj-1425685366)
+
+### Report for the period / Queensland Fisheries Joint Authority
+**Queensland Fisheries Joint Authority, 1995-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+11 of 11 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/23480640)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-839376423)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-queensland-fisheries-joint-a-nla.obj-839376423&files=nla.obj-839376423-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-queensland-fisheries-joint-a-nla.obj-839376423)
+
+### Report for the period ended 30th June ... / Commonwealth Government Small Arms Factory
+**Small Arms Factory (Lithgow, N.S.W.), 1913**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6498398)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2531681020)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-ended-30th-june-commonwealth-nla.obj-2531681020&files=nla.obj-2531681020-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-period-ended-30th-june-commonwealth-nla.obj-2531681020)
+
+### Report for the year (Australian Institute of Marine Science)
+**Australian Institute of Marine Science, 1978-1986**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+9 of 9 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13376759)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-751701196)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-year-australian-institute-of-marine-nla.obj-751701196&files=nla.obj-751701196-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-year-australian-institute-of-marine-nla.obj-751701196)
+
+### Report for the year ... / Australian Housing Corporation
+**Australian Housing Corporation, 1975-1976**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9299038)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1135790741)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-year-australian-housing-corporation-nla.obj-1135790741&files=nla.obj-1135790741-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-year-australian-housing-corporation-nla.obj-1135790741)
+
+### Report for the year ... / Defence Service Homes Corporation
+**Defence Service Homes Corporation (Australia), 1977-1979**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/25601628)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1286999131)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-year-defence-service-homes-corporat-nla.obj-1286999131&files=nla.obj-1286999131-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-year-defence-service-homes-corporat-nla.obj-1286999131)
+
+### Report for the year ... / Military Board
+**Australia. Parliament, 1906**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/235203767)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2045057060)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-year-military-board-nla.obj-2045057060&files=nla.obj-2045057060-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-year-military-board-nla.obj-2045057060)
+
+### Report for the year ended 30 June / Aboriginal Land Commissioner
+**Australia. Office of the Aboriginal Land Commissioner, 1970-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+36 of 36 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12067339)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-741932715)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-year-ended-30-june-aboriginal-land--nla.obj-741932715&files=nla.obj-741932715-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-year-ended-30-june-aboriginal-land--nla.obj-741932715)
+
+### Report for the year ended 30 June / Stevedoring Industry Finance Committee
+**Australia. Stevedoring Industry Finance Committee, 1979**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18155121)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1954928622)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-year-ended-30-june-stevedoring-indu-nla.obj-1954928622&files=nla.obj-1954928622-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-year-ended-30-june-stevedoring-indu-nla.obj-1954928622)
+
+### Report for the year ended 30th June ... / Harness, Saddlery and Leather Accoutrements Factory
+**Harness, Saddlery and Leather Accoutrements Factory (Clifton Hill, Vic.), 1914-1916**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/32541040)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2575698916)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-year-ended-30th-june-harness-saddle-nla.obj-2575698916&files=nla.obj-2575698916-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-year-ended-30th-june-harness-saddle-nla.obj-2575698916)
+
+### Report for the year ended 31 December / New South Wales Rifle Association
+**New South Wales Rifle Association, 1860-1895**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18304100)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-435501635)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-year-ended-31-december-new-south-wa-nla.obj-435501635&files=nla.obj-435501635-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-the-year-ended-31-december-new-south-wa-nla.obj-435501635)
+
+### Report for year ended 30th June ... / Commonwealth Government Clothing Factory
+**Australian Government Clothing Factory, 1913-1916**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6498415)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2518706646)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-year-ended-30th-june-commonwealth-gover-nla.obj-2518706646&files=nla.obj-2518706646-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-for-year-ended-30th-june-commonwealth-gover-nla.obj-2518706646)
+
+### Report from the Joint Library Committee / House of Representatives
+**Australia. Parliament. Joint Library Committee, 1904-1925**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/239412857)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2749121910)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-from-the-joint-library-committee-house-of-r-nla.obj-2749121910&files=nla.obj-2749121910-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-from-the-joint-library-committee-house-of-r-nla.obj-2749121910)
+
 ### Report made to the ... yearly general meeting of the Van Diemen's Land Company : held at the Company's Office, in Broad Street
+**Van Diemen's Land Company, 1827-1862**  
+Periodical | Periodical/Journal, magazine, other
 
 9 of 9 issues have OCRd text available for download.
 
@@ -1762,7 +6926,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-made-to-the-yearly-general-meeting-of-the-v-nla.obj-718682805&files=nla.obj-718682805-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-made-to-the-yearly-general-meeting-of-the-v-nla.obj-718682805)
 
+### Report of Administrator
+**Northern Territory. Office of the Administrator, 1911-1925**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Microform
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13430924)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-55039913)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-administrator-nla.obj-55039913&files=nla.obj-55039913-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-administrator-nla.obj-55039913)
+
 ### Report of Council / Canberra College of Advanced Education
+**Canberra College of Advanced Education. Council, 1968-1989**  
+Periodical | Periodical/Journal, magazine, other
 
 21 of 21 issues have OCRd text available for download.
 
@@ -1771,7 +6948,53 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-council-canberra-college-of-advanced-edu-nla.obj-837314291&files=nla.obj-837314291-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-council-canberra-college-of-advanced-edu-nla.obj-837314291)
 
+### Report of activities / Department of the Media
+**Australia. Department of the Media, 1973-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11385037)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-838031721)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-activities-department-of-the-media-nla.obj-838031721&files=nla.obj-838031721-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-activities-department-of-the-media-nla.obj-838031721)
+
+### Report of activities for the period ... / Department of Aboriginal Affairs
+**Australia. Department of Aboriginal Affairs, 1972-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5687315)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-837102261)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-activities-for-the-period-department-of--nla.obj-837102261&files=nla.obj-837102261-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-activities-for-the-period-department-of--nla.obj-837102261)
+
+### Report of activities for the year ended 31st December / Australian Canned Fruit Sales Promotion Committee
+**Australian Canned Fruit Sales Promotion Committee, 1979-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26199592)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1296613004)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-activities-for-the-year-ended-31st-decem-nla.obj-1296613004&files=nla.obj-1296613004-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-activities-for-the-year-ended-31st-decem-nla.obj-1296613004)
+
+### Report of operations / SBS
+**Special Broadcasting Service Corporation, 1999-2001**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/7231495)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1445134133)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-operations-sbs-nla.obj-1445134133&files=nla.obj-1445134133-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-operations-sbs-nla.obj-1445134133)
+
 ### Report of proceedings / Intercolonial Trades' Union Congress
+**Intercolonial Trades Union Congress, 1879-1900**  
+Conference Proceedings | Microform | Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1780,7 +7003,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-proceedings-intercolonial-trades-union-c-nla.obj-407519848&files=nla.obj-407519848-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-proceedings-intercolonial-trades-union-c-nla.obj-407519848)
 
+### Report of the ... Annual Conference
+**Amalgamated Shearers' Union of Australasia, 1880-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/31817695)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2892855866)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-annual-conference-nla.obj-2892855866&files=nla.obj-2892855866-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-annual-conference-nla.obj-2892855866)
+
 ### Report of the ... annual meeting of the Church Society of the Diocese of Goulburn together with the report of the Committee, their financial account, a list of subscribers etc
+**Church Society for the Diocese of Goulburn, 1865**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1790,6 +7026,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-annual-meeting-of-the-church-society-nla.obj-401134591)
 
 ### Report of the ... annual meeting of the Maitland Benevolent Society ..
+**Maitland Benevolent Society, 1868**  
+Periodical | Periodical/Journal, magazine, other
 
 16 of 16 issues have OCRd text available for download.
 
@@ -1798,7 +7036,75 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-annual-meeting-of-the-maitland-benev-nla.obj-422862076&files=nla.obj-422862076-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-annual-meeting-of-the-maitland-benev-nla.obj-422862076)
 
+### Report of the ... session / National Health and Medical Research Council
+**National Health and Medical Research Council (Australia), 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Conference Proceedings
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21628872)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1962750287)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-session-national-health-and-medical--nla.obj-1962750287&files=nla.obj-1962750287-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-session-national-health-and-medical--nla.obj-1962750287)
+
+### Report of the Aborigines Welfare Board for the year ended ..
+**New South Wales. Aborigines Welfare Board, 1949-1968**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/20325680)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-274813955)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-aborigines-welfare-board-for-the-yea-nla.obj-274813955&files=nla.obj-274813955-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-aborigines-welfare-board-for-the-yea-nla.obj-274813955)
+
+### Report of the Acting Administrator
+**Northern Territory. Office of the Administrator, 1911-1926**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Microform
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13429974)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-54060879)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-acting-administrator-nla.obj-54060879&files=nla.obj-54060879-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-acting-administrator-nla.obj-54060879)
+
+### Report of the Acting Administrator
+**Australia. Parliament, 1927**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/235717154)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2497230354)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-acting-administrator-nla.obj-2497230354&files=nla.obj-2497230354-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-acting-administrator-nla.obj-2497230354)
+
+### Report of the Acting Administrator
+**Northern Territory. Office of the Administrator, 1911-1926**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Microform
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13429974)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-55038677)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-acting-administrator-nla.obj-55038677&files=nla.obj-55038677-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-acting-administrator-nla.obj-55038677)
+
+### Report of the Administrator
+**Northern Territory. Office of the Administrator, 1912-1919**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Microform
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13430672)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-54061242)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-administrator-nla.obj-54061242&files=nla.obj-54061242-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-administrator-nla.obj-54061242)
+
 ### Report of the Agricultural and Horticultural Society of New South Wales
+**Agricultural and Horticultural Society of New South Wales, 1828-1830**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -1807,7 +7113,86 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-agricultural-and-horticultural-socie-nla.obj-1305627184&files=nla.obj-1305627184-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-agricultural-and-horticultural-socie-nla.obj-1305627184)
 
+### Report of the Auditor-General accompanied by the Treasurer's statement of receipts and expenditure for year..
+**Australia. Auditor-General's Office, 1962-1977**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+16 of 16 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/20964364)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1287864476)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-auditor-general-accompanied-by-the-t-nla.obj-1287864476&files=nla.obj-1287864476-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-auditor-general-accompanied-by-the-t-nla.obj-1287864476)
+
+### Report of the Auditor-General on efficiency audits
+**Australia. Auditor-General's Office, 1980-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16578549)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-836521009)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-auditor-general-on-efficiency-audits-nla.obj-836521009&files=nla.obj-836521009-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-auditor-general-on-efficiency-audits-nla.obj-836521009)
+
+### Report of the Auditor-General upon audits, examinations and inspections under the Audit and other Acts
+**Australian Audit Office, 1984-1986**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12930905)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1526037269)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-auditor-general-upon-audits-examinat-nla.obj-1526037269&files=nla.obj-1526037269-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-auditor-general-upon-audits-examinat-nla.obj-1526037269)
+
+### Report of the Auditor-General upon audits, examinations and inspections under the Audit and other acts
+**Australia. Auditor-General's Office, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+9 of 9 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10262768)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1537652298)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-auditor-general-upon-audits-examinat-nla.obj-1537652298&files=nla.obj-1537652298-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-auditor-general-upon-audits-examinat-nla.obj-1537652298)
+
+### Report of the Auditor-General upon the financial statements prepared by the Minister for Finance and upon other accounts
+**Australia. Auditor-General's Office, 1979-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10234825)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1371947658)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-auditor-general-upon-the-financial-s-nla.obj-1371947658&files=nla.obj-1371947658-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-auditor-general-upon-the-financial-s-nla.obj-1371947658)
+
+### Report of the Auditor-General upon the financial statements prepared by the Minister for Finance for the year ended 30 June ..
+**Australian Audit Office, 1984-1985**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22485090)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1597988010)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-auditor-general-upon-the-financial-s-nla.obj-1597988010&files=nla.obj-1597988010-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-auditor-general-upon-the-financial-s-nla.obj-1597988010)
+
+### Report of the Auditor-General upon the statement of receipts & expenditure presented by the Minister for Finance and upon other accounts
+**Australia. Auditor-General's Office, 1978-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10234830)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1270248615)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-auditor-general-upon-the-statement-o-nla.obj-1270248615&files=nla.obj-1270248615-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-auditor-general-upon-the-statement-o-nla.obj-1270248615)
+
 ### Report of the Australasian White Cross League
+**Australasian White Cross League, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1816,7 +7201,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australasian-white-cross-league-nla.obj-359549693&files=nla.obj-359549693-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australasian-white-cross-league-nla.obj-359549693)
 
+### Report of the Australian Delegation
+**Australia. Delegation to the General Assembly of the United Nations, 1900-2021**  
+Government publication | Conference Proceedings | Periodical | Periodical/Journal, magazine, other | Microform
+
+35 of 35 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12761635)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-829608106)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australian-delegation-nla.obj-829608106&files=nla.obj-829608106-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australian-delegation-nla.obj-829608106)
+
+### Report of the Australian Delegation
+**Australia. Delegation to the United Nations Commission on Human Rights, 1900-1994**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13398360)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1969435767)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australian-delegation-nla.obj-1969435767&files=nla.obj-1969435767-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australian-delegation-nla.obj-1969435767)
+
 ### Report of the Australian Institute of Aboriginal Studies for the period ..
+**Australian Institute of Aboriginal Studies, 1964-1966**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -1825,7 +7234,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australian-institute-of-aboriginal-s-nla.obj-2744263363&files=nla.obj-2744263363-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australian-institute-of-aboriginal-s-nla.obj-2744263363)
 
+### Report of the Australian Meat and Live-stock Corporation : for the period ... ..
+**Australian Meat and Live-stock Corporation, 1978-1985**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22228600)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-751702020)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australian-meat-and-live-stock-corpo-nla.obj-751702020&files=nla.obj-751702020-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australian-meat-and-live-stock-corpo-nla.obj-751702020)
+
 ### Report of the Australian Meat and Live-stock Industry Selection Committee
+**Australian Meat and Live-stock Industry Selection Committee, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 4 of 4 issues have OCRd text available for download.
 
@@ -1834,7 +7256,141 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australian-meat-and-live-stock-indus-nla.obj-1169050263&files=nla.obj-1169050263-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australian-meat-and-live-stock-indus-nla.obj-1169050263)
 
+### Report of the Australian Universities Commission
+**Martin, Leslie Harold, Sir, 1900-1983, 1958-1979**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5545832)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1311999699)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australian-universities-commission-nla.obj-1311999699&files=nla.obj-1311999699-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australian-universities-commission-nla.obj-1311999699)
+
+### Report of the Australian delegate
+**Australia. Delegation to the Assembly of the League of Nations, 1928**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+21 of 21 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/32828790)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2478361136)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australian-delegate-nla.obj-2478361136&files=nla.obj-2478361136-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australian-delegate-nla.obj-2478361136)
+
+### Report of the Australian delegate
+**Australia. Delegation to the League of Nations Economic Consultative Committee, 1928**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/35260090)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2736351108)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australian-delegate-nla.obj-2736351108&files=nla.obj-2736351108-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australian-delegate-nla.obj-2736351108)
+
+### Report of the Australian delegation to the ... conference of the Inter-Parliamentary Union
+**Australia. Delegation to the Conference of the Inter-parliamentary Union, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+34 of 34 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/23118514)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1306142244)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australian-delegation-to-the-confere-nla.obj-1306142244&files=nla.obj-1306142244-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-australian-delegation-to-the-confere-nla.obj-1306142244)
+
+### Report of the Board
+**New South Wales. Aborigines Protection Board, 1883**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18561104)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-53849807)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-board-nla.obj-53849807&files=nla.obj-53849807-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-board-nla.obj-53849807)
+
+### Report of the Board for the Protection of the Aborigines
+**Victoria. Board for the Protection of the Aborigines, 1854-1925**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10653589)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-54119543)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-board-for-the-protection-of-the-abor-nla.obj-54119543&files=nla.obj-54119543-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-board-for-the-protection-of-the-abor-nla.obj-54119543)
+
+### Report of the Board for the Protection of the Aborigines in the Colony of Victoria
+**Board for the Protection of the Aborigines in the Colony of Victoria, 1871-1895**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18405570)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-53983557)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-board-for-the-protection-of-the-abor-nla.obj-53983557&files=nla.obj-53983557-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-board-for-the-protection-of-the-abor-nla.obj-53983557)
+
+### Report of the Central Wool Committee relating to the wool season ..
+**Australia. Parliament, 1910-1940**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/235711870)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1848034086)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-central-wool-committee-relating-to-t-nla.obj-1848034086&files=nla.obj-1848034086-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-central-wool-committee-relating-to-t-nla.obj-1848034086)
+
+### Report of the Commissioner of Taxation
+**Australian Taxation Office, 1923-1984**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5497705)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1968569455)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-commissioner-of-taxation-nla.obj-1968569455&files=nla.obj-1968569455-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-commissioner-of-taxation-nla.obj-1968569455)
+
+### Report of the Commissioner of Taxation
+**Australian Taxation Office, 1923-1984**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5497705)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1318648344)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-commissioner-of-taxation-nla.obj-1318648344&files=nla.obj-1318648344-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-commissioner-of-taxation-nla.obj-1318648344)
+
+### Report of the Commissioner of Taxation
+**Australian Taxation Office, 1923-1984**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+40 of 40 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5497705)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1905092999)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-commissioner-of-taxation-nla.obj-1905092999&files=nla.obj-1905092999-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-commissioner-of-taxation-nla.obj-1905092999)
+
+### Report of the Commonwealth Advisory Committee on Advanced Education
+**Commonwealth Advisory Committee on Advanced Education (Australia), 1966-1969**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9531459)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2730672048)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-commonwealth-advisory-committee-on-a-nla.obj-2730672048&files=nla.obj-2730672048-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-commonwealth-advisory-committee-on-a-nla.obj-2730672048)
+
 ### Report of the Cottage Home for Destitute Children, Newtown
+**Cottage Home for Destitute Children (Newtown, N.S.W.), 1880-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -1844,6 +7400,19 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-cottage-home-for-destitute-children--nla.obj-401605881)
 
 ### Report of the Council
+**Australian National University, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13114479)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1071830798)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-council-nla.obj-1071830798&files=nla.obj-1071830798-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-council-nla.obj-1071830798)
+
+### Report of the Council
+**Australian National University, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -1852,7 +7421,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-council-nla.obj-1135797708&files=nla.obj-1135797708-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-council-nla.obj-1135797708)
 
+### Report of the Council
+**Australian National University, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+9 of 9 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13114479)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1654125066)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-council-nla.obj-1654125066&files=nla.obj-1654125066-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-council-nla.obj-1654125066)
+
+### Report of the Council
+**Australian National University, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+27 of 27 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13114479)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-751702465)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-council-nla.obj-751702465&files=nla.obj-751702465-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-council-nla.obj-751702465)
+
+### Report of the Council of Education upon the condition of the public schools
+**Council of Education (N.S.W.), 1867-1879**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19413767)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-190470611)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-council-of-education-upon-the-condit-nla.obj-190470611&files=nla.obj-190470611-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-council-of-education-upon-the-condit-nla.obj-190470611)
+
 ### Report of the Council of the Australian Institute of Aboriginal Studies for the year ended 30 June ..
+**Australian Institute of Aboriginal Studies, 1973-1989**  
+Periodical | Periodical/Journal, magazine, other
 
 17 of 17 issues have OCRd text available for download.
 
@@ -1862,6 +7466,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-council-of-the-australian-institute--nla.obj-1065435315)
 
 ### Report of the Council of the Australian Institute of Aboriginal and Torres Strait Islander Studies for the year ended 30 June ..
+**Australian Institute of Aboriginal and Torres Strait Islander Studies, 1990-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 9 of 9 issues have OCRd text available for download.
 
@@ -1870,7 +7476,97 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-council-of-the-australian-institute--nla.obj-1554893804&files=nla.obj-1554893804-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-council-of-the-australian-institute--nla.obj-1554893804)
 
+### Report of the Decimal Currency Board
+**Australia. Decimal Currency Board, 1964-1969**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11377674)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2518402207)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-decimal-currency-board-nla.obj-2518402207&files=nla.obj-2518402207-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-decimal-currency-board-nla.obj-2518402207)
+
+### Report of the Department of External Affairs for the year ended ..
+**Australia. Department of External Affairs, 1936-1940**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11873621)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2531797690)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-department-of-external-affairs-for-t-nla.obj-2531797690&files=nla.obj-2531797690-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-department-of-external-affairs-for-t-nla.obj-2531797690)
+
+### Report of the Director of Defence Service Homes of operations in relation to insurance
+**Australia. Director of Defence Service Homes, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11381429)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1759907094)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-director-of-defence-service-homes-of-nla.obj-1759907094&files=nla.obj-1759907094-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-director-of-defence-service-homes-of-nla.obj-1759907094)
+
+### Report of the Director of Defence Service Homes of operations other than insurance and financial statements
+**Australia. Director of Defence Service Homes, 1900-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11381667)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1296492163)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-director-of-defence-service-homes-of-nla.obj-1296492163&files=nla.obj-1296492163-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-director-of-defence-service-homes-of-nla.obj-1296492163)
+
+### Report of the Director of War Service Homes
+**Australia. Parliament, 1948-1963**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/235711869)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1759478561)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-director-of-war-service-homes-nla.obj-1759478561&files=nla.obj-1759478561-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-director-of-war-service-homes-nla.obj-1759478561)
+
+### Report of the Director of War Service Homes
+**Australia. Department of National Development. War Service Homes Division, 1956-1963**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/17107249)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1727884054)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-director-of-war-service-homes-nla.obj-1727884054&files=nla.obj-1727884054-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-director-of-war-service-homes-nla.obj-1727884054)
+
+### Report of the Director of War Service Homes
+**Australia. Parliament, 1948-1963**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/235711869)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1759606391)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-director-of-war-service-homes-nla.obj-1759606391&files=nla.obj-1759606391-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-director-of-war-service-homes-nla.obj-1759606391)
+
+### Report of the Director-General of Social Services / Department of Social Services
+**Australia. Department of Social Services, 1942-1972**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+31 of 31 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12755833)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-839832751)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-director-general-of-social-services--nla.obj-839832751&files=nla.obj-839832751-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-director-general-of-social-services--nla.obj-839832751)
+
 ### Report of the Directors of the English and Australian Copper Company presented at the ... general meeting of the proprietors
+**English and Australian Copper Company, 1852-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1879,7 +7575,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-directors-of-the-english-and-austral-nla.obj-163710085&files=nla.obj-163710085-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-directors-of-the-english-and-austral-nla.obj-163710085)
 
+### Report of the Federal Health Council of Australia
+**Federal Health Council of Australia, 1927-1936**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/34198355)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2656902777)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-federal-health-council-of-australia-nla.obj-2656902777&files=nla.obj-2656902777-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-federal-health-council-of-australia-nla.obj-2656902777)
+
+### Report of the Government Resident
+**Northern Territory. Office of the Administrator, 1910**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13429858)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-55037820)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-government-resident-nla.obj-55037820&files=nla.obj-55037820-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-government-resident-nla.obj-55037820)
+
 ### Report of the Hobart Town Branch Society for Promoting Christian Knowledge, and for the Propagation of the Gospel
+**Hobart Town Branch Society for Promoting Christian Knowledge, and for the Propagation of the Gospel, 1800**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1888,7 +7608,53 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-hobart-town-branch-society-for-promo-nla.obj-671768749&files=nla.obj-671768749-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-hobart-town-branch-society-for-promo-nla.obj-671768749)
 
+### Report of the Inspector-General of the Australian Military Forces / Sir H.G. Chauvel
+**Chauvel, Henry George, Sir, 1865-1945, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/152907959)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2531738149)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-inspector-general-of-the-australian--nla.obj-2531738149&files=nla.obj-2531738149-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-inspector-general-of-the-australian--nla.obj-2531738149)
+
+### Report of the Minister for Social Welfare on the working of the Aborigines Act, 1969
+**New South Wales. Department of Child Welfare and Social Welfare, 1969-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6425481)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2136577034)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-minister-for-social-welfare-on-the-w-nla.obj-2136577034&files=nla.obj-2136577034-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-minister-for-social-welfare-on-the-w-nla.obj-2136577034)
+
+### Report of the Minister of Public Instruction upon the condition of public schools established and maintained under the Public Instruction Act of 1880
+**New South Wales. Department of Public Instruction, 1880-1956**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19413749)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-190495804)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-minister-of-public-instruction-upon--nla.obj-190495804&files=nla.obj-190495804-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-minister-of-public-instruction-upon--nla.obj-190495804)
+
+### Report of the Munitions Supply Board
+**Australia. Parliament, 1921-1937**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/236420931)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2363349776)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-munitions-supply-board-nla.obj-2363349776&files=nla.obj-2363349776-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-munitions-supply-board-nla.obj-2363349776)
+
 ### Report of the New South Wales Auxiliary Bible Society
+**British and Foreign Bible Society. New South Wales Auxiliary, 1840**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1897,7 +7663,53 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-new-south-wales-auxiliary-bible-soci-nla.obj-435388219&files=nla.obj-435388219-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-new-south-wales-auxiliary-bible-soci-nla.obj-435388219)
 
+### Report of the Parliamentary Joint Committee on Native Title
+**Australia. Parliament. Joint Committee on Native Title, 1994-1995**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22422896)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1603935074)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-parliamentary-joint-committee-on-nat-nla.obj-1603935074&files=nla.obj-1603935074-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-parliamentary-joint-committee-on-nat-nla.obj-1603935074)
+
+### Report of the Parliamentary Standing Committee on Broadcasting
+**Australia. Parliament. Standing Committee on Broadcasting, 1943**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+17 of 17 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/32643751)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1907311013)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-parliamentary-standing-committee-on--nla.obj-1907311013&files=nla.obj-1907311013-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-parliamentary-standing-committee-on--nla.obj-1907311013)
+
+### Report of the Poultry Research Advisory Committee covering the period from ..
+**Australia. Poultry Research Advisory Committee, 1973-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/17050572)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1425813230)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-poultry-research-advisory-committee--nla.obj-1425813230&files=nla.obj-1425813230-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-poultry-research-advisory-committee--nla.obj-1425813230)
+
+### Report of the Repatriation Commission for the year ending 30th June ..
+**Australia. Parliament, 1921-1961**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/236208099)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1685170258)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-repatriation-commission-for-the-year-nla.obj-1685170258&files=nla.obj-1685170258-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-repatriation-commission-for-the-year-nla.obj-1685170258)
+
 ### Report of the Repatriation Commission... / Parliament of the Commonwealth of Australia. Australian Soldiers' Repatriation Act
+**1921-1961**  
+Periodical | Periodical/Journal, magazine, other
 
 41 of 41 issues have OCRd text available for download.
 
@@ -1906,7 +7718,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-repatriation-commission-parliament-o-nla.obj-501176551&files=nla.obj-501176551-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-repatriation-commission-parliament-o-nla.obj-501176551)
 
+### Report of the Royal Australian Naval College for..
+**Royal Australian Naval College, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22881942)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2342759015)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-royal-australian-naval-college-for-nla.obj-2342759015&files=nla.obj-2342759015-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-royal-australian-naval-college-for-nla.obj-2342759015)
+
+### Report of the Secretary for the year ... / Department of Industrial and Reformatory Schools
+**Victoria. Department of Industrial and Reformatory Schools, 1882**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18560831)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-651792931)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-secretary-for-the-year-department-of-nla.obj-651792931&files=nla.obj-651792931-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-secretary-for-the-year-department-of-nla.obj-651792931)
+
 ### Report of the Senate Select Committee on Superannuation / Parliament of the Commonwealth of Australia
+**Australia. Parliament. Senate. Select Committee on Superannuation, 1992-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 28 of 28 issues have OCRd text available for download.
 
@@ -1915,7 +7751,53 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-senate-select-committee-on-superannu-nla.obj-1333655593&files=nla.obj-1333655593-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-senate-select-committee-on-superannu-nla.obj-1333655593)
 
+### Report of the Sustentation and Home Mission Society ; of the Methodist Church of Australasia in New South Wales
+**Methodist Church of Australasia. New South Wales Conference. Sustentation and Home Mission Society, 1900**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/24532410)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2924523509)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-sustentation-and-home-mission-societ-nla.obj-2924523509&files=nla.obj-2924523509-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-sustentation-and-home-mission-societ-nla.obj-2924523509)
+
+### Report of the Technical and Further Education Commission
+**Australia. Technical and Further Education Commission, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11530153)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1424327022)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-technical-and-further-education-comm-nla.obj-1424327022&files=nla.obj-1424327022-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-technical-and-further-education-comm-nla.obj-1424327022)
+
+### Report of the War Pensions Entitlement Appeal Tribunal for year ended ..
+**Australia. War Pensions Entitlement Appeal Tribunal, 1930-1949**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238881902)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2563280318)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-war-pensions-entitlement-appeal-trib-nla.obj-2563280318&files=nla.obj-2563280318-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-war-pensions-entitlement-appeal-trib-nla.obj-2563280318)
+
+### Report of the War Service Homes Commission ... / Australia, War Service Homes Commission
+**Australia. War Service Homes Commission, 1928-1947**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+17 of 17 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/17107362)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1630408237)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-war-service-homes-commission-austral-nla.obj-1630408237&files=nla.obj-1630408237-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-war-service-homes-commission-austral-nla.obj-1630408237)
+
 ### Report of the Western Australian Association
+**Western Australian Association, 1836-1837**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1924,7 +7806,53 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-western-australian-association-nla.obj-306670024&files=nla.obj-306670024-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-western-australian-association-nla.obj-306670024)
 
+### Report of the activities carried out under the National Fitness Act 1941 for the year ..
+**Commonwealth Council for National Fitness (Australia), 1900-1966**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18287922)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2237504313)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-activities-carried-out-under-the-nat-nla.obj-2237504313&files=nla.obj-2237504313-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-activities-carried-out-under-the-nat-nla.obj-2237504313)
+
+### Report of the council and financial statement / Australian Institute of Marine Science
+**Australian Institute of Marine Science, 1973-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12096999)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1600061844)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-council-and-financial-statement-aust-nla.obj-1600061844&files=nla.obj-1600061844-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-council-and-financial-statement-aust-nla.obj-1600061844)
+
+### Report of the director of the Philippine Weather Bureau / Dept. of the Interior, Philippine Weather Bureau
+**Philippines. Weather Bureau, 1902**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/31806193)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2929877133)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-director-of-the-philippine-weather-b-nla.obj-2929877133&files=nla.obj-2929877133-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-director-of-the-philippine-weather-b-nla.obj-2929877133)
+
+### Report of the director-general
+**Australia. Army. Commonwealth Military Cadet Corps, 1909-1910**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/29135795)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2783784726)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-director-general-nla.obj-2783784726&files=nla.obj-2783784726-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-director-general-nla.obj-2783784726)
+
 ### Report of the directors / London Chartered Bank of Australia
+****  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1933,7 +7861,614 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-directors-london-chartered-bank-of-a-nla.obj-61977546&files=nla.obj-61977546-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-directors-london-chartered-bank-of-a-nla.obj-61977546)
 
+### Report of the operations of the Committee / Legal Aid Committee of the Australian Capital Territory
+**Legal Aid Committee of the Australian Capital Territory, 1972**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18150938)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1295746852)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-operations-of-the-committee-legal-ai-nla.obj-1295746852&files=nla.obj-1295746852-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-of-the-operations-of-the-committee-legal-ai-nla.obj-1295746852)
+
+### Report on Commonwealth Railways operations for the year ended 30th June ..
+**Commonwealth Railways (Australia), 1927-1961**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+19 of 19 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21827796)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1642345383)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-commonwealth-railways-operations-for-the-nla.obj-1642345383&files=nla.obj-1642345383-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-commonwealth-railways-operations-for-the-nla.obj-1642345383)
+
+### Report on GST revenue sharing relativities : ... update / Commonwealth Grants Commission
+**Commonwealth Grants Commission (Australia), 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13850029)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-744073927)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-gst-revenue-sharing-relativities-update--nla.obj-744073927&files=nla.obj-744073927-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-gst-revenue-sharing-relativities-update--nla.obj-744073927)
+
+### Report on Marine Sciences and Technologies Grants for ... : grants approved and fellowships awarded / Marine Research Allocations Advisory Committee
+**Australia. Marine Research Allocations Advisory Committee, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10811941)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1578779493)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-marine-sciences-and-technologies-grants--nla.obj-1578779493&files=nla.obj-1578779493-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-marine-sciences-and-technologies-grants--nla.obj-1578779493)
+
+### Report on activities
+**Australian Council for Employment and Training, 1987-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18380981)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1906103000)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-activities-nla.obj-1906103000&files=nla.obj-1906103000-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-activities-nla.obj-1906103000)
+
+### Report on activities ... / Film Censorship Board
+**Australia. Film Censorship Board, 1980-1994**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/8887224)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-837148874)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-activities-film-censorship-board-nla.obj-837148874&files=nla.obj-837148874-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-activities-film-censorship-board-nla.obj-837148874)
+
+### Report on activities for period ... / Australian Broadcasting Tribunal
+**Australian Broadcasting Tribunal, 1992**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10872992)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1646668783)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-activities-for-period-australian-broadca-nla.obj-1646668783&files=nla.obj-1646668783-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-activities-for-period-australian-broadca-nla.obj-1646668783)
+
+### Report on advanced education / Australian Commission on Advanced Education
+**Australia. Commission on Advanced Education, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16349879)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-337909153)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-advanced-education-australian-commission-nla.obj-337909153&files=nla.obj-337909153-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-advanced-education-australian-commission-nla.obj-337909153)
+
+### Report on audits / The Auditor-General
+**Australian Audit Office, 1986-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9571362)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1525595405)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-audits-the-auditor-general-nla.obj-1525595405&files=nla.obj-1525595405-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-audits-the-auditor-general-nla.obj-1525595405)
+
+### Report on financial assistance for local government / Local Government Grants Commission, Queensland
+**Queensland. Local Government Grants Commission, 1977-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21640485)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2363081984)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-financial-assistance-for-local-governmen-nla.obj-2363081984&files=nla.obj-2363081984-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-financial-assistance-for-local-governmen-nla.obj-2363081984)
+
+### Report on general revenue grant relativities / Commonwealth Grants Commission
+**Commonwealth Grants Commission (Australia), 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+19 of 19 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5548280)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1426938346)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-general-revenue-grant-relativities-commo-nla.obj-1426938346&files=nla.obj-1426938346-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-general-revenue-grant-relativities-commo-nla.obj-1426938346)
+
+### Report on operations ... including Rural Adjustment Scheme report ... / Rural Adjustment Scheme Advisory Council
+**Australia. Rural Adjustment Scheme Advisory Council, 1993**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11309585)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2398090902)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-operations-including-rural-adjustment-sc-nla.obj-2398090902&files=nla.obj-2398090902-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-operations-including-rural-adjustment-sc-nla.obj-2398090902)
+
+### Report on operations for the year ended 30 June ... / Defence Service Homes Corporation
+**Defence Service Homes Corporation (Australia), 1980-1982**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/25529400)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1405083648)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-operations-for-the-year-ended-30-june-de-nla.obj-1405083648&files=nla.obj-1405083648-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-operations-for-the-year-ended-30-june-de-nla.obj-1405083648)
+
+### Report on proposals for variations of the plan of the layout of the city of Canberra and its environs / Parliament of the Commonwealth of Australia, Joint Committee on the Australian Capital Territory
+**Australia. Parliament. Joint Committee on the Australian Capital Territory, 1920-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+56 of 56 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6309673)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1108167744)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-proposals-for-variations-of-the-plan-of--nla.obj-1108167744&files=nla.obj-1108167744-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-proposals-for-variations-of-the-plan-of--nla.obj-1108167744)
+
+### Report on proposals for variations to the plan of layout of the city of Canberra and its environs
+**Australia. Parliament. Joint Sub-Committee on Variations to the Plan of Layout of the City of Canberra and its Environs, 1988-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19138645)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1161603270)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-proposals-for-variations-to-the-plan-of--nla.obj-1161603270&files=nla.obj-1161603270-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-proposals-for-variations-to-the-plan-of--nla.obj-1161603270)
+
+### Report on special assistance for states / Grants Commission
+**Australia. Grants Commission, 1974-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11382009)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1296504458)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-special-assistance-for-states-grants-com-nla.obj-1296504458&files=nla.obj-1296504458-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-special-assistance-for-states-grants-com-nla.obj-1296504458)
+
+### Report on special assistance for the Northern Territory / Commonwealth Grants Commission
+**Commonwealth Grants Commission (Australia), 1979-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26768896)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1425844905)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-special-assistance-for-the-northern-terr-nla.obj-1425844905&files=nla.obj-1425844905-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-special-assistance-for-the-northern-terr-nla.obj-1425844905)
+
+### Report on state rifle associations, district rifle club unions and rifle clubs for year ended 30th June, ..
+**Australia. Parliament, 1914-1916**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/239118030)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2615180228)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-state-rifle-associations-district-rifle--nla.obj-2615180228&files=nla.obj-2615180228-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-state-rifle-associations-district-rifle--nla.obj-2615180228)
+
+### Report on the Brisbane Botanic Garden
+**Brisbane Botanic Gardens, 1861-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6511420)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1305570069)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-brisbane-botanic-garden-nla.obj-1305570069&files=nla.obj-1305570069-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-brisbane-botanic-garden-nla.obj-1305570069)
+
+### Report on the Commonwealth Public Service / issued by the Commissioner
+**Australia. Parliament, 1904-1923**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+18 of 18 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/234939992)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2576476205)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-commonwealth-public-service-issued-b-nla.obj-2576476205&files=nla.obj-2576476205-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-commonwealth-public-service-issued-b-nla.obj-2576476205)
+
+### Report on the Commonwealth public service by the Board of Commissioners / Public Service Board of Commissioners
+**Commonwealth Public Service Board (Australia), 1923-1953**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+25 of 25 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19188491)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1997060046)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-commonwealth-public-service-by-the-b-nla.obj-1997060046&files=nla.obj-1997060046-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-commonwealth-public-service-by-the-b-nla.obj-1997060046)
+
+### Report on the Public Service of the Commonwealth by the Public Service Board / Public Service Board
+**Commonwealth Public Service Board (Australia), 1955-1964**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19188564)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1905843571)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-public-service-of-the-commonwealth-b-nla.obj-1905843571&files=nla.obj-1905843571-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-public-service-of-the-commonwealth-b-nla.obj-1905843571)
+
+### Report on the Royal Military College of Australia ..
+**Royal Military College (Duntroon, A.C.T.), 1911-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+21 of 21 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22263638)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-837100773)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-royal-military-college-of-australia-nla.obj-837100773&files=nla.obj-837100773-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-royal-military-college-of-australia-nla.obj-837100773)
+
+### Report on the Sanitary [Sanatory] Station for the year... / Victoria. Chief Medical Officer
+**Victoria. Chief Medical Officer, 1858-1884**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+25 of 25 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5260858)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2638837479)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-sanitary-sanatory-station-for-the-ye-nla.obj-2638837479&files=nla.obj-2638837479-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-sanitary-sanatory-station-for-the-ye-nla.obj-2638837479)
+
+### Report on the administration of Central Australia
+**Central Australia. Government Resident, 1928-1929**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13413491)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2597097817)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-administration-of-central-australia-nla.obj-2597097817&files=nla.obj-2597097817-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-administration-of-central-australia-nla.obj-2597097817)
+
+### Report on the administration of Nauru ... / prepared by the Administrator for submission to the League of Nations
+**Nauru. Administrator, 1900-1924**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Microform
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/8124934)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-469371706)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-administration-of-nauru-prepared-by--nla.obj-469371706&files=nla.obj-469371706-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-administration-of-nauru-prepared-by--nla.obj-469371706)
+
+### Report on the administration of North Australia
+**North Australia. Administration, 1928-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Microform
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13428600)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1805041433)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-administration-of-north-australia-nla.obj-1805041433&files=nla.obj-1805041433-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-administration-of-north-australia-nla.obj-1805041433)
+
+### Report on the administration of North Australia
+**North Australia. Administration, 1928-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Microform
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13428600)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-55046396)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-administration-of-north-australia-nla.obj-55046396&files=nla.obj-55046396-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-administration-of-north-australia-nla.obj-55046396)
+
+### Report on the administration of the Northern Territory ... and on the administration of the Territory of North Australia
+**Northern Territory Administration, 1927-1973**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Microform
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13428588)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-55045457)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-administration-of-the-northern-terri-nla.obj-55045457&files=nla.obj-55045457-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-administration-of-the-northern-terri-nla.obj-55045457)
+
+### Report on the administration of the Northern Territory / Northern Territory Administration
+**Northern Territory Administration, 1931-1949**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Microform
+
+15 of 16 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/17856804)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-54074665)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-administration-of-the-northern-terri-nla.obj-54074665&files=nla.obj-54074665-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-administration-of-the-northern-terri-nla.obj-54074665)
+
+### Report on the administration of the Northern Territory / Northern Territory Administration
+**Northern Territory Administration, 1931-1949**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Microform
+
+15 of 15 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/17856804)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1804224789)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-administration-of-the-northern-terri-nla.obj-1804224789&files=nla.obj-1804224789-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-administration-of-the-northern-terri-nla.obj-1804224789)
+
+### Report on the application of financial assistance granted to non-government schools in respect of ... : States Grants (Schools Assistance) Act 1988 : pursuant to Section 51 of the States Grants (Schools Assistance) Act 1988 / Department of Employment, Education and Training
+**Australia. Department of Employment, Education and Training, 1989-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/20312530)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1387921840)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-application-of-financial-assistance--nla.obj-1387921840&files=nla.obj-1387921840-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-application-of-financial-assistance--nla.obj-1387921840)
+
+### Report on the applications made in ... by the States of South Australia, Western Australia, and Tasmania, for financial assistance from the Commonwealth under Section 96 of the Constitution / Commonwealth Grants Commission
+**Commonwealth Grants Commission (Australia), 1933-1970**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+13 of 13 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18390971)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1571450539)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-applications-made-in-by-the-states-o-nla.obj-1571450539&files=nla.obj-1571450539-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-applications-made-in-by-the-states-o-nla.obj-1571450539)
+
+### Report on the financial statements prepared by the Minister for Finance for the year ended ... / the Auditor-General
+**Australian Audit Office, 1980-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12266892)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1127794630)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-financial-statements-prepared-by-the-nla.obj-1127794630&files=nla.obj-1127794630-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-financial-statements-prepared-by-the-nla.obj-1127794630)
+
+### Report on the general administration and operation of the Papua New Guinea Superannuation Scheme and the Contract Officers Retirement Benefits Scheme for the year ended 30 June
+**Australian Government Retirement Benefits Office, 1977-1978**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11063299)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1298033663)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-general-administration-and-operation-nla.obj-1298033663&files=nla.obj-1298033663-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-general-administration-and-operation-nla.obj-1298033663)
+
+### Report on the operation of part 2 of the Primary Industry Bank Act 1977 / Department of the Treasury
+**Australia, 1978-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+9 of 9 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/27600005)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1048763156)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-operation-of-part-2-of-the-primary-i-nla.obj-1048763156&files=nla.obj-1048763156-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-operation-of-part-2-of-the-primary-i-nla.obj-1048763156)
+
+### Report on the operation of the Student Assistance Act / prepared by ... Minister for Employment and Education Services, for presentation to Parliament in pursuance of Section 35 of the Act
+**Australia. Department of Employment, Education and Training, 1973-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Microform
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16458557)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-836784345)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-operation-of-the-student-assistance--nla.obj-836784345&files=nla.obj-836784345-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-operation-of-the-student-assistance--nla.obj-836784345)
+
+### Report on the operation of the Student Assistance Act in ..
+**Australia. Department of Education, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13782906)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-836774506)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-operation-of-the-student-assistance--nla.obj-836774506&files=nla.obj-836774506-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-operation-of-the-student-assistance--nla.obj-836774506)
+
+### Report on the operation of the Student Assistance Act in ..
+**Australia. Department of Education, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13782906)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-836779879)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-operation-of-the-student-assistance--nla.obj-836779879&files=nla.obj-836779879-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-operation-of-the-student-assistance--nla.obj-836779879)
+
+### Report on the operation of the War Crimes Act 1945 to June
+**Australia. Attorney-General's Department. Special Investigations Unit, 1990-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+22 of 22 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/15990142)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-742213998)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-operation-of-the-war-crimes-act-1945-nla.obj-742213998&files=nla.obj-742213998-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-operation-of-the-war-crimes-act-1945-nla.obj-742213998)
+
+### Report on the operation of the Witness Protection Act 1994 to June ..
+**Australia, 1997-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9091437)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-742501380)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-operation-of-the-witness-protection--nla.obj-742501380&files=nla.obj-742501380-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-operation-of-the-witness-protection--nla.obj-742501380)
+
+### Report on the operations of the Committee for ... / House of Representatives Committee of Members' Interests
+**Australia. Parliament. House of Representatives. Committee of Members' Interests, 1986-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+21 of 21 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/7702395)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-850679204)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-operations-of-the-committee-for-hous-nla.obj-850679204&files=nla.obj-850679204-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-operations-of-the-committee-for-hous-nla.obj-850679204)
+
+### Report on the operations of the Commonwealth Railways / Australian National Railways Commission
+**Australian National Railways Commission, 1975**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11592976)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2345857630)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-operations-of-the-commonwealth-railw-nla.obj-2345857630&files=nla.obj-2345857630-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-operations-of-the-commonwealth-railw-nla.obj-2345857630)
+
+### Report on the state of the automotive industry
+**Australia. Automotive Industry Authority, 1985-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18628426)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1277330429)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-state-of-the-automotive-industry-nla.obj-1277330429&files=nla.obj-1277330429-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-state-of-the-automotive-industry-nla.obj-1277330429)
+
+### Report on the work of the League
+**League of Nations. Council, 1936-1946**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/34422015)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2680991381)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-work-of-the-league-nla.obj-2680991381&files=nla.obj-2680991381-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-on-the-work-of-the-league-nla.obj-2680991381)
+
+### Report to the Attorney-General / Special Prosecutor's Office
+**Australia. Office of the Special Prosecutor, 1983-1984**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21887543)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1135635266)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-attorney-general-special-prosecutor--nla.obj-1135635266&files=nla.obj-1135635266-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-attorney-general-special-prosecutor--nla.obj-1135635266)
+
+### Report to the Attorney-General under section 135R, Copyright Act 1968 : report of operations for the year ending 30 June ... ..
+**Audio-visual Copyright Society, 1991-1992**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/24076326)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1811751492)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-attorney-general-under-section-135r--nla.obj-1811751492&files=nla.obj-1811751492-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-attorney-general-under-section-135r--nla.obj-1811751492)
+
+### Report to the Council of the League of Nations on the administration of Nauru during the year... / Commonwealth of Australia
+**Australia. Parliament, 1926-1941**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+16 of 16 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/235713342)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1773157943)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-council-of-the-league-of-nations-on--nla.obj-1773157943&files=nla.obj-1773157943-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-council-of-the-league-of-nations-on--nla.obj-1773157943)
+
+### Report to the Council of the League of Nations on the administration of the Territory of New Guinea
+**Australia. Governor-General, 1921-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5407454)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-324059207)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-council-of-the-league-of-nations-on--nla.obj-324059207&files=nla.obj-324059207-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-council-of-the-league-of-nations-on--nla.obj-324059207)
+
+### Report to the Council of the League of Nations on the administration of the Territory of New Guinea
+**Australia. Governor-General, 1921-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+9 of 9 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5407454)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-228879604)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-council-of-the-league-of-nations-on--nla.obj-228879604&files=nla.obj-228879604-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-council-of-the-league-of-nations-on--nla.obj-228879604)
+
+### Report to the General Assembly of the United Nations on the administration of the Territory of Nauru / The Parliament of the Commonwealth of Australia
+**United Nations. General Assembly, 1947-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+18 of 18 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12636433)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1772968770)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-general-assembly-of-the-united-natio-nla.obj-1772968770&files=nla.obj-1772968770-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-general-assembly-of-the-united-natio-nla.obj-1772968770)
+
+### Report to the General Assembly of the United Nations on the administration of the Territory of New Guinea
+**Australia. Department of External Territories, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18425426)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2059853295)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-general-assembly-of-the-united-natio-nla.obj-2059853295&files=nla.obj-2059853295-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-general-assembly-of-the-united-natio-nla.obj-2059853295)
+
+### Report to the General Assembly of the United Nations on the administration of the Territory of New Guinea
+**Australia. Department of Territories, 1951-1967**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+17 of 17 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/32579155)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1904874562)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-general-assembly-of-the-united-natio-nla.obj-1904874562&files=nla.obj-1904874562-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-general-assembly-of-the-united-natio-nla.obj-1904874562)
+
+### Report to the League of Nations on the administration of the Territory of New Guinea
+**Australia. Governor-General, 1921-1925**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5416865)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2590388577)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-league-of-nations-on-the-administrat-nla.obj-2590388577&files=nla.obj-2590388577-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-league-of-nations-on-the-administrat-nla.obj-2590388577)
+
+### Report to the Minister for Education / Curriculum Development Council
+**Australia. Curriculum Development Council, 1985-1987**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18395412)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1600319731)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-minister-for-education-curriculum-de-nla.obj-1600319731&files=nla.obj-1600319731-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-minister-for-education-curriculum-de-nla.obj-1600319731)
+
 ### Report to the Minister for Justice / Administrative Review Council
+**Administrative Review Council (Australia), 1994-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 5 of 5 issues have OCRd text available for download.
 
@@ -1943,6 +8478,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-minister-for-justice-administrative--nla.obj-766856497)
 
 ### Report to the Parliament of the Commonwealth of Australia / Advance Australia Foundation
+**Advance Australia Foundation, 1984-1986**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -1951,7 +8488,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-parliament-of-the-commonwealth-of-au-nla.obj-744559197&files=nla.obj-744559197-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-parliament-of-the-commonwealth-of-au-nla.obj-744559197)
 
+### Report to the Prime Minister / by the National Radiation Advisory Committee
+**Australia. National Radiation Advisory Committee, 1950-1969**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18876031)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2785619644)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-prime-minister-by-the-national-radia-nla.obj-2785619644&files=nla.obj-2785619644-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-prime-minister-by-the-national-radia-nla.obj-2785619644)
+
+### Report to the Treasurer on the administration of part III Defence Forces Retirement Benefits Act 1948-1973
+**Australia. Defence Forces Retirement Benefits Board, 1973-1976**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5711648)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1277986324)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-treasurer-on-the-administration-of-p-nla.obj-1277986324&files=nla.obj-1277986324-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-to-the-treasurer-on-the-administration-of-p-nla.obj-1277986324)
+
 ### Report upon the operations of the sub-departments of Aboriginals, Prisons, Government Relief, Diamantina Hospital for Chronic Diseases (South Brisbane), Jubilee Sanatorium for Consumptives (Dalby), Dunwich Benevolent Asylum, and Institution for Inebriates
+**Queensland. Department of Health and Home Affairs, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 10 of 10 issues have OCRd text available for download.
 
@@ -1961,6 +8522,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-upon-the-operations-of-the-sub-departments--nla.obj-54033070)
 
 ### Report. The Australian National University
+**Australian National University, 1982-1983**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -1970,6 +8533,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-the-australian-national-university-nla.obj-1135806343)
 
 ### Reports and financial statements for the year ending ... / the Scots' Church, Melbourne
+**Scots' Church (Melbourne, Vic.), 1800-1900**  
+Periodical | Periodical/Journal, magazine, other
 
 12 of 12 issues have OCRd text available for download.
 
@@ -1978,7 +8543,130 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-and-financial-statements-for-the-year-endi-nla.obj-2636060114&files=nla.obj-2636060114-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-and-financial-statements-for-the-year-endi-nla.obj-2636060114)
 
+### Reports of Sugar Research and Development Corporation, Sugar Research Council, and Sugar Research and Development Corporation Selection Committee
+**Sugar Research and Development Corporation (Australia), 1991**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/31840615)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2001067557)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-of-sugar-research-and-development-corporat-nla.obj-2001067557&files=nla.obj-2001067557-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-of-sugar-research-and-development-corporat-nla.obj-2001067557)
+
+### Reports on budget estimates / Senate Legislative and General Purpose Standing Committees
+**Australia. Parliament. Senate, 2007-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/25544163)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-743657155)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-on-budget-estimates-senate-legislative-and-nla.obj-743657155&files=nla.obj-743657155-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-on-budget-estimates-senate-legislative-and-nla.obj-743657155)
+
+### Reports on the consideration of bills ... / Senate Select Committee on Superannuation
+**Australia. Parliament. Senate. Select Committee on Superannuation, 2002-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22494160)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-954136660)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-on-the-consideration-of-bills-senate-selec-nla.obj-954136660&files=nla.obj-954136660-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-on-the-consideration-of-bills-senate-selec-nla.obj-954136660)
+
+### Reports on the consideration of bills / Senate Legislation Committees, Australian Senate
+**Australia. Parliament. Senate. Legislation Committees, 2009-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+24 of 24 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/37111383)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-760810496)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-on-the-consideration-of-bills-senate-legis-nla.obj-760810496&files=nla.obj-760810496-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-on-the-consideration-of-bills-senate-legis-nla.obj-760810496)
+
+### Reports on the consideration of bills / Senate Legislative and General Purpose Committees, Australian Senate
+**Australia. Parliament. Senate. Senate Legislative and General Purpose Committees, 2006-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+18 of 18 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/34429397)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-912838655)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-on-the-consideration-of-bills-senate-legis-nla.obj-912838655&files=nla.obj-912838655-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-on-the-consideration-of-bills-senate-legis-nla.obj-912838655)
+
+### Reports on the consideration of bills by Senate Legislation Committees
+**Australia. Parliament. Senate, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/7743847)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1791401551)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-on-the-consideration-of-bills-by-senate-le-nla.obj-1791401551&files=nla.obj-1791401551-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-on-the-consideration-of-bills-by-senate-le-nla.obj-1791401551)
+
+### Reports on the consideration of bills by Senate Legislation Committees
+**Australia. Parliament. Senate, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+54 of 54 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/7743847)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-851797703)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-on-the-consideration-of-bills-by-senate-le-nla.obj-851797703&files=nla.obj-851797703-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-on-the-consideration-of-bills-by-senate-le-nla.obj-851797703)
+
+### Reports to the Senate on departmental additional estimates / Senate Estimates Committees A, B, C, D, ... ..
+**Australia. Parliament. Senate. Estimates Committees, 1970-1990**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+23 of 23 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13167479)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1283534165)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-to-the-senate-on-departmental-additional-e-nla.obj-1283534165&files=nla.obj-1283534165-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-to-the-senate-on-departmental-additional-e-nla.obj-1283534165)
+
+### Reports to the Senate on departmental estimates
+**Australia. Parliament. Senate. Estimates Committees, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+25 of 25 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11367906)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1282137513)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-to-the-senate-on-departmental-estimates-nla.obj-1282137513&files=nla.obj-1282137513-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freports-to-the-senate-on-departmental-estimates-nla.obj-1282137513)
+
+### Representation Act - Certificate of Chief Australian Electoral Officer of number of people of Commonwealth and the several States as at ..
+**1977-1981**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/236426643)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1323824376)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frepresentation-act-certificate-of-chief-australian-nla.obj-1323824376&files=nla.obj-1323824376-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frepresentation-act-certificate-of-chief-australian-nla.obj-1323824376)
+
+### Representation Act - Determination by Chief Australian Electoral Officer of number of Members of House of Representatives to be chosen in the several States as at ..
+**1977-1981**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/236426644)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1323828348)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frepresentation-act-determination-by-chief-australi-nla.obj-1323828348&files=nla.obj-1323828348-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frepresentation-act-determination-by-chief-australi-nla.obj-1323828348)
+
 ### Research report / Australian National University
+**Australian National University, 1990-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -1987,16 +8675,108 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fresearch-report-australian-national-university-nla.obj-1018350073&files=nla.obj-1018350073-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fresearch-report-australian-national-university-nla.obj-1018350073)
 
-### Reveille (Sydney, N.S.W. : Online)
+### Results of meteorological observations made in New South Wales during ..
+**Russell, Henry Chamberlain, 1836-1907, 1870-1895**  
+Government publication | Periodical | Periodical/Journal, magazine, other
 
-4 of 4 issues have OCRd text available for download.
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12983756)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-747198234)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fresults-of-meteorological-observations-made-in-new-nla.obj-747198234&files=nla.obj-747198234-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fresults-of-meteorological-observations-made-in-new-nla.obj-747198234)
+
+### Reveille (Sydney, N.S.W. : Online)
+**Returned Services League of Australia. New South Wales Branch, 1927-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
 
 * [Details on Trove](https://trove.nla.gov.au/work/18120031)
 * [Browse issues on Trove](https://nla.gov.au/nla.obj-50305948)
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freveille-sydney-n-s-w-online-nla.obj-50305948&files=nla.obj-50305948-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freveille-sydney-n-s-w-online-nla.obj-50305948)
 
+### Review .... / Department of Employment, Education and Training
+**Australia. Department of Employment, Education and Training, 1992-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22830482)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2012102205)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freview-department-of-employment-education-and-trai-nla.obj-2012102205&files=nla.obj-2012102205-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freview-department-of-employment-education-and-trai-nla.obj-2012102205)
+
+### Review / annual report of the Department of Immigration, Local Government and Ethnic Affairs
+**Australia. Department of Immigration, Local Government and Ethnic Affairs, 1988-1992**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Microform
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6801759)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-888412925)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freview-annual-report-of-the-department-of-immigrat-nla.obj-888412925&files=nla.obj-888412925-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freview-annual-report-of-the-department-of-immigrat-nla.obj-888412925)
+
+### Review of activities / Department of Immigration and Ethnic Affairs
+**Australia. Department of Immigration and Ethnic Affairs, 1976-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10275254)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-837116187)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freview-of-activities-department-of-immigration-and-nla.obj-837116187&files=nla.obj-837116187-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freview-of-activities-department-of-immigration-and-nla.obj-837116187)
+
+### Review of activities / Department of Immigration, Local Government and Ethnic Affairs
+**Australia. Department of Immigration, Local Government and Ethnic Affairs, 1988-1989**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19183723)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-888350111)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freview-of-activities-department-of-immigration-loc-nla.obj-888350111&files=nla.obj-888350111-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freview-of-activities-department-of-immigration-loc-nla.obj-888350111)
+
+### Review of activities / Department of Tourism and Recreation
+**Australia. Department of Tourism and Recreation, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11385094)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1135363315)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freview-of-activities-department-of-tourism-and-rec-nla.obj-1135363315&files=nla.obj-1135363315-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freview-of-activities-department-of-tourism-and-rec-nla.obj-1135363315)
+
+### Review of administration and expenditure : Australian intelligence organisations / Parliamentary Joint Committee on Intelligence and Security
+**Australia. Parliament. Joint Committee on Intelligence and Security, 2004-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/35673951)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-765941123)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freview-of-administration-and-expenditure-australia-nla.obj-765941123&files=nla.obj-765941123-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freview-of-administration-and-expenditure-australia-nla.obj-765941123)
+
+### Review of operations / Australian Land Transport Development Program
+**Australian Land Transport Development Program, 1991-1994**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10105924)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1654948325)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freview-of-operations-australian-land-transport-dev-nla.obj-1654948325&files=nla.obj-1654948325-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freview-of-operations-australian-land-transport-dev-nla.obj-1654948325)
+
 ### Revue australienne : journal des interets francais en Australie, Nouvelle Caledonie, Nouvelle Zelande, Fiji, Tahiti, Polynesie
+**1873-1874**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2006,6 +8786,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frevue-australienne-journal-des-interets-francais-e-nla.obj-475663872)
 
 ### Rising sun (In the field, France)
+**Australia. Army. Australian Imperial Force (1914-1921), 1916-1917**  
+Periodical | Periodical/Journal, magazine, other
 
 19 of 19 issues have OCRd text available for download.
 
@@ -2014,7 +8796,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frising-sun-in-the-field-france-nla.obj-13809688&files=nla.obj-13809688-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frising-sun-in-the-field-france-nla.obj-13809688)
 
+### Road research technical paper
+**Road Research Laboratory (Great Britain), 1936-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18372030)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-662443634)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Froad-research-technical-paper-nla.obj-662443634&files=nla.obj-662443634-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Froad-research-technical-paper-nla.obj-662443634)
+
 ### Robinson's almanac and astronomical ephemeris for the year of our Lord ..
+**1860**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2024,6 +8819,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frobinson-s-almanac-and-astronomical-ephemeris-for--nla.obj-478039359)
 
 ### Royal Australian Air Force
+**1945-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2032,7 +8829,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Froyal-australian-air-force-nla.obj-6938759&files=nla.obj-6938759-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Froyal-australian-air-force-nla.obj-6938759)
 
+### Royal Commission into Aboriginal Deaths in Custody : implementation of the recommendations / prepared by the Northern Territory Office of Aboriginal Development
+**Northern Territory. Office of Aboriginal Development, 1993-1995**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22821239)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1593466784)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Froyal-commission-into-aboriginal-deaths-in-custody-nla.obj-1593466784&files=nla.obj-1593466784-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Froyal-commission-into-aboriginal-deaths-in-custody-nla.obj-1593466784)
+
+### Royal South Australian almanack and general directory for ... (1845)
+**Garran, Andrew, 1825-1901, 1845-1850**  
+Periodical | Periodical/Journal, magazine, other
+
+11 of 11 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6076787)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2872129375)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Froyal-south-australian-almanack-and-general-direct-nla.obj-2872129375&files=nla.obj-2872129375-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Froyal-south-australian-almanack-and-general-direct-nla.obj-2872129375)
+
+### Rugby League news (Sydney, N.S.W. : Online)
+**1920-1973**  
+Periodical | Periodical/Journal, magazine, other
+
+1568 of 1568 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/237942681)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-598579045)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frugby-league-news-sydney-n-s-w-online-nla.obj-598579045&files=nla.obj-598579045-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frugby-league-news-sydney-n-s-w-online-nla.obj-598579045)
+
 ### Rugby League news (Sydney, N.S.W.)
+**New South Wales Rugby Football League, 1920-1973**  
+Periodical | Periodical/Journal, magazine, other
 
 1568 of 1568 issues have OCRd text available for download.
 
@@ -2042,6 +8874,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frugby-league-news-sydney-n-s-w-nla.obj-598579045)
 
 ### Russia and us : official journal of the N.S.W. Aid Russia Committee
+**N.S.W. Aid Russia Committee, 1942**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2051,6 +8885,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frussia-and-us-official-journal-of-the-n-s-w-aid-ru-nla.obj-410989349)
 
 ### Russkii v Avstralii = The Russian in Australia
+**1937**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2060,6 +8896,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Frusskii-v-avstralii-the-russian-in-australia-nla.obj-2337713625)
 
 ### SGSEG newsletter / Geological Society of Australia
+**Geological Society of Australia. Specialist Group on Solid-Earth Geophysics, 2000-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2069,6 +8907,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsgseg-newsletter-geological-society-of-australia-nla.obj-181775627)
 
 ### Salon (Sydney, N.S.W.)
+**Institute of Architects of New South Wales, 1912-1916**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 46 of 46 issues have OCRd text available for download.
 
@@ -2077,7 +8917,97 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsalon-sydney-n-s-w-nla.obj-815046764&files=nla.obj-815046764-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsalon-sydney-n-s-w-nla.obj-815046764)
 
+### Salt (Melbourne, Vic.)
+**Australia. Army. Education Service, 1941-1946**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26316018)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-530437353)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsalt-melbourne-vic-nla.obj-530437353&files=nla.obj-530437353-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsalt-melbourne-vic-nla.obj-530437353)
+
+### Sands & McDougall's annual register and almanac ... ... : containing general Victorian information ... statistics, &c, of Victoria, New South Wales, Queensland, South Australia, Western Australia, Tasmania, and New Zealand
+**1864**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19272222)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2865719491)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsands-mcdougall-s-annual-register-and-almanac-cont-nla.obj-2865719491&files=nla.obj-2865719491-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsands-mcdougall-s-annual-register-and-almanac-cont-nla.obj-2865719491)
+
+### Sapsford's Australasian almanac for land and sea
+**1904-1906**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19214809)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2886165287)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsapsford-s-australasian-almanac-for-land-and-sea-nla.obj-2886165287&files=nla.obj-2886165287-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsapsford-s-australasian-almanac-for-land-and-sea-nla.obj-2886165287)
+
+### Sapsford's Queensland almanac and gazetteer
+**Queensland Government Intelligence and Tourist Bureau, 1907-1917**  
+Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19214601)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2886190066)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsapsford-s-queensland-almanac-and-gazetteer-nla.obj-2886190066&files=nla.obj-2886190066-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsapsford-s-queensland-almanac-and-gazetteer-nla.obj-2886190066)
+
+### Science and Industry Endowment Fund balance sheet / Auditor-General
+**Australia. Auditor-General's Office, 1900**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+17 of 17 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22616225)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1298052184)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fscience-and-industry-endowment-fund-balance-sheet--nla.obj-1298052184&files=nla.obj-1298052184-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fscience-and-industry-endowment-fund-balance-sheet--nla.obj-1298052184)
+
+### Science and technology budget statement
+**1989-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/17749965)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1568775737)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fscience-and-technology-budget-statement-nla.obj-1568775737&files=nla.obj-1568775737-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fscience-and-technology-budget-statement-nla.obj-1568775737)
+
+### Science and technology statement (Canberra, A.C.T.)
+**Australia. Department of Industry, Technology and Commerce, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5555883)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1006986858)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fscience-and-technology-statement-canberra-a-c-t-nla.obj-1006986858&files=nla.obj-1006986858-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fscience-and-technology-statement-canberra-a-c-t-nla.obj-1006986858)
+
+### Science and technology statement (Canberra, A.C.T.)
+**Australia. Department of Industry, Technology and Commerce, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5555883)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1568807932)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fscience-and-technology-statement-canberra-a-c-t-nla.obj-1568807932&files=nla.obj-1568807932-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fscience-and-technology-statement-canberra-a-c-t-nla.obj-1568807932)
+
 ### Science of man and journal of the Royal Anthropological Society of Australasia
+**Royal Anthropological Society of Australasia, 1898-1913**  
+Periodical | Periodical/Journal, magazine, other | Microform | Periodical/Newspaper
 
 149 of 149 issues have OCRd text available for download.
 
@@ -2086,7 +9016,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fscience-of-man-and-journal-of-the-royal-anthropolo-nla.obj-510937014&files=nla.obj-510937014-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fscience-of-man-and-journal-of-the-royal-anthropolo-nla.obj-510937014)
 
+### Science statement (Canberra, A.C.T.)
+**Australia. Department of Science and the Environment, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/7303631)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1939447523)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fscience-statement-canberra-a-c-t-nla.obj-1939447523&files=nla.obj-1939447523-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fscience-statement-canberra-a-c-t-nla.obj-1939447523)
+
 ### Second Brigade monthly notes
+**Second Infantry Brigade Depot (Vic.), 1917-1919**  
+Periodical | Periodical/Journal, magazine, other
 
 11 of 11 issues have OCRd text available for download.
 
@@ -2096,6 +9039,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsecond-brigade-monthly-notes-nla.obj-20211747)
 
 ### Second Southern magazine
+**Bishops Knoll Hospital (Bristol, England), 1916**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2104,7 +9049,174 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsecond-southern-magazine-nla.obj-6860945&files=nla.obj-6860945-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsecond-southern-magazine-nla.obj-6860945)
 
+### Senate Legislation Committees additional estimates ... reports
+**Australia. Parliament. Senate. Legislation Committees, 1990-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9231951)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-919864547)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsenate-legislation-committees-additional-estimates-nla.obj-919864547&files=nla.obj-919864547-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsenate-legislation-committees-additional-estimates-nla.obj-919864547)
+
+### Senate Legislation Committees additional estimates ... reports
+**Australia. Parliament. Senate. Legislation Committees, 1990-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9231951)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1571047424)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsenate-legislation-committees-additional-estimates-nla.obj-1571047424&files=nla.obj-1571047424-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsenate-legislation-committees-additional-estimates-nla.obj-1571047424)
+
+### Senate Legislation Committees additional estimates ... reports
+**Australia. Parliament. Senate. Legislation Committees, 1990-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9231951)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-912733894)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsenate-legislation-committees-additional-estimates-nla.obj-912733894&files=nla.obj-912733894-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsenate-legislation-committees-additional-estimates-nla.obj-912733894)
+
+### Senate Legislation Committees reports on budget estimates / Senate Legislative Committees
+**Australia. Parliament. Senate, 2009-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/28637590)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-743681814)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsenate-legislation-committees-reports-on-budget-es-nla.obj-743681814&files=nla.obj-743681814-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsenate-legislation-committees-reports-on-budget-es-nla.obj-743681814)
+
+### Senate Legislative and General Purpose Standing Committees reports on additional estimates
+**Australia. Parliament. Senate, 2007-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26556311)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-743660742)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsenate-legislative-and-general-purpose-standing-co-nla.obj-743660742&files=nla.obj-743660742-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsenate-legislative-and-general-purpose-standing-co-nla.obj-743660742)
+
+### Senate Legislative and General Purpose Standing Committees reports on additional estimates
+**Australia. Parliament. Senate, 2007-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26556311)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-743800268)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsenate-legislative-and-general-purpose-standing-co-nla.obj-743800268&files=nla.obj-743800268-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsenate-legislative-and-general-purpose-standing-co-nla.obj-743800268)
+
+### Senate Legislative and General Purpose Standing Committees reports on additional estimates
+**Australia. Parliament. Senate, 2007-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26556311)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-743752588)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsenate-legislative-and-general-purpose-standing-co-nla.obj-743752588&files=nla.obj-743752588-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsenate-legislative-and-general-purpose-standing-co-nla.obj-743752588)
+
+### Senate Select Committee on Superannuation and Financial Services, reports on the consideration of bills / The Parliament of the Commonwealth of Australia
+**Australia. Parliament. Senate. Select Committee on Superannuation and Financial Services, 1990-2000**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/35579588)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1388768308)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsenate-select-committee-on-superannuation-and-fina-nla.obj-1388768308&files=nla.obj-1388768308-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsenate-select-committee-on-superannuation-and-fina-nla.obj-1388768308)
+
+### Service and business outlook ... / Australian Postal Commission
+**Australia Post, 1978-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13471979)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-742683418)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fservice-and-business-outlook-australian-postal-com-nla.obj-742683418&files=nla.obj-742683418-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fservice-and-business-outlook-australian-postal-com-nla.obj-742683418)
+
+### Service and business outlook for ... / Australian Postal Commission
+**Australia Post, 1976-1981**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21625311)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-742194246)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fservice-and-business-outlook-for-australian-postal-nla.obj-742194246&files=nla.obj-742194246-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fservice-and-business-outlook-for-australian-postal-nla.obj-742194246)
+
+### Service and business outlook for ... / Australian Telecommunications Commission
+**Telecom Australia, 1975-1991**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+13 of 13 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18839898)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-751703446)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fservice-and-business-outlook-for-australian-teleco-nla.obj-751703446&files=nla.obj-751703446-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fservice-and-business-outlook-for-australian-teleco-nla.obj-751703446)
+
+### Service and business review and outlook / Australian Postal Commission
+**Australia Post, 1900-1987**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12266969)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-742200252)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fservice-and-business-review-and-outlook-australian-nla.obj-742200252&files=nla.obj-742200252-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fservice-and-business-review-and-outlook-australian-nla.obj-742200252)
+
+### Service publication (Australian Quarantine Service)
+**Australian Quarantine Service, 1913-1920**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5716469)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-725298615)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fservice-publication-australian-quarantine-service-nla.obj-725298615&files=nla.obj-725298615-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fservice-publication-australian-quarantine-service-nla.obj-725298615)
+
+### Shale Oil Bounty Act : return showing bounty paid during year ..
+**1911-1926**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238040266)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2347495278)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fshale-oil-bounty-act-return-showing-bounty-paid-du-nla.obj-2347495278&files=nla.obj-2347495278-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fshale-oil-bounty-act-return-showing-bounty-paid-du-nla.obj-2347495278)
+
+### Ship Construction Bounty Act. Parliament of the Commonwealth of Australia
+**Australia. Parliament, 1976-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6761585)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1558639425)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fship-construction-bounty-act-parliament-of-the-com-nla.obj-1558639425&files=nla.obj-1558639425-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fship-construction-bounty-act-parliament-of-the-com-nla.obj-1558639425)
+
 ### Shropshire tatler / supervised by the Y.M.C.A
+**Young Men's Christian Association, 1917**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2114,6 +9226,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fshropshire-tatler-supervised-by-the-y-m-c-a-nla.obj-17902884)
 
 ### Si-eda : annals of the men of Anzac
+**1916**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -2123,6 +9237,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsi-eda-annals-of-the-men-of-anzac-nla.obj-6834754)
 
 ### Silver Starr super comic / Stanley Pitt
+**Pitt, Stanley, 1925-2002, 1949-1950**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2131,7 +9247,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsilver-starr-super-comic-stanley-pitt-nla.obj-2621242009&files=nla.obj-2621242009-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsilver-starr-super-comic-stanley-pitt-nla.obj-2621242009)
 
+### Simmonds's colonial magazine and foreign miscellany
+**Simmonds, P. L. (Peter Lund), 1814-1897, 1844-1849**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+72 of 72 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19236488)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1404571565)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsimmonds-s-colonial-magazine-and-foreign-miscellan-nla.obj-1404571565&files=nla.obj-1404571565-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsimmonds-s-colonial-magazine-and-foreign-miscellan-nla.obj-1404571565)
+
+### Sitrep (Sydney, N.S.W.)
+**Bush Fire Council of New South Wales, 1976-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11623826)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-578112846)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsitrep-sydney-n-s-w-nla.obj-578112846&files=nla.obj-578112846-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsitrep-sydney-n-s-w-nla.obj-578112846)
+
 ### Slater's sixpenny diary and almanac
+**1873**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2141,6 +9281,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fslater-s-sixpenny-diary-and-almanac-nla.obj-614143949)
 
 ### Snowy Baker's magazine
+**Baker, Snowy, 1912-1920**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -2149,7 +9291,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsnowy-baker-s-magazine-nla.obj-2616536384&files=nla.obj-2616536384-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsnowy-baker-s-magazine-nla.obj-2616536384)
 
+### Social justice for indigenous Australians ... / circulated by ... Minister for Aboriginal Affairs and Minister assisting the Prime Minister for Aboriginal Reconciliation
+**Tickner, R. E. (Robert E.), 1951-, 1992-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/20961826)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1813178521)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsocial-justice-for-indigenous-australians-circulat-nla.obj-1813178521&files=nla.obj-1813178521-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsocial-justice-for-indigenous-australians-circulat-nla.obj-1813178521)
+
+### Social justice strategy
+**Australia, 1994-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10557360)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1791179814)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsocial-justice-strategy-nla.obj-1791179814&files=nla.obj-1791179814-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsocial-justice-strategy-nla.obj-1791179814)
+
 ### South Australian Odd Fellows' magazine
+**1843**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2158,7 +9324,64 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsouth-australian-odd-fellows-magazine-nla.obj-2343729237&files=nla.obj-2343729237-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsouth-australian-odd-fellows-magazine-nla.obj-2343729237)
 
+### South Australian almanack and general directory for ..
+**Allen, James, 1806-1886, 1841-1844**  
+Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/20870894)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2872008095)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsouth-australian-almanack-and-general-directory-fo-nla.obj-2872008095&files=nla.obj-2872008095-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsouth-australian-almanack-and-general-directory-fo-nla.obj-2872008095)
+
+### South-Asian register (Online)
+**1827-1828**  
+Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/237956276)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-597769314)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsouth-asian-register-online-nla.obj-597769314&files=nla.obj-597769314-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsouth-asian-register-online-nla.obj-597769314)
+
+### Special report (Commonwealth Experimental Building Station (Australia))
+**Commonwealth Experimental Building Station (Australia), 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16650351)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-324022959)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fspecial-report-commonwealth-experimental-building--nla.obj-324022959&files=nla.obj-324022959-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fspecial-report-commonwealth-experimental-building--nla.obj-324022959)
+
+### Special report ... on financial assistance for local government / Commonwealth Grants Commission
+**Commonwealth Grants Commission (Australia), 1976-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12216650)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2044681518)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fspecial-report-on-financial-assistance-for-local-g-nla.obj-2044681518&files=nla.obj-2044681518-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fspecial-report-on-financial-assistance-for-local-g-nla.obj-2044681518)
+
+### Special report ... on financial assistance for local government / Grants Commission
+**Australia. Grants Commission, 1970-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/27014934)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2044568782)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fspecial-report-on-financial-assistance-for-local-g-nla.obj-2044568782&files=nla.obj-2044568782-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fspecial-report-on-financial-assistance-for-local-g-nla.obj-2044568782)
+
 ### Sporting times (Sydney, N.S.W. : 1848 : Online)
+**1848**  
+Periodical | Periodical/Journal, magazine, other
 
 7 of 7 issues have OCRd text available for download.
 
@@ -2168,6 +9391,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsporting-times-sydney-n-s-w-1848-online-nla.obj-767556888)
 
 ### Spray : the aquatic monthly
+**1938-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2177,6 +9402,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fspray-the-aquatic-monthly-nla.obj-4093756)
 
 ### Spring exhibition : catalogue / Art Society of New South Wales
+**Art Society of New South Wales, 1800-1902**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2186,6 +9413,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fspring-exhibition-catalogue-art-society-of-new-sou-nla.obj-693985683)
 
 ### Staff clarion / Associated Deposits Assurance Society Ltd
+**Associated Deposits Assurance Society Ltd, 1928-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 35 of 79 issues have OCRd text available for download.
 
@@ -2195,6 +9424,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstaff-clarion-associated-deposits-assurance-societ-nla.obj-2640510514)
 
 ### Stanley Gibbons priced catalogue of war stamps
+**Phillips, Charles J. (Charles James), 1863-1940, 1910**  
+Periodical | Periodical/Journal, magazine, other
 
 5 of 5 issues have OCRd text available for download.
 
@@ -2204,6 +9435,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstanley-gibbons-priced-catalogue-of-war-stamps-nla.obj-18233880)
 
 ### Star of England times
+**1915**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -2213,6 +9446,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstar-of-england-times-nla.obj-62681782)
 
 ### Starboard light
+**Devanha (Troopship), 1919**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2221,7 +9456,174 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstarboard-light-nla.obj-183600068&files=nla.obj-183600068-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstarboard-light-nla.obj-183600068)
 
+### State of New South Wales statistical returns showing the voting within each subdivision in relation to the submission to the electors of proposed laws for the alteration of the Constitution, entitled ... / Chief Electoral Office for the Commonwealth
+**Commonwealth Electoral Office (Australia), 1900-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6636941)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1399249731)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-new-south-wales-statistical-returns-showi-nla.obj-1399249731&files=nla.obj-1399249731-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-new-south-wales-statistical-returns-showi-nla.obj-1399249731)
+
+### State of Queensland statistical returns : showing the voting within each subdivision ... / Chief Electoral Office for the Commonwealth
+**Commonwealth Electoral Office (Australia), 1900-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+29 of 29 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6521052)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1242104486)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-queensland-statistical-returns-showing-th-nla.obj-1242104486&files=nla.obj-1242104486-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-queensland-statistical-returns-showing-th-nla.obj-1242104486)
+
+### State of Queensland statistical returns showing the voting within each subdivision in relation to the submission to the electors of proposed laws for the alteration of the Constitution, entitled ... / Chief Electoral Office for the Commonwealth
+**Commonwealth Electoral Office (Australia), 1900-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6636968)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1399185277)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-queensland-statistical-returns-showing-th-nla.obj-1399185277&files=nla.obj-1399185277-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-queensland-statistical-returns-showing-th-nla.obj-1399185277)
+
+### State of South Australia statistical returns : showing the voting within each subdivision ... in relation to the Senate election ...and the general election for the House of Representatives.....
+**Australia. Parliament, 1900-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+29 of 29 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/236302966)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1242362783)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-south-australia-statistical-returns-showi-nla.obj-1242362783&files=nla.obj-1242362783-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-south-australia-statistical-returns-showi-nla.obj-1242362783)
+
+### State of South Australia statistical returns showing the voting within each subdivision in relation to the submission to the electors of proposed laws for the alteration of the Constitution, entitled ... / Chief Electoral Office for the Commonwealth
+**Commonwealth Electoral Office (Australia), 1900-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6636893)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1398796107)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-south-australia-statistical-returns-showi-nla.obj-1398796107&files=nla.obj-1398796107-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-south-australia-statistical-returns-showi-nla.obj-1398796107)
+
+### State of Tasmania statisitcal returns showing the voting within each subdivision in relation to the submission to the electors of proposed laws for the alteration of the Constitution, entitled ... / Chief Electoral Office for the Commonwealth
+**Commonwealth Electoral Office (Australia), 1900-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6636825)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1398736791)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-tasmania-statisitcal-returns-showing-the--nla.obj-1398736791&files=nla.obj-1398736791-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-tasmania-statisitcal-returns-showing-the--nla.obj-1398736791)
+
+### State of Tasmania statistical returns : showing the voting within each subdivision ... / Chief Electoral Office for the Commonwealth
+**Commonwealth Electoral Office (Australia), 1900-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+30 of 30 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18287760)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1245707645)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-tasmania-statistical-returns-showing-the--nla.obj-1245707645&files=nla.obj-1245707645-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-tasmania-statistical-returns-showing-the--nla.obj-1245707645)
+
+### State of Victoria statistical returns : showing the voting within each subdivision ... / Chief Electoral Office for the Commonwealth
+**Commonwealth Electoral Office (Australia), 1900-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+29 of 29 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6515138)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-671158478)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-victoria-statistical-returns-showing-the--nla.obj-671158478&files=nla.obj-671158478-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-victoria-statistical-returns-showing-the--nla.obj-671158478)
+
+### State of Victoria statistical returns showing the voting within each subdivision in relation to the submission to the electors of proposed laws for the alteration of the Constitution, entitled ... / Chief Electoral Office for the Commonwealth
+**Commonwealth Electoral Office (Australia), 1900-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6636914)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1398929566)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-victoria-statistical-returns-showing-the--nla.obj-1398929566&files=nla.obj-1398929566-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-victoria-statistical-returns-showing-the--nla.obj-1398929566)
+
+### State of Western Australia statistical returns : showing the voting within each subdivision ... / Chief Electoral Office for the Commonwealth
+**Commonwealth Electoral Office (Australia), 1900-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+30 of 30 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18288228)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1245718087)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-western-australia-statistical-returns-sho-nla.obj-1245718087&files=nla.obj-1245718087-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-western-australia-statistical-returns-sho-nla.obj-1245718087)
+
+### State of Western Australia statistical returns showing the voting within each subdivision in relation to the submission to the electors of proposed laws for the alteration of the Constitution, entitled ... / Chief Electoral Office for the Commonwealth
+**Commonwealth Electoral Office (Australia), 1900-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6636882)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1398860529)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-western-australia-statistical-returns-sho-nla.obj-1398860529&files=nla.obj-1398860529-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-western-australia-statistical-returns-sho-nla.obj-1398860529)
+
+### State of the nation (Canberra, A.C.T.)
+**Australia. Race Discrimination Commissioner, 1993-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/24304596)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1565207907)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-the-nation-canberra-a-c-t-nla.obj-1565207907&files=nla.obj-1565207907-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstate-of-the-nation-canberra-a-c-t-nla.obj-1565207907)
+
+### Statement of financial assistance granted to each State during the ... financial year ... : annual report / Schools Commission
+**Commonwealth Schools Commission (Australia), 1970**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26364295)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1313497510)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstatement-of-financial-assistance-granted-to-each--nla.obj-1313497510&files=nla.obj-1313497510-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstatement-of-financial-assistance-granted-to-each--nla.obj-1313497510)
+
+### Statement of receipts and expenditure of the Australian Capital Territory for year ..
+**1938**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/239308938)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2701541817)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstatement-of-receipts-and-expenditure-of-the-austr-nla.obj-2701541817&files=nla.obj-2701541817-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstatement-of-receipts-and-expenditure-of-the-austr-nla.obj-2701541817)
+
+### Statement showing business transacted and details of receipts and expenditure in respect of post offices in the Commonwealth, year ..
+**Australia. Postmaster-General's Department, 1910**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/152596474)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2789499738)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstatement-showing-business-transacted-and-details--nla.obj-2789499738&files=nla.obj-2789499738-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstatement-showing-business-transacted-and-details--nla.obj-2789499738)
+
 ### States Grants (Advanced Education) Act 1969-70 : statement by Minister [for Education and Science] for approvals given ...under section 6 of the Act for Commonwealth grants in respect of library materials
+**Australia. Department of Education and Science, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -2230,7 +9632,306 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-advanced-education-act-1969-70-state-nla.obj-1859253658&files=nla.obj-1859253658-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-advanced-education-act-1969-70-state-nla.obj-1859253658)
 
+### States Grants (Dwellings for Aged Pensioners) Act 1969
+**Australia. Department of Housing, 1970-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5706843)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1284534737)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-dwellings-for-aged-pensioners-act-19-nla.obj-1284534737&files=nla.obj-1284534737-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-dwellings-for-aged-pensioners-act-19-nla.obj-1284534737)
+
+### States Grants (Dwellings for Aged Pensioners) Act 1969
+**Australia. Department of Housing, 1970-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5706843)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1284676125)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-dwellings-for-aged-pensioners-act-19-nla.obj-1284676125&files=nla.obj-1284676125-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-dwellings-for-aged-pensioners-act-19-nla.obj-1284676125)
+
+### States Grants (Dwellings for Pensioners) Act
+**Australia. Department of Housing and Construction, 1975**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19089606)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1727738414)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-dwellings-for-pensioners-act-nla.obj-1727738414&files=nla.obj-1727738414-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-dwellings-for-pensioners-act-nla.obj-1727738414)
+
+### States Grants (Dwellings for Pensioners) Act 1974 ... ..
+**Australia. Department of Environment, Housing and Community Development, 1976-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6801618)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1296246829)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-dwellings-for-pensioners-act-1974-nla.obj-1296246829&files=nla.obj-1296246829-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-dwellings-for-pensioners-act-1974-nla.obj-1296246829)
+
+### States Grants (Independent Schools) Act 1969. Department of Education and Science
+**Australia. Department of Education and Science, 1900-1971**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19103970)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1695879839)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-independent-schools-act-1969-departm-nla.obj-1695879839&files=nla.obj-1695879839-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-independent-schools-act-1969-departm-nla.obj-1695879839)
+
+### States Grants (Pre-School Teachers Colleges) Act 1968
+**Australia. Department of Education and Science, 1969-1971**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6768968)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1905933652)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-pre-school-teachers-colleges-act-196-nla.obj-1905933652&files=nla.obj-1905933652-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-pre-school-teachers-colleges-act-196-nla.obj-1905933652)
+
+### States Grants (Pre-School Teachers Colleges) Act 1968-1971. Department of Education and Science
+**Australia. Department of Education and Science, 1972**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13195098)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1286972113)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-pre-school-teachers-colleges-act-196-nla.obj-1286972113&files=nla.obj-1286972113-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-pre-school-teachers-colleges-act-196-nla.obj-1286972113)
+
+### States Grants (Primary and Secondary Education Assistance) Act ... : financial assistance granted to each state in respect of ... / Department of Employment, Education and Training
+**Australia. Department of Employment, Education and Training, 1993-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/24185052)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-896590315)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-primary-and-secondary-education-assi-nla.obj-896590315&files=nla.obj-896590315-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-primary-and-secondary-education-assi-nla.obj-896590315)
+
+### States Grants (Schools Assistance) Act ... report on financial assistance granted to each state / Commonwealth Schools Commission
+**Commonwealth Schools Commission (Australia), 1976-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+16 of 16 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16042426)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-887338111)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-schools-assistance-act-report-on-fin-nla.obj-887338111&files=nla.obj-887338111-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-schools-assistance-act-report-on-fin-nla.obj-887338111)
+
+### States Grants (Schools) Act ... : government grants for capital expenditure in government and non-government schools : annual statement ... payments
+**Australia. Schools Commission, 1970-1976**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6801647)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1284696714)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-schools-act-government-grants-for-ca-nla.obj-1284696714&files=nla.obj-1284696714-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-schools-act-government-grants-for-ca-nla.obj-1284696714)
+
+### States Grants (Science Laboratories) Act 1968. presented to the Parliament by the Minister for Education and Science
+**Australia. Department of Education and Science, 1971**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6806016)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1905965126)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-science-laboratories-act-1968-presen-nla.obj-1905965126&files=nla.obj-1905965126-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-science-laboratories-act-1968-presen-nla.obj-1905965126)
+
+### States Grants (Science Laboratories) Act 1971 : Statement of schools assisted by grants / presented to the Parliament by the Minister for Education and Science
+**Australia. Department of Education and Science, 1972**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6806058)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1727782212)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-science-laboratories-act-1971-statem-nla.obj-1727782212&files=nla.obj-1727782212-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-science-laboratories-act-1971-statem-nla.obj-1727782212)
+
+### States Grants (Secondary Schools Libraries) Act 1968
+**Australia. Department of Education and Science, 1969-1971**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6805838)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1719421843)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-secondary-schools-libraries-act-1968-nla.obj-1719421843&files=nla.obj-1719421843-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-secondary-schools-libraries-act-1968-nla.obj-1719421843)
+
+### States Grants (Secondary Schools Libraries) Act 1971
+**Australia. Department of Education, 1972-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6805868)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1284707000)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-secondary-schools-libraries-act-1971-nla.obj-1284707000&files=nla.obj-1284707000-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-secondary-schools-libraries-act-1971-nla.obj-1284707000)
+
+### States Grants (Teachers Colleges) Act 1967
+**Australia. Department of Education and Science, 1967**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6813352)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1906361963)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-teachers-colleges-act-1967-nla.obj-1906361963&files=nla.obj-1906361963-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-teachers-colleges-act-1967-nla.obj-1906361963)
+
+### States Grants (Teachers Colleges) Act 1970. Statement by the Minister for Education
+**Australia. Department of Education, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6813428)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1284733195)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-teachers-colleges-act-1970-statement-nla.obj-1284733195&files=nla.obj-1284733195-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-teachers-colleges-act-1970-statement-nla.obj-1284733195)
+
+### States Grants (Teachers Colleges) Acts 1967 & 1970. Statement by ... Minister for Education and Science
+**Australia. Department of Education and Science, 1900-1972**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6813395)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1727795070)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-teachers-colleges-acts-1967-1970-sta-nla.obj-1727795070&files=nla.obj-1727795070-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-teachers-colleges-acts-1967-1970-sta-nla.obj-1727795070)
+
+### States Grants (Technical Training) Act 1971-1973
+**Australia. Department of Education, 1973-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6813317)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2041646298)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-technical-training-act-1971-1973-nla.obj-2041646298&files=nla.obj-2041646298-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-technical-training-act-1971-1973-nla.obj-2041646298)
+
+### States Grants (Technical Training) Act 1971. Statement by the ... Minister for Education and Science
+**Australia. Department of Education and Science, 1972**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6813341)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1719448144)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-technical-training-act-1971-statemen-nla.obj-1719448144&files=nla.obj-1719448144-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-technical-training-act-1971-statemen-nla.obj-1719448144)
+
+### States Grants (Tertiary Education Assistance) Act 1984 / report detailing determinations made by the Minister for Education and the Commonwealth Tertiary Education Commission in ... in respect of the ... triennium
+**Commonwealth Tertiary Education Commission (Australia), 1985-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12370294)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1048213859)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-tertiary-education-assistance-act-19-nla.obj-1048213859&files=nla.obj-1048213859-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-tertiary-education-assistance-act-19-nla.obj-1048213859)
+
+### States Grants (Tertiary Education Assistance) Act 1984 : report detailing determinations made under the States Grants (Tertiary Education Assistance) Act 1984 in respect of the ... triennium
+**Australia. Department of Employment, Education and Training, 1987**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18822948)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1048222328)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-tertiary-education-assistance-act-19-nla.obj-1048222328&files=nla.obj-1048222328-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-tertiary-education-assistance-act-19-nla.obj-1048222328)
+
+### States Grants (Tertiary Education Assistance) Act 1987 : report setting out details of determinations made under the States Grants (Tertiary Education Assistance) Act 1987 in respect of ... ..
+**Australia. Department of Employment, Education and Training, 1988-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/15910846)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1048230535)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-tertiary-education-assistance-act-19-nla.obj-1048230535&files=nla.obj-1048230535-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstates-grants-tertiary-education-assistance-act-19-nla.obj-1048230535)
+
+### Statistical returns (Elections)
+**Commonwealth Electoral Office (Australia), 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6326109)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1883865350)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstatistical-returns-elections-nla.obj-1883865350&files=nla.obj-1883865350-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstatistical-returns-elections-nla.obj-1883865350)
+
+### Statistical returns : in relation to the Senate elections ... and the House of Representatives elections ... for the several States and Territories
+**Commonwealth Electoral Office (Australia), 1949-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26899454)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1907319682)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstatistical-returns-in-relation-to-the-senate-elec-nla.obj-1907319682&files=nla.obj-1907319682-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstatistical-returns-in-relation-to-the-senate-elec-nla.obj-1907319682)
+
+### Statistics : relating to the Senate election, ... the general election, House of Representatives ... and the submission to the electors of a proposed law for the alteration of the constitution ... ..
+**Commonwealth Electoral Office (Australia), 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26899544)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1733810334)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstatistics-relating-to-the-senate-election-the-gen-nla.obj-1733810334&files=nla.obj-1733810334-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstatistics-relating-to-the-senate-election-the-gen-nla.obj-1733810334)
+
+### Statutory authorities of the commonwealth / Senate Standing Committee on Finance and Government Operations
+**Australia. Parliament. Senate. Standing Committee on Finance and Government Operations, 1978-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/24921688)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1405737614)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstatutory-authorities-of-the-commonwealth-senate-s-nla.obj-1405737614&files=nla.obj-1405737614-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstatutory-authorities-of-the-commonwealth-senate-s-nla.obj-1405737614)
+
+### Statutory oversight of the Australian Securities and Investments Commission / Parliamentary Joint Committee on Corporations and Financial Services
+**Australia. Parliament. Joint Committee on Corporations and Financial Services, 2005-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+18 of 18 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/32059025)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-666266401)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstatutory-oversight-of-the-australian-securities-a-nla.obj-666266401&files=nla.obj-666266401-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstatutory-oversight-of-the-australian-securities-a-nla.obj-666266401)
+
 ### Stead's review / edited by Henry Stead
+**Stead, Henry, 1875-, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 13 of 13 issues have OCRd text available for download.
 
@@ -2240,6 +9941,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstead-s-review-edited-by-henry-stead-nla.obj-83618527)
 
 ### Stead's review of reviews / edited by Henry Stead
+**Stead, Henry, 1875-, 1914-1915**  
+Periodical | Periodical/Journal, magazine, other
 
 13 of 13 issues have OCRd text available for download.
 
@@ -2248,7 +9951,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstead-s-review-of-reviews-edited-by-henry-stead-nla.obj-302601229&files=nla.obj-302601229-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstead-s-review-of-reviews-edited-by-henry-stead-nla.obj-302601229)
 
+### Steele Rudd's magazine
+**1904-1907**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21280224)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2869462972)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsteele-rudd-s-magazine-nla.obj-2869462972&files=nla.obj-2869462972-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsteele-rudd-s-magazine-nla.obj-2869462972)
+
 ### Stephen's Victorian almanac for ..
+**1860**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2258,6 +9974,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstephen-s-victorian-almanac-for-nla.obj-666418829)
 
 ### Strewth : a journal devoted to truth and wisdom
+**1917-1918**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -2266,7 +9984,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstrewth-a-journal-devoted-to-truth-and-wisdom-nla.obj-6833160&files=nla.obj-6833160-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fstrewth-a-journal-devoted-to-truth-and-wisdom-nla.obj-6833160)
 
+### Sulphate of Ammonia Bounty Act - Return for year ..
+**1966-1971**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/237405527)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1900284979)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsulphate-of-ammonia-bounty-act-return-for-year-nla.obj-1900284979&files=nla.obj-1900284979-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsulphate-of-ammonia-bounty-act-return-for-year-nla.obj-1900284979)
+
+### Sulphuric Acid Bounty Act. Parliament of the Commonwealth of Australia
+**Australia. Parliament, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22861768)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1312626908)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsulphuric-acid-bounty-act-parliament-of-the-common-nla.obj-1312626908&files=nla.obj-1312626908-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsulphuric-acid-bounty-act-parliament-of-the-common-nla.obj-1312626908)
+
+### Summary of activities for the period ended 31st March ... / Dept. of Information
+**Australia. Department of Information, 1940**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/32834106)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2735338649)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsummary-of-activities-for-the-period-ended-31st-ma-nla.obj-2735338649&files=nla.obj-2735338649-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsummary-of-activities-for-the-period-ended-31st-ma-nla.obj-2735338649)
+
 ### Supplement to catalogue / Launceston Mechanics' Institute
+**Launceston Mechanics' Institute and Public Library, 1880-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 5 of 5 issues have OCRd text available for download.
 
@@ -2275,7 +10028,64 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsupplement-to-catalogue-launceston-mechanics-insti-nla.obj-415838474&files=nla.obj-415838474-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsupplement-to-catalogue-launceston-mechanics-insti-nla.obj-415838474)
 
+### Supplementary estimates of expenditure for additions, new works and buildings ..
+**Australia. Parliament. House of Representatives, 1904**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+42 of 42 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/234950762)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2354180908)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsupplementary-estimates-of-expenditure-for-additio-nla.obj-2354180908&files=nla.obj-2354180908-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsupplementary-estimates-of-expenditure-for-additio-nla.obj-2354180908)
+
+### Supplementary estimates of expenditure for additions, new works and other services involving capital expenditure
+**Australia. Treasury, 1950**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21329005)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2354344581)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsupplementary-estimates-of-expenditure-for-additio-nla.obj-2354344581&files=nla.obj-2354344581-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsupplementary-estimates-of-expenditure-for-additio-nla.obj-2354344581)
+
+### Supplementary estimates of expenditure for the year ending 30th June..
+**Australia. Parliament, 1902-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+45 of 45 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/234181918)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-767865510)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsupplementary-estimates-of-expenditure-for-the-yea-nla.obj-767865510&files=nla.obj-767865510-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsupplementary-estimates-of-expenditure-for-the-yea-nla.obj-767865510)
+
+### Supplementary financial statements of the Department of Finance for the year ended 30 June ..
+**Australia. Department of Finance, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6466601)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2045107008)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsupplementary-financial-statements-of-the-departme-nla.obj-2045107008&files=nla.obj-2045107008-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsupplementary-financial-statements-of-the-departme-nla.obj-2045107008)
+
+### Supplementary report of the Auditor-General upon other accounts
+**Australia. Auditor-General's Office, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+27 of 27 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11370780)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1052482356)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsupplementary-report-of-the-auditor-general-upon-o-nla.obj-1052482356&files=nla.obj-1052482356-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsupplementary-report-of-the-auditor-general-upon-o-nla.obj-1052482356)
+
 ### Survey sentinal / 2/1 Aust. Army Topo. Survey Coy
+**Australia. Army. Topographical Survey Company, 2/1st, 1943**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2284,7 +10094,53 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsurvey-sentinal-2-1-aust-army-topo-survey-coy-nla.obj-324030122&files=nla.obj-324030122-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsurvey-sentinal-2-1-aust-army-topo-survey-coy-nla.obj-324030122)
 
+### Sydney coronal (Online)
+**M'Donald, Charles, 1835-1836**  
+Periodical | Periodical/Journal, magazine, other
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238055834)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-753479079)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsydney-coronal-online-nla.obj-753479079&files=nla.obj-753479079-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsydney-coronal-online-nla.obj-753479079)
+
+### Sydney once a week magazine (Online)
+**1878**  
+Periodical | Periodical/Journal, magazine, other
+
+24 of 24 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238006103)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-760335335)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsydney-once-a-week-magazine-online-nla.obj-760335335&files=nla.obj-760335335-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsydney-once-a-week-magazine-online-nla.obj-760335335)
+
+### Sydney telephone directory
+**Telecom Australia, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+44 of 44 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/15672285)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-820136958)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsydney-telephone-directory-nla.obj-820136958&files=nla.obj-820136958-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsydney-telephone-directory-nla.obj-820136958)
+
+### Sydney telephone directory : pink pages
+**Australia. Postmaster-General's Dept, 1959-1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other | Microform
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5678205)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-590880447)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsydney-telephone-directory-pink-pages-nla.obj-590880447&files=nla.obj-590880447-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fsydney-telephone-directory-pink-pages-nla.obj-590880447)
+
 ### Talaiqu : a ga na pepe ai ra Qunantuna
+**Catholic Mission (Vunapope, Papua New Guinea), 1928-1941**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2293,7 +10149,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftalaiqu-a-ga-na-pepe-ai-ra-qunantuna-nla.obj-149549988&files=nla.obj-149549988-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftalaiqu-a-ga-na-pepe-ai-ra-qunantuna-nla.obj-149549988)
 
+### Taxation statistics (Canberra, A.C.T.)
+**Australian Taxation Office, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+36 of 36 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13636202)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1241214191)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftaxation-statistics-canberra-a-c-t-nla.obj-1241214191&files=nla.obj-1241214191-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftaxation-statistics-canberra-a-c-t-nla.obj-1241214191)
+
 ### Tegg's New South Wales pocket almanac and remembrancer
+**1836-1844**  
+Periodical | Periodical/Journal, magazine, other
 
 9 of 9 issues have OCRd text available for download.
 
@@ -2303,6 +10172,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftegg-s-new-south-wales-pocket-almanac-and-remembra-nla.obj-754081281)
 
 ### Tegg's New South Wales pocket almanac and remembrancer (Online)
+**1836-1844**  
+Periodical | Periodical/Journal, magazine, other
 
 9 of 9 issues have OCRd text available for download.
 
@@ -2312,6 +10183,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftegg-s-new-south-wales-pocket-almanac-and-remembra-nla.obj-754081281)
 
 ### Tegg's monthly magazine
+**1836**  
+Periodical | Periodical/Journal, magazine, other
 
 5 of 5 issues have OCRd text available for download.
 
@@ -2320,7 +10193,141 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftegg-s-monthly-magazine-nla.obj-598267619&files=nla.obj-598267619-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftegg-s-monthly-magazine-nla.obj-598267619)
 
+### Tegg's monthly magazine (Online)
+**1836**  
+Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/237995271)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-598267619)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftegg-s-monthly-magazine-online-nla.obj-598267619&files=nla.obj-598267619-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftegg-s-monthly-magazine-online-nla.obj-598267619)
+
+### Telecommunications (Interception) Act, 1979, report in compliance with Division 2 of Part IX / Attorney-General's Department
+**Australia. Attorney-General's Department, 1990-1991**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/24177868)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2000769134)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftelecommunications-interception-act-1979-report-in-nla.obj-2000769134&files=nla.obj-2000769134-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftelecommunications-interception-act-1979-report-in-nla.obj-2000769134)
+
+### Telecommunications competitive safeguards / Australian Competition & Consumer Commission
+**Australian Competition and Consumer Commission, 1999-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/34056008)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1454082768)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftelecommunications-competitive-safeguards-australi-nla.obj-1454082768&files=nla.obj-1454082768-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftelecommunications-competitive-safeguards-australi-nla.obj-1454082768)
+
+### Telecommunications performance report / Australian Communications Authority
+**Australian Communications Authority, 1997-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19925972)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1906050249)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftelecommunications-performance-report-australian-c-nla.obj-1906050249&files=nla.obj-1906050249-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftelecommunications-performance-report-australian-c-nla.obj-1906050249)
+
+### Telstra's compliance with price control arrangements
+**Australian Competition and Consumer Commission, 1990-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26433155)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-743678963)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftelstra-s-compliance-with-price-control-arrangemen-nla.obj-743678963&files=nla.obj-743678963-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftelstra-s-compliance-with-price-control-arrangemen-nla.obj-743678963)
+
+### Territory of Christmas Island. Report / Commonwealth of Australia
+**Christmas Island (Indian Ocean), 1960-1978**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+16 of 16 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9041017)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1600899091)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fterritory-of-christmas-island-report-commonwealth--nla.obj-1600899091&files=nla.obj-1600899091-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fterritory-of-christmas-island-report-commonwealth--nla.obj-1600899091)
+
+### Territory of Cocos (Keeling) Islands : report
+**Australia. Department of Administrative Services, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10401579)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1727259305)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fterritory-of-cocos-keeling-islands-report-nla.obj-1727259305&files=nla.obj-1727259305-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fterritory-of-cocos-keeling-islands-report-nla.obj-1727259305)
+
+### Territory of Cocos (Keeling) Islands : report for the period.....
+**Australia. Department of the Special Minister of State, 1974**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12706042)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1276617326)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fterritory-of-cocos-keeling-islands-report-for-the--nla.obj-1276617326&files=nla.obj-1276617326-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fterritory-of-cocos-keeling-islands-report-for-the--nla.obj-1276617326)
+
+### Territory of Cocos (Keeling) Islands. : Annual report
+**Australia. Department of Territories, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26935882)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1907284852)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fterritory-of-cocos-keeling-islands-annual-report-nla.obj-1907284852&files=nla.obj-1907284852-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fterritory-of-cocos-keeling-islands-annual-report-nla.obj-1907284852)
+
+### Territory of Papua : annual report for the period ... ..
+**Australia. Department of External Territories, 1940-1949**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/10103835)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2060262652)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fterritory-of-papua-annual-report-for-the-period-nla.obj-2060262652&files=nla.obj-2060262652-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fterritory-of-papua-annual-report-for-the-period-nla.obj-2060262652)
+
+### Territory of Papua : annual report for the period ... ..
+**Australia. Department of Territories, 1950-1962**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+13 of 13 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21049639)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1905803422)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fterritory-of-papua-annual-report-for-the-period-nla.obj-1905803422&files=nla.obj-1905803422-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fterritory-of-papua-annual-report-for-the-period-nla.obj-1905803422)
+
+### Territory of Papua : annual report for the year
+**Papua. Lieutenant Governor, 1923-1940**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+18 of 18 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11299461)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1905139508)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fterritory-of-papua-annual-report-for-the-year-nla.obj-1905139508&files=nla.obj-1905139508-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fterritory-of-papua-annual-report-for-the-year-nla.obj-1905139508)
+
 ### The "Tingira"
+**Tingira (Ship), 1918**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -2329,7 +10336,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-tingira-nla.obj-8260878&files=nla.obj-8260878-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-tingira-nla.obj-8260878)
 
+### The ... report and recommendations of the council for the period ending ... / National Advisory Council for the Handicapped
+**Australia. National Advisory Council for the Handicapped, 1978-1980**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11646438)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1333425433)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-report-and-recommendations-of-the-council-for--nla.obj-1333425433&files=nla.obj-1333425433-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-report-and-recommendations-of-the-council-for--nla.obj-1333425433)
+
 ### The 23rd : the voice of the battalion
+**Australia. Army. Battalion, 23rd, 1917-1919**  
+Periodical | Periodical/Journal, magazine, other
 
 30 of 30 issues have OCRd text available for download.
 
@@ -2339,6 +10359,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-23rd-the-voice-of-the-battalion-nla.obj-10414986)
 
 ### The 7th F.A.B. yandoo
+**Australia. Army. Field Artillery Brigade, 7th, 1916-1919**  
+Periodical | Periodical/Journal, magazine, other
 
 22 of 22 issues have OCRd text available for download.
 
@@ -2348,6 +10370,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-7th-f-a-b-yandoo-nla.obj-6142184)
 
 ### The Ad-Club-mag
+**Ad Club of Victoria, 1914**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -2356,7 +10380,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-ad-club-mag-nla.obj-25526819&files=nla.obj-25526819-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-ad-club-mag-nla.obj-25526819)
 
+### The Adelaide almanack town and country directory, and guide to South Australia ... / by Josiah Boothby, Esq. (Government statist)
+**Boothby, Josiah, 1837-1916, 1864-1871**  
+Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12460316)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2873479770)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-adelaide-almanack-town-and-country-directory-a-nla.obj-2873479770&files=nla.obj-2873479770-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-adelaide-almanack-town-and-country-directory-a-nla.obj-2873479770)
+
+### The Almanac of Australia and official record
+**1882**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22208064)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2887631687)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-almanac-of-australia-and-official-record-nla.obj-2887631687&files=nla.obj-2887631687-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-almanac-of-australia-and-official-record-nla.obj-2887631687)
+
+### The Antarctic Division / Department of Science
+**Australia. Antarctic Division, 1974-1981**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26787817)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1727588005)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-antarctic-division-department-of-science-nla.obj-1727588005&files=nla.obj-1727588005-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-antarctic-division-department-of-science-nla.obj-1727588005)
+
 ### The Antipodean
+**1892-1980**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2366,6 +10425,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-antipodean-nla.obj-163753218)
 
 ### The Anzac records gazette / produced by the New Zealand and Australian sections of the 3rd Echelon, M.E.F
+**1915**  
+Periodical | Periodical/Journal, magazine, other
 
 4 of 4 issues have OCRd text available for download.
 
@@ -2375,6 +10436,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-anzac-records-gazette-produced-by-the-new-zeal-nla.obj-35702476)
 
 ### The Athenian mercury : resolving weekly all the most nice and curious questions propos'd by the ingenious
+**Dunton, John, 1659-1733, 1691-1697**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2384,6 +10447,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-athenian-mercury-resolving-weekly-all-the-most-nla.obj-488856769)
 
 ### The Austral chronicle : a bi-weekly journal
+**1886**  
+Periodical/Newspaper | Periodical
 
 8 of 8 issues have OCRd text available for download.
 
@@ -2393,6 +10458,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-austral-chronicle-a-bi-weekly-journal-nla.obj-184529667)
 
 ### The Australasian naval & military annual : with which is incorporated 'The Call', the Journal of the Australian National Defence League, N.S.W. Division
+**Australian National Defence League. N.S.W. Division, 1912**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -2402,15 +10469,19 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australasian-naval-military-annual-with-which--nla.obj-19507012)
 
 ### The Australasian news
+**Harrison, Thomas, 1884-1885**  
+Periodical/Newspaper | Periodical
 
-2 of 2 issues have OCRd text available for download.
+3 of 3 issues have OCRd text available for download.
 
 * [Details on Trove](https://trove.nla.gov.au/work/18240294)
-* [Browse issues on Trove](http://nla.gov.au/nla.obj-381313795)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-381313795)
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australasian-news-nla.obj-381313795&files=nla.obj-381313795-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australasian-news-nla.obj-381313795)
 
 ### The Australasian pastoralists' review : a monthly journal and record of all matters affecting the pastoral and landed interests throughout Australasia
+**1891-1901**  
+Periodical | Periodical/Journal, magazine, other
 
 80 of 80 issues have OCRd text available for download.
 
@@ -2419,7 +10490,53 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australasian-pastoralists-review-a-monthly-jou-nla.obj-32547138&files=nla.obj-32547138-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australasian-pastoralists-review-a-monthly-jou-nla.obj-32547138)
 
+### The Australian Presbyterian calendar and educational register of Victoria
+**Macdonald, D. (Daniel), 1846-1927, 1872-1882**  
+Periodical | Periodical/Journal, magazine, other
+
+11 of 11 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22486424)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2870731191)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-presbyterian-calendar-and-education-nla.obj-2870731191&files=nla.obj-2870731191-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-presbyterian-calendar-and-education-nla.obj-2870731191)
+
+### The Australian Research Council awards ... : grants and fellowships awarded in ... ..
+**Australian Research Council, 1989-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/17975718)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1369315461)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-research-council-awards-grants-and--nla.obj-1369315461&files=nla.obj-1369315461-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-research-council-awards-grants-and--nla.obj-1369315461)
+
+### The Australian Templar annual and directory
+**Alcock, Peter Cornelius, 1874**  
+Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19207643)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2865766289)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-templar-annual-and-directory-nla.obj-2865766289&files=nla.obj-2865766289-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-templar-annual-and-directory-nla.obj-2865766289)
+
+### The Australian almanac for ... : containing a vast amount of useful information for everybody
+**1931**  
+Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/34424967)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2907762433)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-almanac-for-containing-a-vast-amoun-nla.obj-2907762433&files=nla.obj-2907762433-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-almanac-for-containing-a-vast-amoun-nla.obj-2907762433)
+
 ### The Australian and New Zealand monthly magazine
+**Capper, Henry, 1842-2021**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 6 of 6 issues have OCRd text available for download.
 
@@ -2429,6 +10546,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-and-new-zealand-monthly-magazine-nla.obj-1395204908)
 
 ### The Australian assistance plan : discussion paper / prepared by the Interim Committee of the Social Welfare Commission
+**Australia. Social Welfare Commission. Interim Committee, 1973-1974**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -2438,6 +10557,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-assistance-plan-discussion-paper-pr-nla.obj-1654481531)
 
 ### The Australian at Weymouth
+**Australia. Army. Australian Imperial Force (1914-1921), 1918-1920**  
+Periodical | Periodical/Journal, magazine, other
 
 13 of 13 issues have OCRd text available for download.
 
@@ -2447,6 +10568,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-at-weymouth-nla.obj-7453214)
 
 ### The Australian bee bulletin
+**1892-1911**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2455,16 +10578,53 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-bee-bulletin-nla.obj-2237504477&files=nla.obj-2237504477-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-bee-bulletin-nla.obj-2237504477)
 
-### The Australian home builder
+### The Australian handbook & almanac
+**1870-1872**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
+* [Details on Trove](https://trove.nla.gov.au/work/31859582)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2880990333)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-handbook-almanac-nla.obj-2880990333&files=nla.obj-2880990333-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-handbook-almanac-nla.obj-2880990333)
+
+### The Australian handbook (incorporating New Zealand, Fiji, and New Guinea) and shippers' and importers' directory
+**Deane, W. H. (William Houison), 1900-1984, 1881-1905**  
+Periodical | Periodical/Journal, magazine, other
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16915340)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2927390341)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-handbook-incorporating-new-zealand--nla.obj-2927390341&files=nla.obj-2927390341-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-handbook-incorporating-new-zealand--nla.obj-2927390341)
+
+### The Australian handbook and almanac and shippers' and importers' directory
+**1873-1880**  
+Periodical | Periodical/Journal, magazine, other
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/16915336)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2881003751)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-handbook-and-almanac-and-shippers-a-nla.obj-2881003751&files=nla.obj-2881003751-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-handbook-and-almanac-and-shippers-a-nla.obj-2881003751)
+
+### The Australian home builder
+**1922-1925**  
+Periodical | Periodical/Journal, magazine, other
+
+25 of 27 issues have OCRd text available for download.
+
 * [Details on Trove](https://trove.nla.gov.au/work/18842577)
-* [Browse issues on Trove](http://nla.gov.au/nla.obj-443757183)
-* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-home-builder-nla.obj-443757183&files=nla.obj-443757183-issues.csv)
-* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-home-builder-nla.obj-443757183)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2930122612)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-home-builder-nla.obj-2930122612&files=nla.obj-2930122612-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-home-builder-nla.obj-2930122612)
 
 ### The Australian journal of philately
+**1900-1905**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2474,6 +10634,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-journal-of-philately-nla.obj-638564222)
 
 ### The Australian magazine, or, Compendium of religious, literary, and miscellaneous intelligence
+**Mansfield, Ralph, 1799-1880, 1821-1822**  
+Periodical | Periodical/Journal, magazine, other
 
 10 of 10 issues have OCRd text available for download.
 
@@ -2482,7 +10644,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-magazine-or-compendium-of-religious-nla.obj-636270394&files=nla.obj-636270394-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-magazine-or-compendium-of-religious-nla.obj-636270394)
 
+### The Australian nautical almanac and coasters' guide : for the Southern and the Eastern coasts of New Holland / compiled by I. Wellbank
+**Wellbank, I, 1860-1868**  
+Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/17285402)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2889981103)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-nautical-almanac-and-coasters-guide-nla.obj-2889981103&files=nla.obj-2889981103-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-nautical-almanac-and-coasters-guide-nla.obj-2889981103)
+
 ### The Australian quarterly journal of theology, literature & science
+**Wilton, C. Pleydell N. (Charles Pleydell Neale), 1795-1859, 1828**  
+Periodical | Periodical/Journal, magazine, other
 
 4 of 4 issues have OCRd text available for download.
 
@@ -2492,6 +10667,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-quarterly-journal-of-theology-liter-nla.obj-598048432)
 
 ### The Australian temperance magazine
+**New South Wales Temperance Society, 1837-1840**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 40 of 40 issues have OCRd text available for download.
 
@@ -2500,7 +10677,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-temperance-magazine-nla.obj-752869974&files=nla.obj-752869974-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-temperance-magazine-nla.obj-752869974)
 
+### The Australian weather and medical almanac for ... : containing a vast amount of useful information for everybody
+**1900-1930**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/34424954)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2922828048)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-weather-and-medical-almanac-for-con-nla.obj-2922828048&files=nla.obj-2922828048-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-weather-and-medical-almanac-for-con-nla.obj-2922828048)
+
 ### The Australian woman's mirror
+**1924-1961**  
+Periodical | Periodical/Journal, magazine, other
 
 1561 of 1561 issues have OCRd text available for download.
 
@@ -2509,7 +10699,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-woman-s-mirror-nla.obj-389050376&files=nla.obj-389050376-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-woman-s-mirror-nla.obj-389050376)
 
+### The Australian woman's mirror (Online)
+**1924-1961**  
+Periodical | Periodical/Journal, magazine, other
+
+1561 of 1561 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/237942979)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-389050376)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-woman-s-mirror-online-nla.obj-389050376&files=nla.obj-389050376-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-australian-woman-s-mirror-online-nla.obj-389050376)
+
 ### The Blossom
+**Fulton, John Walker, 1828**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2519,6 +10722,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-blossom-nla.obj-721994818)
 
 ### The Borda news
+**1919**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2528,6 +10733,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-borda-news-nla.obj-10770236)
 
 ### The Brisbane : R.A.N
+**Australia. Royal Australian Navy, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 4 of 4 issues have OCRd text available for download.
 
@@ -2537,6 +10744,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-brisbane-r-a-n-nla.obj-35727571)
 
 ### The Bulletin with newsweek
+**1984-2021**  
+Periodical | Periodical/Journal, magazine, other | Periodical/Newspaper
 
 25 of 25 issues have OCRd text available for download.
 
@@ -2546,6 +10755,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-bulletin-with-newsweek-nla.obj-1567115091)
 
 ### The Cacolet : journal of the Australian Camel Field Ambulance
+**Australia. Army. Australian Camel Field Ambulance, 1917-1918**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -2555,6 +10766,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-cacolet-journal-of-the-australian-camel-field--nla.obj-12753855)
 
 ### The Chronicle of the London Missionary Society : a record of its proceedings at home and abroad
+**London Missionary Society, 1800-2021**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 2 of 2 issues have OCRd text available for download.
 
@@ -2563,7 +10776,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-chronicle-of-the-london-missionary-society-a-r-nla.obj-80303456&files=nla.obj-80303456-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-chronicle-of-the-london-missionary-society-a-r-nla.obj-80303456)
 
+### The Church almanac of Victoria, and Presbyterian calendar of Australasia, with educational register of Victoria for ...
+**Macdonald, D. (Daniel), 1846?-1927, 1883-1888**  
+Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19420443)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2871010687)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-church-almanac-of-victoria-and-presbyterian-ca-nla.obj-2871010687&files=nla.obj-2871010687-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-church-almanac-of-victoria-and-presbyterian-ca-nla.obj-2871010687)
+
 ### The Clarence, New England, Macleay, and Gwydir almanac and gazeteer for the year ... : with a complete directory of all information in connection with the Northern Districts of New South Wales, as included in the electorates of The Clarence, New England, Hastings, Tenterfield, Gwydir, and Gold Fields North
+**1871**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2573,6 +10799,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-clarence-new-england-macleay-and-gwydir-almana-nla.obj-401134767)
 
 ### The Clayfield collegian
+**Brisbane Boys' College, 1916-1930**  
+Periodical | Periodical/Journal, magazine, other
 
 15 of 15 issues have OCRd text available for download.
 
@@ -2582,6 +10810,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-clayfield-collegian-nla.obj-969908133)
 
 ### The Colonial and Asiatic review
+**1852-1853**  
+Periodical | Periodical/Journal, magazine, other
 
 14 of 14 issues have OCRd text available for download.
 
@@ -2590,7 +10820,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-colonial-and-asiatic-review-nla.obj-1439698119&files=nla.obj-1439698119-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-colonial-and-asiatic-review-nla.obj-1439698119)
 
+### The Colonial forest service list
+**Great Britain. Colonial Office, 1936**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/32027268)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-738858990)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-colonial-forest-service-list-nla.obj-738858990&files=nla.obj-738858990-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-colonial-forest-service-list-nla.obj-738858990)
+
 ### The Colonial magazine and East India review
+**Kingston, William Henry Giles, 1814-1880, 1849-2021**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 45 of 45 issues have OCRd text available for download.
 
@@ -2600,6 +10843,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-colonial-magazine-and-east-india-review-nla.obj-1424886159)
 
 ### The Colonial magazine and commercial-maritime journal / edited by Robert Montgomery Martin
+**Martin, Robert Montgomery, 1803?-1868, 1840-2021**  
+Periodical | Periodical/Journal, magazine, other | Microform | Periodical/Newspaper
 
 41 of 41 issues have OCRd text available for download.
 
@@ -2609,6 +10854,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-colonial-magazine-and-commercial-maritime-jour-nla.obj-1401364379)
 
 ### The Commonwealth jeweller & watchmaker
+**Australian Jewellers' Association, 1915-1971**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2617,7 +10864,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-commonwealth-jeweller-watchmaker-nla.obj-322639890&files=nla.obj-322639890-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-commonwealth-jeweller-watchmaker-nla.obj-322639890)
 
+### The Commonwealth public account : (including Appropriation (Parliamentary Departments) Bill ... , Appropriation Bill No. 1 ... , Appropriation Bill No. 2 ... / circulated by ... Minister for Finance of the Commonwealth of Australia for the information of honourable members on the occasion of the budget
+**Australia, 1987-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13082841)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1885369272)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-commonwealth-public-account-including-appropri-nla.obj-1885369272&files=nla.obj-1885369272-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-commonwealth-public-account-including-appropri-nla.obj-1885369272)
+
 ### The Digger on the deep
+**1919**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2627,6 +10887,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-digger-on-the-deep-nla.obj-4407992)
 
 ### The Dinkum Australian
+**1919**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -2636,6 +10898,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-dinkum-australian-nla.obj-69783015)
 
 ### The Dominions Office and Colonial Office list for ..
+**Great Britain. Office of Commonwealth Relations, 1926-1940**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2645,6 +10909,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-dominions-office-and-colonial-office-list-for-nla.obj-831634240)
 
 ### The Emu : official organ of the Royal Australasian Ornithologists' Union
+**Royal Australasian Ornithologists' Union, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2654,6 +10920,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-emu-official-organ-of-the-royal-australasian-o-nla.obj-369769626)
 
 ### The Fijian weekly news, and planters' journal
+**1868-1968**  
+Periodical/Newspaper | Periodical
 
 12 of 12 issues have OCRd text available for download.
 
@@ -2663,6 +10931,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-fijian-weekly-news-and-planters-journal-nla.obj-2681770957)
 
 ### The Fourth : the magazine of the 4th London General Hospital
+**1916**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2672,6 +10942,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-fourth-the-magazine-of-the-4th-london-general--nla.obj-19669436)
 
 ### The Freiburg review
+**1918**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -2680,7 +10952,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-freiburg-review-nla.obj-28225383&files=nla.obj-28225383-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-freiburg-review-nla.obj-28225383)
 
+### The Hamilton spectator directory and almanac
+**1872-1914**  
+Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19234678)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2866816538)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-hamilton-spectator-directory-and-almanac-nla.obj-2866816538&files=nla.obj-2866816538-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-hamilton-spectator-directory-and-almanac-nla.obj-2866816538)
+
 ### The Heart of the rose : a quarterly magazine
+**1907-1908**  
+Periodical | Periodical/Journal, magazine, other
 
 4 of 4 issues have OCRd text available for download.
 
@@ -2689,7 +10974,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-heart-of-the-rose-a-quarterly-magazine-nla.obj-1874656588&files=nla.obj-1874656588-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-heart-of-the-rose-a-quarterly-magazine-nla.obj-1874656588)
 
+### The Herald Western Australian almanack and commercial directory
+**1800-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/23969958)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2876183498)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-herald-western-australian-almanack-and-commerc-nla.obj-2876183498&files=nla.obj-2876183498-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-herald-western-australian-almanack-and-commerc-nla.obj-2876183498)
+
 ### The Horsforth and district almanack for ..
+**1800**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2698,7 +10996,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-horsforth-and-district-almanack-for-nla.obj-427728952&files=nla.obj-427728952-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-horsforth-and-district-almanack-for-nla.obj-427728952)
 
+### The Illustrated Sydney news New South Wales weather almanac
+**1872-1882**  
+Periodical | Periodical/Journal, magazine, other
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/17569224)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2889768334)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-illustrated-sydney-news-new-south-wales-weathe-nla.obj-2889768334&files=nla.obj-2889768334-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-illustrated-sydney-news-new-south-wales-weathe-nla.obj-2889768334)
+
 ### The Jackass : the First Australian General Hospital monthly
+**Australia. Army. Australian General Hospital, 1st, 1918**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -2708,6 +11019,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-jackass-the-first-australian-general-hospital--nla.obj-13289330)
 
 ### The Juvenile missionary magazine
+**London Missionary Society, 1844-1887**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 34 of 34 issues have OCRd text available for download.
 
@@ -2717,8 +11030,10 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-juvenile-missionary-magazine-nla.obj-1393641138)
 
 ### The Karoolian : the unofficial log of no. 1, A.H.S. Karoola
+**Karoola (Hospital ship), 1918-1919**  
+Periodical | Periodical/Journal, magazine, other
 
-2 of 2 issues have OCRd text available for download.
+1 of 2 issues have OCRd text available for download.
 
 * [Details on Trove](https://trove.nla.gov.au/work/27009913)
 * [Browse issues on Trove](http://nla.gov.au/nla.obj-6026792)
@@ -2726,6 +11041,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-karoolian-the-unofficial-log-of-no-1-a-h-s-kar-nla.obj-6026792)
 
 ### The Kia-ora coo-ee : official magazine of the Australian and New Zealand forces in Egypt, Palestine, Salonica & Mesopotamia
+**New Zealand. Army. New Zealand Expeditionary Force, 1918**  
+Periodical | Periodical/Journal, magazine, other
 
 10 of 10 issues have OCRd text available for download.
 
@@ -2735,6 +11052,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-kia-ora-coo-ee-official-magazine-of-the-austra-nla.obj-8327183)
 
 ### The Kilburn Speedway star
+**Kilburn Speedways S.A, 1900-1949**  
+Periodical | Periodical/Journal, magazine, other
 
 19 of 19 issues have OCRd text available for download.
 
@@ -2744,6 +11063,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-kilburn-speedway-star-nla.obj-850092853)
 
 ### The Kookaburra : First Divisional Base Depot, Tel-el-Kebir
+**Australia. Army. Divisional Base Depot, 1st, 1916**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2753,6 +11074,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-kookaburra-first-divisional-base-depot-tel-el--nla.obj-69071575)
 
 ### The Literary news : a review and magazine of fact and fiction; the arts, sciences and belles lettres
+**1837-1838**  
+Periodical | Periodical/Journal, magazine, other
 
 26 of 26 issues have OCRd text available for download.
 
@@ -2762,6 +11085,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-literary-news-a-review-and-magazine-of-fact-an-nla.obj-765536757)
 
 ### The Log of the lunatic ship
+**1910**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2771,6 +11096,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-log-of-the-lunatic-ship-nla.obj-262805405)
 
 ### The Lone hand
+**Lindsay, Norman, 1879-1969, 1907-1921**  
+Periodical | Periodical/Journal, magazine, other
 
 166 of 166 issues have OCRd text available for download.
 
@@ -2780,6 +11107,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-lone-hand-nla.obj-358884931)
 
 ### The Magical news
+**1900-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -2789,6 +11118,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-magical-news-nla.obj-277034984)
 
 ### The Masseydonian stretcher : the official monthly journal of the No. 1 New Zealand Stationary Hospital
+**1916**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2798,6 +11129,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-masseydonian-stretcher-the-official-monthly-jo-nla.obj-6475297)
 
 ### The Militant
+**Communist League of Australia, 1933-1972**  
+Periodical/Newspaper | Periodical
 
 11 of 11 issues have OCRd text available for download.
 
@@ -2807,6 +11140,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-militant-nla.obj-320230446)
 
 ### The N.S.W. Red Cross record / The Australian Red Cross Society, N.S.W. Division
+**Australian Red Cross Society. New South Wales Division, 1914**  
+Periodical | Periodical/Journal, magazine, other
 
 59 of 59 issues have OCRd text available for download.
 
@@ -2816,6 +11151,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-n-s-w-red-cross-record-the-australian-red-cros-nla.obj-73519713)
 
 ### The Native companion : an Australian monthly magazine of literature and life
+**1907**  
+Periodical | Periodical/Journal, magazine, other
 
 4 of 4 issues have OCRd text available for download.
 
@@ -2825,6 +11162,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-native-companion-an-australian-monthly-magazin-nla.obj-2164214954)
 
 ### The New South Wales Aborigines' advocate : a monthly record of missionary work amongst the Aborigines / issued under the auspices of the N.S.W. Aborigines' Mission
+**N.S.W. Aborigines' Mission, 1901-1908**  
+Periodical | Microform | Periodical/Newspaper | Periodical/Journal, magazine, other
 
 80 of 80 issues have OCRd text available for download.
 
@@ -2834,6 +11173,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-new-south-wales-aborigines-advocate-a-monthly--nla.obj-554406117)
 
 ### The New South Wales Post Office directory
+**1887-1908**  
+Periodical | Periodical/Journal, magazine, other
 
 15 of 15 issues have OCRd text available for download.
 
@@ -2842,7 +11183,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-new-south-wales-post-office-directory-nla.obj-518308191&files=nla.obj-518308191-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-new-south-wales-post-office-directory-nla.obj-518308191)
 
+### The New South Wales Post Office directory (Online)
+**1887-1908**  
+Periodical | Periodical/Journal, magazine, other
+
+15 of 15 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/237945398)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-518308191)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-new-south-wales-post-office-directory-online-nla.obj-518308191&files=nla.obj-518308191-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-new-south-wales-post-office-directory-online-nla.obj-518308191)
+
 ### The New South Wales magazine, or, Journal of general politics, literature, science, and the arts
+**1843-2021**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 11 of 11 issues have OCRd text available for download.
 
@@ -2852,6 +11206,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-new-south-wales-magazine-or-journal-of-general-nla.obj-1389135662)
 
 ### The New South Wales school magazine of literature for our boys and girls
+**New South Wales. Department of Education, 1950-1960**  
+Periodical | Periodical/Journal, magazine, other
 
 180 of 180 issues have OCRd text available for download.
 
@@ -2861,6 +11217,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-new-south-wales-school-magazine-of-literature--nla.obj-748141557)
 
 ### The New South Wales sporting and literary magazine, and racing calendar
+**Scott, D.C.F, 1849**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2870,6 +11228,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-new-south-wales-sporting-and-literary-magazine-nla.obj-761671852)
 
 ### The New South Wales sporting magazine
+**Scott, D.C.F, 1848**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -2879,6 +11239,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-new-south-wales-sporting-magazine-nla.obj-761667094)
 
 ### The New Triad
+**1927-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 12 of 12 issues have OCRd text available for download.
 
@@ -2887,7 +11249,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-new-triad-nla.obj-788254980&files=nla.obj-788254980-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-new-triad-nla.obj-788254980)
 
+### The Newcastle & Maitland business directory and Hunter River District almanac for the year ... : in three parts
+**1800**  
+Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19573762)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2967435315)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-newcastle-maitland-business-directory-and-hunt-nla.obj-2967435315&files=nla.obj-2967435315-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-newcastle-maitland-business-directory-and-hunt-nla.obj-2967435315)
+
+### The Newcastle business directory and Hunter River District almanac for the year ..
+**1800-1870**  
+Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19573727)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2967440275)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-newcastle-business-directory-and-hunter-river--nla.obj-2967440275&files=nla.obj-2967440275-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-newcastle-business-directory-and-hunter-river--nla.obj-2967440275)
+
+### The Newcastle city and country almanac & directory : with farm and garden calendar
+**1800**  
+Periodical | Periodical/Journal, magazine, other
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19573764)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2967445207)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-newcastle-city-and-country-almanac-directory-w-nla.obj-2967445207&files=nla.obj-2967445207-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-newcastle-city-and-country-almanac-directory-w-nla.obj-2967445207)
+
 ### The No. 5 : a magazine published by the patients and staff of No. 5 Australian General Hospital, St Kilda Road, Melbourne
+**Australia. Army. Australian General Hospital, 5th, 1918**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -2896,7 +11293,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-no-5-a-magazine-published-by-the-patients-and--nla.obj-62308374&files=nla.obj-62308374-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-no-5-a-magazine-published-by-the-patients-and--nla.obj-62308374)
 
+### The Oakshaw annual of N.S.W. : being a concise Vade Mecum of civic, economic, historic, and general information concerning New South Wales, for the student, the politician and the man and woman of affairs
+**1897-1898**  
+Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22348075)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2890342827)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-oakshaw-annual-of-n-s-w-being-a-concise-vade-m-nla.obj-2890342827&files=nla.obj-2890342827-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-oakshaw-annual-of-n-s-w-being-a-concise-vade-m-nla.obj-2890342827)
+
+### The Official directory and almanac of Australia
+**Greville, Edward,, 1883-1884**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19333659)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2887633250)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-official-directory-and-almanac-of-australia-nla.obj-2887633250&files=nla.obj-2887633250-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-official-directory-and-almanac-of-australia-nla.obj-2887633250)
+
+### The Official directory and year-book of Australia
+**Greville, Edward, 1822-1903, 1884**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19065188)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2887634528)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-official-directory-and-year-book-of-australia-nla.obj-2887634528&files=nla.obj-2887634528-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-official-directory-and-year-book-of-australia-nla.obj-2887634528)
+
 ### The Order of service for the annual festival to be held in St. Andrew's Cathedral on the Feast of ... ... Sydney Diocesan Church Choir Association
+**Sydney Diocesan Church Choir Association, 1800-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 10 of 10 issues have OCRd text available for download.
 
@@ -2906,6 +11338,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-order-of-service-for-the-annual-festival-to-be-nla.obj-657473276)
 
 ### The Outback battler : a quarterly magazine issued in bush interests / the organ of the Bush Publishing Scheme in South Australia; the Smith of Dunesk Presbyterian Mission, Far North, S.A.; the Smith of Dunesk Deaconess-Nursing Scheme, and Receiving Ward at Oodnadatta
+**Flynn, John, 1880-1951, 1911**  
+Periodical | Periodical/Journal, magazine, other
 
 8 of 8 issues have OCRd text available for download.
 
@@ -2914,7 +11348,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-outback-battler-a-quarterly-magazine-issued-in-nla.obj-2635870644&files=nla.obj-2635870644-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-outback-battler-a-quarterly-magazine-issued-in-nla.obj-2635870644)
 
+### The Parliament of the Commonwealth of Australia. - Manufactures encouragement act: return showing bounty paid during year ..
+**1909-1915**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238040267)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2347694280)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-parliament-of-the-commonwealth-of-australia-ma-nla.obj-2347694280&files=nla.obj-2347694280-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-parliament-of-the-commonwealth-of-australia-ma-nla.obj-2347694280)
+
 ### The Pastoralists' review : a journal and record of all matters affecting the pastoral and agricultural interests throughout Australasia
+**Pastoralists Association of Australia, 1901-1912**  
+Periodical | Periodical/Journal, magazine, other
 
 71 of 71 issues have OCRd text available for download.
 
@@ -2924,6 +11371,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-pastoralists-review-a-journal-and-record-of-al-nla.obj-481504128)
 
 ### The Pioneer observer : "pro bono matlow"
+**Australia. Royal Australian Navy, 1915**  
+Periodical | Periodical/Journal, magazine, other
 
 5 of 5 issues have OCRd text available for download.
 
@@ -2933,6 +11382,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-pioneer-observer-pro-bono-matlow-nla.obj-7382927)
 
 ### The Port Phillip magazine
+**1843-2021**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 4 of 4 issues have OCRd text available for download.
 
@@ -2941,7 +11392,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-port-phillip-magazine-nla.obj-1394058185&files=nla.obj-1394058185-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-port-phillip-magazine-nla.obj-1394058185)
 
+### The Presbyterian calendar of Australasia
+**Macdonald, D. (Daniel), 1846-1927, 1868-1893**  
+Periodical | Periodical/Journal, magazine, other
+
+4 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22486393)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2870582690)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-presbyterian-calendar-of-australasia-nla.obj-2870582690&files=nla.obj-2870582690-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-presbyterian-calendar-of-australasia-nla.obj-2870582690)
+
+### The Presbyterian calendar of Australasia
+**Macdonald, D. (Daniel), 1846-1927, 1868-1893**  
+Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/22486393)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2871533834)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-presbyterian-calendar-of-australasia-nla.obj-2871533834&files=nla.obj-2871533834-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-presbyterian-calendar-of-australasia-nla.obj-2871533834)
+
+### The Presbyterian calendar of Australasia, with educational register of Victoria for ...
+**Macdonald, D. (Daniel), 1846?-1927, 1889-1892**  
+Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12960320)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2871244738)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-presbyterian-calendar-of-australasia-with-educ-nla.obj-2871244738&files=nla.obj-2871244738-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-presbyterian-calendar-of-australasia-with-educ-nla.obj-2871244738)
+
 ### The Queensland Lutheran
+**United Evangelical Lutheran Church in Australia. Queensland District, 1943-1966**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2951,6 +11437,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-queensland-lutheran-nla.obj-447071835)
 
 ### The Rabaul record
+**1916-1918**  
+Periodical/Newspaper | Periodical
 
 27 of 28 issues have OCRd text available for download.
 
@@ -2960,6 +11448,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-rabaul-record-nla.obj-11726468)
 
 ### The Repeal : official organ of the Passive Resisters' Union
+**Passive Resisters' Union, 1913**  
+Periodical | Periodical/Journal, magazine, other
 
 5 of 5 issues have OCRd text available for download.
 
@@ -2969,6 +11459,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-repeal-official-organ-of-the-passive-resisters-nla.obj-8419088)
 
 ### The Rising sun
+**Young Men's Christian Associations of Australia, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2977,7 +11469,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-rising-sun-nla.obj-262991064&files=nla.obj-262991064-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-rising-sun-nla.obj-262991064)
 
+### The Royal South Australian almanack for..
+**Bennett, J. F. (James F.), 1839-1842**  
+Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/20870875)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2871964687)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-royal-south-australian-almanack-for-nla.obj-2871964687&files=nla.obj-2871964687-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-royal-south-australian-almanack-for-nla.obj-2871964687)
+
 ### The Second Eighth
+**Great Britain. Army. Essex Regiment. Battalion, 2/8th, 1916**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2987,6 +11492,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-second-eighth-nla.obj-291866941)
 
 ### The Silver stream songster
+**1890-1900**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -2995,7 +11502,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-silver-stream-songster-nla.obj-614066685&files=nla.obj-614066685-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-silver-stream-songster-nla.obj-614066685)
 
+### The South Australian almanack and Adelaide and colonial directory for ..
+**Cotter, Thomas Young, 1840-1844**  
+Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6076929)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2873318879)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-south-australian-almanack-and-adelaide-and-col-nla.obj-2873318879&files=nla.obj-2873318879-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-south-australian-almanack-and-adelaide-and-col-nla.obj-2873318879)
+
+### The South Australian almanack for ..
+**Murray, Andrew, 1813-1880, 1852**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/20861140)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2873393376)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-south-australian-almanack-for-nla.obj-2873393376&files=nla.obj-2873393376-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-south-australian-almanack-for-nla.obj-2873393376)
+
+### The South Australian almanack, and general colonial directory for ... ..
+**Allen, James, 1806-1886, 1849-1851**  
+Periodical | Periodical/Journal, magazine, other | Microform
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/12368208)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2873376897)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-south-australian-almanack-and-general-colonial-nla.obj-2873376897&files=nla.obj-2873376897-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-south-australian-almanack-and-general-colonial-nla.obj-2873376897)
+
 ### The South Australian magazine
+**Allen, James, 1806-1886, 1841-2021**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 17 of 17 issues have OCRd text available for download.
 
@@ -3005,6 +11547,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-south-australian-magazine-nla.obj-1403577777)
 
 ### The South Australian temperance advocate
+**1841**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 1 of 1 issues have OCRd text available for download.
 
@@ -3014,6 +11558,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-south-australian-temperance-advocate-nla.obj-1403589304)
 
 ### The South-Asian register
+**1827-1828**  
+Periodical | Periodical/Journal, magazine, other
 
 4 of 4 issues have OCRd text available for download.
 
@@ -3023,6 +11569,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-south-asian-register-nla.obj-597769314)
 
 ### The Southern cross gazette
+**1917**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -3032,6 +11580,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-southern-cross-gazette-nla.obj-12283902)
 
 ### The Stretcher : journal of the Camel Brigade Field Ambulance
+**Barrett, Charles L, 1917**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -3041,6 +11591,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-stretcher-journal-of-the-camel-brigade-field-a-nla.obj-12770203)
 
 ### The Sydney coronal / by Charles M'Donald
+**M'Donald, Charles, active 1838, 1835-1836**  
+Periodical | Periodical/Journal, magazine, other
 
 6 of 6 issues have OCRd text available for download.
 
@@ -3050,6 +11602,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-sydney-coronal-by-charles-m-donald-nla.obj-753479079)
 
 ### The Sydney once a week magazine
+**Barlee, Charles Haynes, 1878**  
+Periodical | Periodical/Journal, magazine, other
 
 24 of 24 issues have OCRd text available for download.
 
@@ -3059,6 +11613,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-sydney-once-a-week-magazine-nla.obj-760335335)
 
 ### The Sydney protestant magazine
+**1840-1841**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -3067,7 +11623,53 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-sydney-protestant-magazine-nla.obj-1393799271&files=nla.obj-1393799271-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-sydney-protestant-magazine-nla.obj-1393799271)
 
+### The Tasmanian Royal Kalendar, colonial register, and almanack / Compiled by James Wood
+**Wood, James, 1802-1854, 1849**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/27599824)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2879006508)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-tasmanian-royal-kalendar-colonial-register-and-nla.obj-2879006508&files=nla.obj-2879006508-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-tasmanian-royal-kalendar-colonial-register-and-nla.obj-2879006508)
+
+### The Tasmanian almanack for ..
+**Walch, J, 1862**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/17046725)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2877382455)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-tasmanian-almanack-for-nla.obj-2877382455&files=nla.obj-2877382455-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-tasmanian-almanack-for-nla.obj-2877382455)
+
+### The Tasmanian almanack for the year of our Lord ..
+**1825**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21484810)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2879850800)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-tasmanian-almanack-for-the-year-of-our-lord-nla.obj-2879850800&files=nla.obj-2879850800-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-tasmanian-almanack-for-the-year-of-our-lord-nla.obj-2879850800)
+
+### The Tasmanian flock book of Shropshire sheep / Tasmanian Shropshire Sheepbreeders' Association
+**Tasmanian Shropshire Sheepbreeders' Association, 1895-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/32287327)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2963901772)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-tasmanian-flock-book-of-shropshire-sheep-tasma-nla.obj-2963901772&files=nla.obj-2963901772-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-tasmanian-flock-book-of-shropshire-sheep-tasma-nla.obj-2963901772)
+
 ### The Tasmanian journal of natural science, agriculture, statistics, etc
+**Royal Society of Van Diemen's Land for Horticulture, Botany, and the Advancement of Science, 1842-2021**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 22 of 22 issues have OCRd text available for download.
 
@@ -3077,6 +11679,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-tasmanian-journal-of-natural-science-agricultu-nla.obj-1398693046)
 
 ### The Tassie times magazine / 40th Battn A.I.F
+**Australia. Army. Battalion, 40th, 1910**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -3086,6 +11690,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-tassie-times-magazine-40th-battn-a-i-f-nla.obj-18371293)
 
 ### The Torch and colonial book circular : including classified lists of new publications--English, American and colonial--in all departments of literature, science and art / edited by Edward Augustus Petherick
+**Petherick, Edward Augustus, 1847-1917, 1887-1892**  
+Periodical | Periodical/Journal, magazine, other
 
 18 of 18 issues have OCRd text available for download.
 
@@ -3094,7 +11700,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-torch-and-colonial-book-circular-including-cla-nla.obj-2256482624&files=nla.obj-2256482624-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-torch-and-colonial-book-circular-including-cla-nla.obj-2256482624)
 
+### The Treasurer's statement of receipts and expenditure
+**Australia. Treasury, 1900-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11387037)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2126009441)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-treasurer-s-statement-of-receipts-and-expendit-nla.obj-2126009441&files=nla.obj-2126009441-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-treasurer-s-statement-of-receipts-and-expendit-nla.obj-2126009441)
+
 ### The Twenty-Second's echo : random shots from the red and purple diamonds
+**Australia. Army. Battalion, 22nd, 1918-1919**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -3104,6 +11723,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-twenty-second-s-echo-random-shots-from-the-red-nla.obj-6375240)
 
 ### The United Aborigines messenger
+**United Aborigines Mission, 1929-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 299 of 299 issues have OCRd text available for download.
 
@@ -3112,7 +11733,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-united-aborigines-messenger-nla.obj-531348827&files=nla.obj-531348827-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-united-aborigines-messenger-nla.obj-531348827)
 
+### The Van Diemen's Land pocket almanack for the year of our Lord ..
+**1824**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21481707)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2879839204)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-van-diemen-s-land-pocket-almanack-for-the-year-nla.obj-2879839204&files=nla.obj-2879839204-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-van-diemen-s-land-pocket-almanack-for-the-year-nla.obj-2879839204)
+
 ### The Vestalian gazette
+**1916**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -3121,7 +11755,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-vestalian-gazette-nla.obj-7640722&files=nla.obj-7640722-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-vestalian-gazette-nla.obj-7640722)
 
+### The Victorian congregational year book and Australasian calendar
+**Congregational Union of Victoria, 1867-1912**  
+Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5528282)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2865779556)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-victorian-congregational-year-book-and-austral-nla.obj-2865779556&files=nla.obj-2865779556-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-victorian-congregational-year-book-and-austral-nla.obj-2865779556)
+
 ### The Victorian historical magazine
+**Historical Society of Victoria, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 1 of 1 issues have OCRd text available for download.
 
@@ -3130,7 +11777,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-victorian-historical-magazine-nla.obj-369015661&files=nla.obj-369015661-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-victorian-historical-magazine-nla.obj-369015661)
 
+### The Warrnambool Standard almanac and tourists' guide to Warrnambool & district for ..
+**1883-1930**  
+Periodical | Periodical/Journal, magazine, other
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/24007827)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2865898400)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-warrnambool-standard-almanac-and-tourists-guid-nla.obj-2865898400&files=nla.obj-2865898400-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-warrnambool-standard-almanac-and-tourists-guid-nla.obj-2865898400)
+
+### The Warrnambool almanac for ... and town and district guide
+**1875**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/24007692)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2865893327)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-warrnambool-almanac-for-and-town-and-district--nla.obj-2865893327&files=nla.obj-2865893327-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-warrnambool-almanac-for-and-town-and-district--nla.obj-2865893327)
+
 ### The Woman's leader and the common cause
+**1900-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -3139,7 +11810,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-woman-s-leader-and-the-common-cause-nla.obj-324572522&files=nla.obj-324572522-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-woman-s-leader-and-the-common-cause-nla.obj-324572522)
 
+### The Work of the committee during the ... Parliament / Senate Standing Committee for the Scrutiny of Bills
+**Australia. Parliament. Senate. Standing Committee for the Scrutiny of Bills, 1993-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/26587806)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-944584944)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-work-of-the-committee-during-the-parliament-se-nla.obj-944584944&files=nla.obj-944584944-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-work-of-the-committee-during-the-parliament-se-nla.obj-944584944)
+
+### The Year-book of Australia
+**Greville, Edward, 1822-1903, 1885-1917**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+6 of 6 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19480827)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2887641318)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-year-book-of-australia-nla.obj-2887641318&files=nla.obj-2887641318-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-year-book-of-australia-nla.obj-2887641318)
+
 ### The book lover : a literary review
+**1899-1921**  
+Periodical | Periodical/Journal, magazine, other
 
 32 of 32 issues have OCRd text available for download.
 
@@ -3149,6 +11844,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-book-lover-a-literary-review-nla.obj-651822092)
 
 ### The bulletin
+**Butler, S. T. (Stuart Thomas), 1880-2021**  
+Periodical | Periodical/Newspaper | Periodical/Journal, magazine, other | Microform
 
 5418 of 5418 issues have OCRd text available for download.
 
@@ -3158,6 +11855,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-bulletin-nla.obj-68375465)
 
 ### The bush brother : a quarterly paper
+**Brotherhood of the Good Shepherd (Dubbo, N.S.W.), 1904-1980**  
+Periodical | Periodical/Journal, magazine, other
 
 188 of 188 issues have OCRd text available for download.
 
@@ -3167,6 +11866,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-bush-brother-a-quarterly-paper-nla.obj-518307792)
 
 ### The deaf advocate : the official magazine of the New South Wales deaf
+**1931-1937**  
+Periodical | Periodical/Journal, magazine, other
 
 16 of 16 issues have OCRd text available for download.
 
@@ -3176,6 +11877,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-deaf-advocate-the-official-magazine-of-the-new-nla.obj-2590086507)
 
 ### The first post
+**Australia. Army. Australian Imperial Force (1939-1945). Battalion, 2/1st, 1940-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -3185,6 +11888,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-first-post-nla.obj-7907113)
 
 ### The kia ora coo-ee news
+**1918**  
+Periodical | Periodical/Journal, magazine, other
 
 18 of 18 issues have OCRd text available for download.
 
@@ -3194,6 +11899,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-kia-ora-coo-ee-news-nla.obj-8384876)
 
 ### The pitch & toss
+**Australia. Army. Australian Imperial Force (1914-1921), 1916**  
+Periodical | Periodical/Journal, magazine, other
 
 3 of 3 issues have OCRd text available for download.
 
@@ -3202,7 +11909,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-pitch-toss-nla.obj-9149219&files=nla.obj-9149219-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-pitch-toss-nla.obj-9149219)
 
+### The progress of demobilisation and re-establishment : bulletin
+**Australia. Department of Post-war Reconstruction, 1946**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/8343776)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-971558208)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-progress-of-demobilisation-and-re-establishmen-nla.obj-971558208&files=nla.obj-971558208-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-progress-of-demobilisation-and-re-establishmen-nla.obj-971558208)
+
+### The radical reformer, or People's advocate
+**1819-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+10 of 10 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/156084092)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2930899880)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-radical-reformer-or-people-s-advocate-nla.obj-2930899880&files=nla.obj-2930899880-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-radical-reformer-or-people-s-advocate-nla.obj-2930899880)
+
 ### The red & white diamond
+**Australia. Army. Battalion, 24th, 1918-1919**  
+Periodical | Periodical/Journal, magazine, other
 
 5 of 5 issues have OCRd text available for download.
 
@@ -3211,7 +11942,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-red-white-diamond-nla.obj-24489236&files=nla.obj-24489236-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-red-white-diamond-nla.obj-24489236)
 
+### The royal kalendar and guide to Tasmania for ... / by Hugh Munro Hull
+**Hull, Hugh Munro, 1818-1882, 1857-1860**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/20938743)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2880004294)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-royal-kalendar-and-guide-to-tasmania-for-by-hu-nla.obj-2880004294&files=nla.obj-2880004294-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-royal-kalendar-and-guide-to-tasmania-for-by-hu-nla.obj-2880004294)
+
+### The school magazine of literature for our boys and girls / Department of Education, New South Wales
+**New South Wales. Department of Education, 1916-1949**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1170 of 1170 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19349088)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-748113553)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-school-magazine-of-literature-for-our-boys-and-nla.obj-748113553&files=nla.obj-748113553-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-school-magazine-of-literature-for-our-boys-and-nla.obj-748113553)
+
 ### The sugar journal and tropical cultivator : circulating in Queensland, New South Wales, Fiji, Mauritius and other tropical and subtropical countries
+**1892-1900**  
+Periodical | Periodical/Journal, magazine, other
 
 11 of 11 issues have OCRd text available for download.
 
@@ -3220,7 +11975,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-sugar-journal-and-tropical-cultivator-circulat-nla.obj-651791958&files=nla.obj-651791958-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-sugar-journal-and-tropical-cultivator-circulat-nla.obj-651791958)
 
+### The swastika / Friends' High School
+**Friends High School, 1916**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/34886101)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2819421546)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-swastika-friends-high-school-nla.obj-2819421546&files=nla.obj-2819421546-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-swastika-friends-high-school-nla.obj-2819421546)
+
 ### The true Catholic ; or Tasmanian evangelical miscellany
+**1800**  
+Periodical | Periodical/Journal, magazine, other
 
 6 of 6 issues have OCRd text available for download.
 
@@ -3230,6 +11998,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-true-catholic-or-tasmanian-evangelical-miscell-nla.obj-1395584280)
 
 ### The wireless weekly : the hundred per cent Australian radio journal / -1943
+**Australasian Radio Relay League, 1920-1943**  
+Periodical | Periodical/Journal, magazine, other
 
 1069 of 1069 issues have OCRd text available for download.
 
@@ -3239,6 +12009,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fthe-wireless-weekly-the-hundred-per-cent-australia-nla.obj-589648812)
 
 ### Tjakulpa
+**Papunya Literature Production Centre, 1979-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 19 of 19 issues have OCRd text available for download.
 
@@ -3248,6 +12020,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftjakulpa-nla.obj-939565059)
 
 ### Tjakulpa kuwarritja
+**Papunya Literature Production Centre, 1982-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 24 of 24 issues have OCRd text available for download.
 
@@ -3257,6 +12031,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftjakulpa-kuwarritja-nla.obj-939569062)
 
 ### Tjakulpa kuwarritja (Papunya School)
+**Papunya School, 1990-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 9 of 9 issues have OCRd text available for download.
 
@@ -3266,6 +12042,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftjakulpa-kuwarritja-papunya-school-nla.obj-1311682981)
 
 ### Tjakulpa wilurarra ananguka : N.T. Western Desert schools newsletter
+**Papunya Literature Production Centre, 1988**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -3274,7 +12052,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftjakulpa-wilurarra-ananguka-n-t-western-desert-sch-nla.obj-1311687880&files=nla.obj-1311687880-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftjakulpa-wilurarra-ananguka-n-t-western-desert-sch-nla.obj-1311687880)
 
+### Tokkō geppō
+**Japan. Naimushō. Hoanka, 1973**  
+Periodical | Periodical/Journal, magazine, other
+
+13 of 13 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/14005288)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2916682114)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftokko-geppo-nla.obj-2916682114&files=nla.obj-2916682114-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftokko-geppo-nla.obj-2916682114)
+
+### Tomorrow's Australians : bulletin of the Department of Immigration
+**Australia. Department of Immigration, 1948-1950**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+14 of 14 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/29925970)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2821953009)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftomorrow-s-australians-bulletin-of-the-department--nla.obj-2821953009&files=nla.obj-2821953009-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftomorrow-s-australians-bulletin-of-the-department--nla.obj-2821953009)
+
 ### Tonga church chronicle : koe niusepepa ke fakamatala ae Gaue ae Jiaji Faka-Igilani i Toga / ed. by Alfred Willis
+**1913-1915**  
+Periodical | Periodical/Journal, magazine, other
 
 8 of 8 issues have OCRd text available for download.
 
@@ -3283,7 +12085,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftonga-church-chronicle-koe-niusepepa-ke-fakamatala-nla.obj-290208880&files=nla.obj-290208880-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftonga-church-chronicle-koe-niusepepa-ke-fakamatala-nla.obj-290208880)
 
+### Towards a fairer Australia : social justice budget statement
+**Australia, 1989-1993**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19002022)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1906284183)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftowards-a-fairer-australia-social-justice-budget-s-nla.obj-1906284183&files=nla.obj-1906284183-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftowards-a-fairer-australia-social-justice-budget-s-nla.obj-1906284183)
+
+### Tractor Bounty Act. Parliament of the Commonwealth of Australia
+**Australia. Parliament, 1962-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238874753)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2551979453)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftractor-bounty-act-parliament-of-the-commonwealth--nla.obj-2551979453&files=nla.obj-2551979453-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftractor-bounty-act-parliament-of-the-commonwealth--nla.obj-2551979453)
+
+### Trade union statistics / Commonwealth Bureau of Census and Statistics
+**Commonwealth Bureau of Census and Statistics (Australia), 1969**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/20148685)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2783964309)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftrade-union-statistics-commonwealth-bureau-of-cens-nla.obj-2783964309&files=nla.obj-2783964309-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftrade-union-statistics-commonwealth-bureau-of-cens-nla.obj-2783964309)
+
 ### Transactions / Plastics Institute of Australia
+**Plastics Institute of Australia, 1900-1940**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -3293,6 +12130,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftransactions-plastics-institute-of-australia-nla.obj-321170096)
 
 ### Transactions and proceedings of the Fiji Society
+**Fiji Society, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -3301,7 +12140,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftransactions-and-proceedings-of-the-fiji-society-nla.obj-182026026&files=nla.obj-182026026-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftransactions-and-proceedings-of-the-fiji-society-nla.obj-182026026)
 
+### Treasury economic paper / Commonwealth Treasury
+**Australia. Treasury, 1972-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18994986)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1576998567)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftreasury-economic-paper-commonwealth-treasury-nla.obj-1576998567&files=nla.obj-1576998567-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftreasury-economic-paper-commonwealth-treasury-nla.obj-1576998567)
+
+### Triad (Sydney, N.S.W. : Online)
+**1915-1927**  
+Periodical | Periodical/Journal, magazine, other
+
+140 of 140 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238009872)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-875780662)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftriad-sydney-n-s-w-online-nla.obj-875780662&files=nla.obj-875780662-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftriad-sydney-n-s-w-online-nla.obj-875780662)
+
 ### Triad (Sydney, N.S.W.)
+**1892-1927**  
+Periodical | Periodical/Journal, magazine, other
 
 140 of 140 issues have OCRd text available for download.
 
@@ -3311,6 +12174,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftriad-sydney-n-s-w-nla.obj-875780662)
 
 ### Trial Bay : Welt am Montag
+**1917-1918**  
+Periodical | Periodical/Journal, magazine, other
 
 42 of 42 issues have OCRd text available for download.
 
@@ -3320,6 +12185,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftrial-bay-welt-am-montag-nla.obj-36044208)
 
 ### Trident (Melbourne, Vic.)
+**Strong, Archibald, Sir, 1876-1930, 1909**  
+Periodical | Periodical/Journal, magazine, other
 
 24 of 24 issues have OCRd text available for download.
 
@@ -3328,7 +12195,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftrident-melbourne-vic-nla.obj-1871977676&files=nla.obj-1871977676-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftrident-melbourne-vic-nla.obj-1871977676)
 
+### Triennium ... report for ... / Schools Commission
+**Australia. Schools Commission, 1978-1981**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/17730095)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1372121526)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftriennium-report-for-schools-commission-nla.obj-1372121526&files=nla.obj-1372121526-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Ftriennium-report-for-schools-commission-nla.obj-1372121526)
+
 ### Under lock & key
+**Longford, John W, 1894**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -3337,16 +12217,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Funder-lock-key-nla.obj-715301081&files=nla.obj-715301081-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Funder-lock-key-nla.obj-715301081)
 
-### Uniken
+### Uniken (Online)
+**University of New South Wales. Public Affairs Unit, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
 
 522 of 522 issues have OCRd text available for download.
 
 * [Details on Trove](https://trove.nla.gov.au/work/6871784)
 * [Browse issues on Trove](http://nla.gov.au/nla.obj-211194649)
-* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Funiken-nla.obj-211194649&files=nla.obj-211194649-issues.csv)
-* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Funiken-nla.obj-211194649)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Funiken-online-nla.obj-211194649&files=nla.obj-211194649-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Funiken-online-nla.obj-211194649)
 
 ### Universal service (Sydney, N.S.W.)
+**Universal Service League (Sydney, N.S.W.), 1916**  
+Periodical | Periodical/Journal, magazine, other
 
 13 of 14 issues have OCRd text available for download.
 
@@ -3355,7 +12239,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Funiversal-service-sydney-n-s-w-nla.obj-282427596&files=nla.obj-282427596-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Funiversal-service-sydney-n-s-w-nla.obj-282427596)
 
+### Urea Bounty Act - Return for periods ..
+**1967-1970**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/237405528)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1900319302)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Furea-bounty-act-return-for-periods-nla.obj-1900319302&files=nla.obj-1900319302-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Furea-bounty-act-return-for-periods-nla.obj-1900319302)
+
+### Van Diemen's Land Royal Kalendar and almanack
+**Wood, James, 1847**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19861330)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2878155306)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvan-diemen-s-land-royal-kalendar-and-almanack-nla.obj-2878155306&files=nla.obj-2878155306-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvan-diemen-s-land-royal-kalendar-and-almanack-nla.obj-2878155306)
+
+### Van Diemen's Land Royal Kalendar, colonial register, and almanack / compiled by James Wood
+**Wood, James, 1848**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/27599817)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2878557695)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvan-diemen-s-land-royal-kalendar-colonial-register-nla.obj-2878557695&files=nla.obj-2878557695-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvan-diemen-s-land-royal-kalendar-colonial-register-nla.obj-2878557695)
+
 ### Van Diemen's Land temperance herald : for domestic and foreign intelligence
+**1845**  
+Periodical | Periodical/Journal, magazine, other
 
 26 of 26 issues have OCRd text available for download.
 
@@ -3364,16 +12283,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvan-diemen-s-land-temperance-herald-for-domestic-a-nla.obj-1395873624&files=nla.obj-1395873624-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvan-diemen-s-land-temperance-herald-for-domestic-a-nla.obj-1395873624)
 
-### Victorian almanac for ... (Melbourne, Vic. : 1868)
+### Vetaffairs : a newspaper for the veteran community / Veterans' Affairs
+**Australia. Department of Veterans' Affairs, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
 
-14 of 14 issues have OCRd text available for download.
+220 of 220 issues have OCRd text available for download.
 
-* [Details on Trove](https://trove.nla.gov.au/work/13645498)
-* [Browse issues on Trove](http://nla.gov.au/nla.obj-729278011)
-* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvictorian-almanac-for-melbourne-vic-1868-nla.obj-729278011&files=nla.obj-729278011-issues.csv)
-* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvictorian-almanac-for-melbourne-vic-1868-nla.obj-729278011)
+* [Details on Trove](https://trove.nla.gov.au/work/13483254)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-877905320)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvetaffairs-a-newspaper-for-the-veteran-community-v-nla.obj-877905320&files=nla.obj-877905320-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvetaffairs-a-newspaper-for-the-veteran-community-v-nla.obj-877905320)
+
+### Victorian almanac for ... (Melbourne, Victoria : 1859)
+**1859-1927**  
+Periodical | Periodical/Journal, magazine, other
+
+23 of 23 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/17053735)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-729278011)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvictorian-almanac-for-melbourne-victoria-1859-nla.obj-729278011&files=nla.obj-729278011-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvictorian-almanac-for-melbourne-victoria-1859-nla.obj-729278011)
+
+### Vinyl Resin Bounty Act. Parliament of the Commonwealth of Australia
+**Australia. Parliament, 1965-1968**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/238878361)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2558673675)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvinyl-resin-bounty-act-parliament-of-the-commonwea-nla.obj-2558673675&files=nla.obj-2558673675-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvinyl-resin-bounty-act-parliament-of-the-commonwea-nla.obj-2558673675)
 
 ### Vision : a literary quarterly / edited by Frank C. Johnson, Jack Lindsay and Kenneth Slessor
+**Johnson, Frank C, 1923-2021**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 4 of 4 issues have OCRd text available for download.
 
@@ -3382,7 +12327,53 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvision-a-literary-quarterly-edited-by-frank-c-john-nla.obj-597298189&files=nla.obj-597298189-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvision-a-literary-quarterly-edited-by-frank-c-john-nla.obj-597298189)
 
+### Votes and proceedings of the Legislative Assembly ... with the various documents connected therewith
+**Queensland. Parliament. Legislative Assembly, 1860-1901**  
+Periodical | Periodical/Journal, magazine, other | Government publication | Microform
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18935386)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-53959473)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvotes-and-proceedings-of-the-legislative-assembly--nla.obj-53959473&files=nla.obj-53959473-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvotes-and-proceedings-of-the-legislative-assembly--nla.obj-53959473)
+
+### Votes and proceedings of the Legislative Council during the session ..
+**Western Australia. Legislative Council, 1870-1889**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+6 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/11834358)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-53463227)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvotes-and-proceedings-of-the-legislative-council-d-nla.obj-53463227&files=nla.obj-53463227-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fvotes-and-proceedings-of-the-legislative-council-d-nla.obj-53463227)
+
+### Walch's Tasmanian almanac for ..
+**J. Walch & Sons (Tas.), 1863-1971**  
+Periodical | Periodical/Journal, magazine, other | Book
+
+25 of 27 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/9006481)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2877881385)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwalch-s-tasmanian-almanac-for-nla.obj-2877881385&files=nla.obj-2877881385-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwalch-s-tasmanian-almanac-for-nla.obj-2877881385)
+
+### Walch's Tasmanian almanack and guide to Tasmania for ..
+**Walch, J, 1863-1869**  
+Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19216894)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2877405515)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwalch-s-tasmanian-almanack-and-guide-to-tasmania-f-nla.obj-2877405515&files=nla.obj-2877405515-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwalch-s-tasmanian-almanack-and-guide-to-tasmania-f-nla.obj-2877405515)
+
 ### Walch's Tasmanian sixpenny almanac for ..
+**1800-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -3392,6 +12383,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwalch-s-tasmanian-sixpenny-almanac-for-nla.obj-742548141)
 
 ### Walkabout (Melbourne, Vic.)
+**Australian National Travel Association, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 494 of 494 issues have OCRd text available for download.
 
@@ -3401,6 +12394,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwalkabout-melbourne-vic-nla.obj-566923190)
 
 ### Wan guo gong bao
+**Allen, Young John, 1836-1907, 1800-1907**  
+Periodical | Periodical/Journal, magazine, other | Microform
 
 21 of 21 issues have OCRd text available for download.
 
@@ -3410,6 +12405,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwan-guo-gong-bao-nla.obj-60594067)
 
 ### War Service Homes : report of the Director of War Service Homes
+**Australia. Department of Housing. War Service Homes Division, 1964-1973**  
+Periodical | Periodical/Journal, magazine, other
 
 11 of 11 issues have OCRd text available for download.
 
@@ -3418,7 +12415,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwar-service-homes-report-of-the-director-of-war-se-nla.obj-306656902&files=nla.obj-306656902-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwar-service-homes-report-of-the-director-of-war-se-nla.obj-306656902)
 
+### War Service Homes Act : report of the War Service Homes Commission
+**Australia. Parliament, 1919-1927**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+8 of 8 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/235711866)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1759344657)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwar-service-homes-act-report-of-the-war-service-ho-nla.obj-1759344657&files=nla.obj-1759344657-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwar-service-homes-act-report-of-the-war-service-ho-nla.obj-1759344657)
+
 ### War chest review
+**Australian Comforts Fund, 1918-1919**  
+Periodical | Periodical/Journal, magazine, other
 
 12 of 12 issues have OCRd text available for download.
 
@@ -3428,6 +12438,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwar-chest-review-nla.obj-87088532)
 
 ### War notes & queries
+**1914**  
+Periodical | Periodical/Journal, magazine, other
 
 19 of 19 issues have OCRd text available for download.
 
@@ -3437,6 +12449,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwar-notes-queries-nla.obj-6874401)
 
 ### Warumpinya ngurrara kuulaku piipa : Papunya School paper
+**Papunya School, 1985-1987**  
+Periodical | Periodical/Journal, magazine, other
 
 8 of 8 issues have OCRd text available for download.
 
@@ -3445,7 +12459,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwarumpinya-ngurrara-kuulaku-piipa-papunya-school-p-nla.obj-939552352&files=nla.obj-939552352-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwarumpinya-ngurrara-kuulaku-piipa-papunya-school-p-nla.obj-939552352)
 
+### Waugh & Cox's Australian almanac
+**1855-1856**  
+Periodical | Periodical/Journal, magazine, other
+
+2 of 2 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18165269)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2886949240)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwaugh-cox-s-australian-almanac-nla.obj-2886949240&files=nla.obj-2886949240-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwaugh-cox-s-australian-almanac-nla.obj-2886949240)
+
 ### Wederopbouw
+**Comité voor het Javaansch Nationalisme, 1918-1923**  
+Microform | Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -3455,6 +12482,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwederopbouw-nla.obj-1755504970)
 
 ### Weekly dispatch (Sydney, N.S.W. : Online)
+**1847**  
+Periodical | Periodical/Journal, magazine, other
 
 13 of 13 issues have OCRd text available for download.
 
@@ -3464,6 +12493,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fweekly-dispatch-sydney-n-s-w-online-nla.obj-880755940)
 
 ### Weldon's matrimonial gazette
+**1896**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -3472,16 +12503,53 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fweldon-s-matrimonial-gazette-nla.obj-744869630&files=nla.obj-744869630-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fweldon-s-matrimonial-gazette-nla.obj-744869630)
 
-### Western Australian almanack (Arthur Shenton)
+### Weldon's matrimonial gazette (Online)
+**1896**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
+* [Details on Trove](https://trove.nla.gov.au/work/238056012)
+* [Browse issues on Trove](http://nla.gov.au/nla.obj-744869630)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fweldon-s-matrimonial-gazette-online-nla.obj-744869630&files=nla.obj-744869630-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fweldon-s-matrimonial-gazette-online-nla.obj-744869630)
+
+### Wellbank's Australian nautical almanac and coasters' guide : for the Southern and the Eastern coasts of New Holland
+**Sustenance S. S, 1869-1889**  
+Periodical | Periodical/Journal, magazine, other
+
+9 of 9 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/17285418)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2890000312)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwellbank-s-australian-nautical-almanac-and-coaster-nla.obj-2890000312&files=nla.obj-2890000312-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwellbank-s-australian-nautical-almanac-and-coaster-nla.obj-2890000312)
+
+### Western Australian almanack (Arthur Shenton)
+**1800**  
+Periodical | Periodical/Journal, magazine, other
+
+5 of 5 issues have OCRd text available for download.
+
 * [Details on Trove](https://trove.nla.gov.au/work/23968958)
-* [Browse issues on Trove](http://nla.gov.au/nla.obj-756570119)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-756570119)
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwestern-australian-almanack-arthur-shenton-nla.obj-756570119&files=nla.obj-756570119-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwestern-australian-almanack-arthur-shenton-nla.obj-756570119)
 
+### Western Australian almanack and directory
+**1865-1889**  
+Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/23969366)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2875955335)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwestern-australian-almanack-and-directory-nla.obj-2875955335&files=nla.obj-2875955335-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwestern-australian-almanack-and-directory-nla.obj-2875955335)
+
 ### Will Alma's magical magazine
+**Australian Society of Magicians (Adelaide, S.A.), 1937**  
+Periodical | Periodical/Journal, magazine, other
 
 10 of 10 issues have OCRd text available for download.
 
@@ -3491,6 +12559,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwill-alma-s-magical-magazine-nla.obj-30743426)
 
 ### Will o' the wisp (Online)
+**1846**  
+Periodical | Periodical/Journal, magazine, other
 
 11 of 22 issues have OCRd text available for download.
 
@@ -3500,6 +12570,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwill-o-the-wisp-online-nla.obj-767557705)
 
 ### Williams's Melbourne almanac
+**1855-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -3509,6 +12581,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwilliams-s-melbourne-almanac-nla.obj-759848737)
 
 ### Wise's New South Wales post office directory
+**1909-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 39 of 39 issues have OCRd text available for download.
 
@@ -3517,7 +12591,53 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwise-s-new-south-wales-post-office-directory-nla.obj-522689844&files=nla.obj-522689844-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwise-s-new-south-wales-post-office-directory-nla.obj-522689844)
 
+### Women's budget statement : an assessment of the impact on women of the ... budget / Department of the Prime Minister and Cabinet, Office of the Status of Women
+**Australia. Office of the Status of Women, 1988-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+12 of 12 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/13081649)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-863703825)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwomen-s-budget-statement-an-assessment-of-the-impa-nla.obj-863703825&files=nla.obj-863703825-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwomen-s-budget-statement-an-assessment-of-the-impa-nla.obj-863703825)
+
+### Wood's Royal southern kalendar, Tasmanian register, and general Australasian & East Indian official directory
+**1850-1857**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/20638691)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2879023176)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwood-s-royal-southern-kalendar-tasmanian-register--nla.obj-2879023176&files=nla.obj-2879023176-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwood-s-royal-southern-kalendar-tasmanian-register--nla.obj-2879023176)
+
+### Wood's Tasmanian almanack
+**Wood, James, active 1855-1857, 1851-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+7 of 7 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21111290)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2879090019)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwood-s-tasmanian-almanack-nla.obj-2879090019&files=nla.obj-2879090019-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwood-s-tasmanian-almanack-nla.obj-2879090019)
+
+### Wood's V.D. Land almanack and law and commercial daily remembrancer
+**Wood, James, 1838-1846**  
+Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19856218)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2878129271)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwood-s-v-d-land-almanack-and-law-and-commercial-da-nla.obj-2878129271&files=nla.obj-2878129271-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwood-s-v-d-land-almanack-and-law-and-commercial-da-nla.obj-2878129271)
+
 ### Wool (deficiency payments) act, 1971 : report / Department of Primary Industry, Australia
+**Australia. Department of Primary Industry, 1972-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 2 of 2 issues have OCRd text available for download.
 
@@ -3526,7 +12646,42 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwool-deficiency-payments-act-1971-report-departmen-nla.obj-1318997637&files=nla.obj-1318997637-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwool-deficiency-payments-act-1971-report-departmen-nla.obj-1318997637)
 
+### Work of committees / Committee Office, Department of the Senate
+**Australia. Parliament. Department of the Senate. Committee Office, 1994-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+37 of 37 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/24104314)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-765898445)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwork-of-committees-committee-office-department-of--nla.obj-765898445&files=nla.obj-765898445-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwork-of-committees-committee-office-department-of--nla.obj-765898445)
+
+### Work of committees. Department of the Senate
+**Australia. Parliament. Department of the Senate, 1993**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/30862127)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1789941014)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwork-of-committees-department-of-the-senate-nla.obj-1789941014&files=nla.obj-1789941014-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwork-of-committees-department-of-the-senate-nla.obj-1789941014)
+
+### Wragge's Australasian almanac and weather guide for land and sea
+**1898-1903**  
+Periodical | Periodical/Journal, magazine, other
+
+3 of 3 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/5527012)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2885650322)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwragge-s-australasian-almanac-and-weather-guide-fo-nla.obj-2885650322&files=nla.obj-2885650322-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fwragge-s-australasian-almanac-and-weather-guide-fo-nla.obj-2885650322)
+
 ### Yacca / Alanvale Community College
+**Alanvale Community College (Launceston, Tas.), 1980-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -3536,6 +12691,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fyacca-alanvale-community-college-nla.obj-268798653)
 
 ### Ye olde brigade : a monthly paper devoted to the interests of the 1st Australian Infantry Regiment
+**Australia. Army. Infantry Regiment, 1st, 1905**  
+Periodical | Periodical/Journal, magazine, other
 
 6 of 6 issues have OCRd text available for download.
 
@@ -3544,7 +12701,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fye-olde-brigade-a-monthly-paper-devoted-to-the-int-nla.obj-320885832&files=nla.obj-320885832-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fye-olde-brigade-a-monthly-paper-devoted-to-the-int-nla.obj-320885832)
 
+### Year book / Bookkeepers' Institute of Australasia in affiliation with International Accountants' Corporation
+**International Accountants Corporation and Bookkeepers Institute of Australasia, 1928-2021**  
+Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21377676)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2942267018)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fyear-book-bookkeepers-institute-of-australasia-in--nla.obj-2942267018&files=nla.obj-2942267018-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fyear-book-bookkeepers-institute-of-australasia-in--nla.obj-2942267018)
+
 ### Year book of the Evangelical Lutheran Mission in New Guinea
+**Lutheran Mission, New Guinea, 1926**  
+Periodical | Periodical/Journal, magazine, other
 
 1 of 1 issues have OCRd text available for download.
 
@@ -3553,7 +12723,31 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fyear-book-of-the-evangelical-lutheran-mission-in-n-nla.obj-287237927&files=nla.obj-287237927-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fyear-book-of-the-evangelical-lutheran-mission-in-n-nla.obj-287237927)
 
+### Year in review / Office of Film and Literature Classification and Film and Literature Board of Review
+**Australia. Office of Film and Literature Classification, 1995-1998**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/21919419)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1571496251)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fyear-in-review-office-of-film-and-literature-class-nla.obj-1571496251&files=nla.obj-1571496251-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fyear-in-review-office-of-film-and-literature-class-nla.obj-1571496251)
+
+### Youth policies in the ... budget
+**Australia. Treasury, 1986-2021**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+1 of 1 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/19168404)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-2478539402)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fyouth-policies-in-the-budget-nla.obj-2478539402&files=nla.obj-2478539402-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fyouth-policies-in-the-budget-nla.obj-2478539402)
+
 ### Zhong xi jiao hui bao / edited by Y.J. Allen
+**Allen, Young John, 1836-1907, 1891-1900**  
+Periodical | Periodical/Journal, magazine, other
 
 24 of 24 issues have OCRd text available for download.
 
@@ -3562,7 +12756,20 @@ Number of issues with OCRd text: 26,234
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fzhong-xi-jiao-hui-bao-edited-by-y-j-allen-nla.obj-60535517&files=nla.obj-60535517-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fzhong-xi-jiao-hui-bao-edited-by-y-j-allen-nla.obj-60535517)
 
+### [Independent Schools (Loans Guarantee) Act 1969]
+**Australia, 1900-2021**  
+Periodical | Periodical/Journal, magazine, other | Government publication
+
+16 of 16 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/18786163)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-837071278)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Findependent-schools-loans-guarantee-act-1969-nla.obj-837071278&files=nla.obj-837071278-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Findependent-schools-loans-guarantee-act-1969-nla.obj-837071278)
+
 ### [Magazine] / Daramalan College
+**Daramalan College (Dickson, A.C.T.), 1957-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 58 of 58 issues have OCRd text available for download.
 
@@ -3572,6 +12779,8 @@ Number of issues with OCRd text: 26,234
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmagazine-daramalan-college-nla.obj-773155481)
 
 ### [Magazine] / Northern Peninsula Area State College
+**Northern Peninsula Area State College, 2005-2021**  
+Periodical | Periodical/Journal, magazine, other
 
 4 of 4 issues have OCRd text available for download.
 
@@ -3579,3 +12788,14 @@ Number of issues with OCRd text: 26,234
 * [Browse issues on Trove](http://nla.gov.au/nla.obj-526663409)
 * [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmagazine-northern-peninsula-area-state-college-nla.obj-526663409&files=nla.obj-526663409-issues.csv)
 * [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Fmagazine-northern-peninsula-area-state-college-nla.obj-526663409)
+
+### [Report in respect of the six months ended ...] / Prices Justification Tribunal
+**Australia. Prices Justification Tribunal, 1976**  
+Government publication | Periodical | Periodical/Journal, magazine, other
+
+4 of 4 issues have OCRd text available for download.
+
+* [Details on Trove](https://trove.nla.gov.au/work/6427213)
+* [Browse issues on Trove](https://nla.gov.au/nla.obj-1284567405)
+* [Download issue data as CSV from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-in-respect-of-the-six-months-ended-prices-j-nla.obj-1284567405&files=nla.obj-1284567405-issues.csv)
+* [Download all OCRd text from CloudStor](https://cloudstor.aarnet.edu.au/plus/s/QOmnqpGQCNCSC2h/download?path=%2Freport-in-respect-of-the-six-months-ended-prices-j-nla.obj-1284567405)
