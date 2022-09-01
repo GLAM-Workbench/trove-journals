@@ -20,6 +20,12 @@ Examples of working with data from Trove's Journals zone. For more information s
 * [Get covers (or any other pages) from a digitised journal in Trove](Get-page-images-from-a-Trove-journal.ipynb) – shows how to download all the cover images from a specified journal. With some minor modifications you could download any page, or range of pages.
 * [Finding editorial cartoons in the Bulletin](Finding_editorial_cartoons_in_the_Bulletin.ipynb) – full page editorial cartoons were a consistent feature of The Bulletin for many decades, I wanted to try and assemble a collection of all the editorial cartoons, but how?
 
+## Datasets
+
+* [CSV formatted list of journals available from Trove in digital form](digital-journals-20220831.csv) – harvested 31 August 2022
+* [CSV formatted list of journals with OCRd text](digital-journals-with-text-20220831.csv) – harvested 31 August 2022
+
+
 See the [GLAM Workbench for more details](https://glam-workbench.github.io/trove-journals/).
 
 
@@ -87,7 +93,7 @@ See [Getting started](https://glam-workbench.net/getting-started/#using-python-o
 
 ## Cite as
 
-See the [GLAM Workbench](https://glam-workbench.net/trove-journals/#cite-as) or [Zenodo](https://doi.org/10.5281/zenodo.6622312) for up-to-date citation details.
+See the [GLAM Workbench](https://glam-workbench.net/trove-journals/#cite-as) or [Zenodo](https://doi.org/10.5281/zenodo.3545215) for up-to-date citation details.
 
 ----
 
