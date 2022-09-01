@@ -1,0 +1,23 @@
+jupyterlab
+voila
+voila-material @ git+https://github.com/GLAM-Workbench/voila-material.git
+pandas
+requests
+altair
+tqdm
+beautifulsoup4
+python-slugify
+ipywidgets
+lxml
+natsort
+sqlite-utils
+fpdf
+arrow
+ipywidgets==7.7.1
+jupyterlab-widgets==1.1.1
+nltk
+pillow
+scikit-learn
+textblob
+requests-cache
+python-dotenv
