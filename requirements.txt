@@ -283,7 +283,7 @@ pyzmq==23.2.1
     #   notebook
 regex==2022.8.17
     # via nltk
-requests==2.28.1
+requests==2.31.0
     # via
     #   -r requirements.in
     #   jupyterlab-server
