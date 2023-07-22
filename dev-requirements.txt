@@ -369,7 +369,7 @@ pyzmq==23.2.1
     #   jupyter-server
     #   nbclassic
     #   notebook
-requests==2.28.1
+requests==2.31.0
     # via
     #   -c requirements.txt
     #   jupyterlab-server
@@ -444,9 +444,7 @@ traitlets==5.3.0
     #   nbformat
     #   notebook
 typing-extensions==4.3.0
-    # via
-    #   -c requirements.txt
-    #   black
+    # via black
 urllib3==1.26.11
     # via
     #   -c requirements.txt
