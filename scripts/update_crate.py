@@ -254,7 +254,7 @@ def add_files(crate, action, data_type, gw_url, data_repo, local_path):
     for df_data in action.get(data_type, []):
         datafile = df_data["url"]
         print(datafile)
-        print(df_data)
+        # print(df_data)
         # local_path = action.get("local_path", ".")
 
         # Check if file exists (or is a url)
@@ -289,11 +289,14 @@ def add_files(crate, action, data_type, gw_url, data_repo, local_path):
             # but modify the date, size etc later
             if file_entity:
                 properties = file_entity.properties()
-                print(properties)
+                # print(properties)
 
             # Otherwise we'll define default properties for a new file entity
             else:
-                name = datafile.rstrip("/").split("/")[-1]
+                if df_data.get("name"):
+                    name = df_data.get("name")
+                else:
+                    name = datafile.rstrip("/").split("/")[-1]
                 properties = {
                     "name": name,
                     "url": file_url,
@@ -301,7 +304,8 @@ def add_files(crate, action, data_type, gw_url, data_repo, local_path):
 
             # Add contextual entities for data repo associated with file
             # If this is a data repo crate, this is not necessary as the crate root will have this
-            if not data_repo:
+            if data_type == "result" and not data_repo:
+                print(data_type)
                 if gw_page := action.get("mainEntityOfPage"):
                     add_gw_page_link(crate, gw_page)
                 if data_repo_url := action.get("isPartOf"):
@@ -315,6 +319,7 @@ def add_files(crate, action, data_type, gw_url, data_repo, local_path):
                     if data_roc_description := action.get("description"):
                         data_rocrate["description"] = data_roc_description
                     if gw_page:
+                        print(gw_page)
                         data_rocrate["mainEntityOfPage"] = id_ify(gw_page)
                     add_context_entity(crate, data_rocrate)
                 elif gw_page:
@@ -448,7 +453,8 @@ def add_notebook(crate, notebook, data_repo, gw_url):
             "author": [],
             "description": "",
             "action": [],
-            "mainEntityOfPage": ""
+            "mainEntityOfPage": "",
+            "position": 0
         },
     )
     # print(notebook.name)
@@ -497,6 +503,7 @@ def add_notebook(crate, notebook, data_repo, gw_url):
                 ),
                 "codeRepository": repo_url,
                 "url": nb_url,
+                "position": notebook_metadata["position"]
             }
 
             if doc_url := notebook_metadata.get("mainEntityOfPage"):
