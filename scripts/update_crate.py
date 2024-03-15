@@ -299,24 +299,24 @@ def add_files(crate, action, data_type, gw_url, data_repo, local_path):
                     "url": file_url,
                 }
 
-                # Add contextual entities for data repo associated with file
-                # If this is a data repo crate, this is not necessary as the crate root will have this
-                if not data_repo:
-                    gw_page = action.get("mainEntityOfPage")
-                    if data_repo_url := action.get("isPartOf"):
-                        properties["isPartOf"] = id_ify(data_repo_url)
-                        data_rocrate = {
-                            "@id": data_repo_url,
-                            "@type": "Dataset",
-                            "url": data_repo_url,
-                            "name": data_repo_url.rstrip("/").split("/")[-1]
-                        }
-                        if data_roc_description := action.get("description"):
-                            data_rocrate["description"] = data_roc_description
-                        if gw_page:
-                            add_gw_page_link(crate, gw_page)
-                            data_rocrate["mainEntityOfPage"] = id_ify(gw_page)
-                        add_context_entity(crate, data_rocrate)
+            # Add contextual entities for data repo associated with file
+            # If this is a data repo crate, this is not necessary as the crate root will have this
+            if not data_repo:
+                gw_page = action.get("mainEntityOfPage")
+                if data_repo_url := action.get("isPartOf"):
+                    properties["isPartOf"] = id_ify(data_repo_url)
+                    data_rocrate = {
+                        "@id": data_repo_url,
+                        "@type": "Dataset",
+                        "url": data_repo_url,
+                        "name": data_repo_url.rstrip("/").split("/")[-1]
+                    }
+                    if data_roc_description := action.get("description"):
+                        data_rocrate["description"] = data_roc_description
+                    if gw_page:
+                        add_gw_page_link(crate, gw_page)
+                        data_rocrate["mainEntityOfPage"] = id_ify(gw_page)
+                    add_context_entity(crate, data_rocrate)
                     
             # Guess the encoding type from extension
             encoding = mimetypes.guess_type(datafile)[0]
@@ -449,7 +449,7 @@ def add_notebook(crate, notebook, data_repo, gw_url):
             "mainEntityOfPage": ""
         },
     )
-    # print(notebook_metadata)
+    # print(notebook.name)
     has_data = creates_data(data_repo, notebook_metadata)
 
     # If this is a data repo crate change nb ids to full urls
