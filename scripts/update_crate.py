@@ -525,6 +525,7 @@ def add_notebook(crate, notebook, data_repo, gw_url):
                 ),
                 "codeRepository": repo_url,
                 "url": nb_url,
+                "category": notebook_metadata["category"],
                 "position": notebook_metadata["position"]
             }
 
