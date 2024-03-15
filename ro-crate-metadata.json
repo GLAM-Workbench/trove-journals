@@ -9,7 +9,7 @@
                     "@id": "https://orcid.org/0000-0001-7956-4498"
                 }
             ],
-            "datePublished": "2024-03-15T04:41:51+00:00",
+            "datePublished": "2024-03-15T06:04:37+00:00",
             "description": "A GLAM Workbench repository",
             "hasPart": [
                 {
@@ -320,7 +320,8 @@
             },
             "name": "trove-periodicals.zip",
             "sdDatePublished": "2024-03-15",
-            "url": "https://trove-journals.s3.ap-southeast-2.amazonaws.com/trove-periodicals.zip"
+            "url": "https://trove-journals.s3.ap-southeast-2.amazonaws.com/trove-periodicals.zip",
+            "workExample": []
         },
         {
             "@id": "#Download-text-for-all-digitised-journals_run_0",
@@ -381,6 +382,54 @@
             "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/Finding_editorial_cartoons_in_the_Bulletin.ipynb"
         },
         {
+            "@id": "https://www.dropbox.com/s/altjl6jixwv5pt0/bulletin-1886-1889.pdf?dl=0",
+            "@type": "CreativeWork",
+            "name": "Download from Dropbox: 1886 to 1889 (45mb PDF)",
+            "url": "https://www.dropbox.com/s/altjl6jixwv5pt0/bulletin-1886-1889.pdf?dl=0"
+        },
+        {
+            "@id": "https://www.dropbox.com/s/p15swmact2c9euf/bulletin-1890-1899.pdf?dl=0",
+            "@type": "CreativeWork",
+            "name": "Download from Dropbox: 1890 to 1899 (139mb PDF)",
+            "url": "https://www.dropbox.com/s/p15swmact2c9euf/bulletin-1890-1899.pdf?dl=0"
+        },
+        {
+            "@id": "https://www.dropbox.com/s/0rivg50s8qam2et/bulletin-1900-1909.pdf?dl=0",
+            "@type": "CreativeWork",
+            "name": "Download from Dropbox: 1900 to 1909 (147mb PDF)",
+            "url": "https://www.dropbox.com/s/0rivg50s8qam2et/bulletin-1900-1909.pdf?dl=0"
+        },
+        {
+            "@id": "https://www.dropbox.com/s/pdsj6xjot0l928w/bulletin-1910-1919.pdf?dl=0",
+            "@type": "CreativeWork",
+            "name": "Download from Dropbox: 1910 to 1919 (153mb PDF)",
+            "url": "https://www.dropbox.com/s/pdsj6xjot0l928w/bulletin-1910-1919.pdf?dl=0"
+        },
+        {
+            "@id": "https://www.dropbox.com/s/64x9y5nvgez1q3o/bulletin-1920-1929.pdf?dl=0",
+            "@type": "CreativeWork",
+            "name": "Download from Dropbox: 1920 to 1929 (159mb PDF)",
+            "url": "https://www.dropbox.com/s/64x9y5nvgez1q3o/bulletin-1920-1929.pdf?dl=0"
+        },
+        {
+            "@id": "https://www.dropbox.com/s/8mytp5qhqcrctt3/bulletin-1930-1939.pdf?dl=0",
+            "@type": "CreativeWork",
+            "name": "Download from Dropbox: 1930 to 1939 (151mb PDF)",
+            "url": "https://www.dropbox.com/s/8mytp5qhqcrctt3/bulletin-1930-1939.pdf?dl=0"
+        },
+        {
+            "@id": "https://www.dropbox.com/s/go3vyuqq0td6oqd/bulletin-1940-1949.pdf?dl=0",
+            "@type": "CreativeWork",
+            "name": "Download from Dropbox: 1940 to 1949 (146mb PDF)",
+            "url": "https://www.dropbox.com/s/go3vyuqq0td6oqd/bulletin-1940-1949.pdf?dl=0"
+        },
+        {
+            "@id": "https://www.dropbox.com/s/klcv0gyjs81c0pm/bulletin-1950-1952.pdf?dl=0",
+            "@type": "CreativeWork",
+            "name": "Download from Dropbox: 1950 to 1952 (42mb PDF)",
+            "url": "https://www.dropbox.com/s/klcv0gyjs81c0pm/bulletin-1950-1952.pdf?dl=0"
+        },
+        {
             "@id": "https://glam-workbench.net/trove-journals/bulletin-cartoons-collection/",
             "@type": "CreativeWork",
             "isPartOf": {
@@ -400,7 +449,33 @@
             },
             "name": "bulletin_cartoons.zip",
             "sdDatePublished": "2024-03-15",
-            "url": "https://trove-journals.s3.ap-southeast-2.amazonaws.com/bulletin_cartoons.zip"
+            "url": "https://trove-journals.s3.ap-southeast-2.amazonaws.com/bulletin_cartoons.zip",
+            "workExample": [
+                {
+                    "@id": "https://www.dropbox.com/s/altjl6jixwv5pt0/bulletin-1886-1889.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/p15swmact2c9euf/bulletin-1890-1899.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/0rivg50s8qam2et/bulletin-1900-1909.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/pdsj6xjot0l928w/bulletin-1910-1919.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/64x9y5nvgez1q3o/bulletin-1920-1929.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/8mytp5qhqcrctt3/bulletin-1930-1939.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/go3vyuqq0td6oqd/bulletin-1940-1949.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/klcv0gyjs81c0pm/bulletin-1950-1952.pdf?dl=0"
+                }
+            ]
         },
         {
             "@id": "#Finding_editorial_cartoons_in_the_Bulletin_run_0",
@@ -500,6 +575,12 @@
             "url": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/titles-issues-added.ndjson"
         },
         {
+            "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/metadata.json",
+            "@type": "CreativeWork",
+            "name": "Explore in Datasette",
+            "url": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/metadata.json"
+        },
+        {
             "@id": "https://glam-workbench.net/trove-journals/periodicals-data-api/",
             "@type": "CreativeWork",
             "isPartOf": {
@@ -515,7 +596,12 @@
                 "@id": "https://glam-workbench.net/trove-journals/periodicals-data-api/"
             },
             "name": "trove-periodicals-data",
-            "url": "https://github.com/GLAM-Workbench/trove-periodicals-data/"
+            "url": "https://github.com/GLAM-Workbench/trove-periodicals-data/",
+            "workExample": [
+                {
+                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/metadata.json"
+                }
+            ]
         },
         {
             "@id": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodical-titles.csv",
@@ -683,7 +769,8 @@
                 "@id": "https://glam-workbench.net/trove-journals/csv-digital-journals/"
             },
             "name": "trove-periodical-works-data",
-            "url": "https://github.com/GLAM-Workbench/trove-periodical-works-data"
+            "url": "https://github.com/GLAM-Workbench/trove-periodical-works-data",
+            "workExample": []
         },
         {
             "@id": "https://github.com/GLAM-Workbench/trove-periodical-works-data/raw/main/periodical-works.csv",

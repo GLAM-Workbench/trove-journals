@@ -306,6 +306,16 @@ def add_files(crate, action, data_type, gw_url, data_repo, local_path):
             # If this is a data repo crate, this is not necessary as the crate root will have this
             if data_type == "result" and not data_repo:
                 print(data_type)
+                examples = action.get("workExample", [])
+                print(examples)
+                for example in examples:
+                    example_props = {
+                        "@id": example["url"],
+                        "@type": "CreativeWork",
+                        "name": example["name"],
+                        "url": example["url"]
+                    }
+                    add_context_entity(crate, example_props)
                 if gw_page := action.get("mainEntityOfPage"):
                     add_gw_page_link(crate, gw_page)
                 if data_repo_url := action.get("isPartOf"):
@@ -321,9 +331,16 @@ def add_files(crate, action, data_type, gw_url, data_repo, local_path):
                     if gw_page:
                         print(gw_page)
                         data_rocrate["mainEntityOfPage"] = id_ify(gw_page)
+                    if current_data_rocrate := crate.get(data_repo_url):
+                        current_examples = [e["@id"] for e in current_data_rocrate.properties().get("workExample")]
+                    else:
+                        current_examples = []
+                    data_rocrate["workExample"] = id_ify(list(set([e["url"] for e in examples] + current_examples)))
+
                     add_context_entity(crate, data_rocrate)
                 elif gw_page:
                     properties["mainEntityOfPage"] = id_ify(gw_page)
+                    properties["workExample"] = id_ify([e["url"] for e in examples])
                     
             # Guess the encoding type from extension
             encoding = mimetypes.guess_type(datafile)[0]
