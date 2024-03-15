@@ -13,11 +13,10 @@ natsort
 sqlite-utils
 fpdf
 arrow
-ipywidgets==7.7.1
-jupyterlab-widgets==1.1.1
 nltk
 pillow
 scikit-learn
 textblob
 requests-cache
 python-dotenv
+humanize
