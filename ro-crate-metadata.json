@@ -196,6 +196,9 @@
             "isPartOf": {
                 "@id": "https://github.com/GLAM-Workbench/trove-periodicals-data/"
             },
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/ocrd-text-all-journals/"
+            },
             "name": "periodical-issues.csv",
             "sdDatePublished": "2024-03-15",
             "size": 37015,
@@ -211,6 +214,9 @@
             "dateModified": "2024-03-12",
             "description": "This zip file contains OCRd text and metadata harvested from 802 digitised journals in Trove. There is a directory for each periodical which is named using it's title and identifier, eg: `14th-company-magazine-nla.obj-15956697`. Each directory contains a CSV-formatted list of issues and a subdirectory named `texts` that contains a text file for each issue with OCRd text, The text files are named using the issue's date and identifier, eg: `1918-06-14-nla.obj-15967449.txt`. If text was successfully downloaded from an issue, the `issues.csv` file will inlcude the name of the text file in the `text_file` column.",
             "encodingFormat": "application/zip",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/ocrd-text-all-journals/"
+            },
             "name": "trove-periodicals.zip",
             "sdDatePublished": "2024-03-15",
             "url": "https://trove-journals.s3.ap-southeast-2.amazonaws.com/trove-periodicals.zip"
@@ -686,6 +692,15 @@
                     "@id": "https://github.com/GLAM-Workbench/trove-periodical-works-data/raw/main/periodical-works.csv"
                 }
             ]
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-journals/ocrd-text-all-journals/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "OCRd text from Trove digitised journals",
+            "url": "https://glam-workbench.net/trove-journals/ocrd-text-all-journals/"
         }
     ]
 }
