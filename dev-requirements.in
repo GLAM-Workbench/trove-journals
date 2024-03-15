@@ -6,4 +6,12 @@ isort
 flake8
 nbqa
 pre-commit
+rdflib>=7.*
+rocrate
+giturlparse
+requests
+python-dotenv
 jupyterlab-code-formatter
+gitpython
+frictionless
+beautifulsoup4
