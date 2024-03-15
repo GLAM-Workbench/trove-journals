@@ -92,7 +92,7 @@ def get_notebooks():
     """
     # files = [Path(file) for file in os.listdir()]
     files = Path(".").glob("*.ipynb")
-    is_notebook = lambda file: not file.name.lower().startswith(("draft", "untitled", "index"))
+    is_notebook = lambda file: not file.name.lower().startswith(("draft", "untitled", "index."))
     return list(filter(is_notebook, files))
 
 
@@ -308,14 +308,7 @@ def add_files(crate, action, data_type, gw_url, data_repo, local_path):
                 print(data_type)
                 examples = action.get("workExample", [])
                 print(examples)
-                for example in examples:
-                    example_props = {
-                        "@id": example["url"],
-                        "@type": "CreativeWork",
-                        "name": example["name"],
-                        "url": example["url"]
-                    }
-                    add_context_entity(crate, example_props)
+                add_example_entities(crate, examples)
                 if gw_page := action.get("mainEntityOfPage"):
                     add_gw_page_link(crate, gw_page)
                 if data_repo_url := action.get("isPartOf"):
@@ -439,6 +432,16 @@ def add_action(crate, notebook, input_files, output_files, query, index, local_p
     for output in output_files:
         action_new.append_to("result", output)
 
+def add_example_entities(crate, examples):
+    for example in examples:
+        example_props = {
+            "@id": example["url"],
+            "@type": "CreativeWork",
+            "name": example["name"],
+            "url": example["url"]
+        }
+        add_context_entity(crate, example_props)
+
 
 def creates_data(data_repo, notebook_metadata):
     """
@@ -471,6 +474,8 @@ def add_notebook(crate, notebook, data_repo, gw_url):
             "description": "",
             "action": [],
             "mainEntityOfPage": "",
+            "workExample": [],
+            "category": "",
             "position": 0
         },
     )
@@ -527,6 +532,11 @@ def add_notebook(crate, notebook, data_repo, gw_url):
                 add_gw_page_link(crate, doc_url)
                 properties["mainEntityOfPage"] = id_ify(doc_url)
 
+        nb_examples = notebook_metadata.get("workExample", [])
+        add_example_entities(crate, nb_examples)
+        properties["workExample"] = id_ify([e["url"] for e in nb_examples])
+
+
         # Add input files from 'object' property of actions
         #nb_inputs = [a["object"] for a in notebook_metadata.get("action", [])]
         #input_files = add_files(crate, nb_inputs, data_repo)
@@ -556,16 +566,8 @@ def add_notebook(crate, notebook, data_repo, gw_url):
                     dataset_examples = action.get("workExample", [])
                     current_examples = root.get("workExample", [])
                     crate.update_jsonld({"@id": "./", "workExample": id_ify([e["url"] for e in dataset_examples]) + current_examples})
-                    for example in dataset_examples:
-                        example_props = {
-                            "@id": example["url"],
-                            "@type": "CreativeWork",
-                            "name": example["name"],
-                            "url": example["url"]
-                        }
-                        add_context_entity(crate, example_props)
+                    add_example_entities(crate, dataset_examples)
                 
-
         # If the notebook has author info, add people to crate
         if notebook_metadata["author"]:
             # Add people referenced in notebook metadata
