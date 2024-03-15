@@ -302,7 +302,8 @@ def add_files(crate, action, data_type, gw_url, data_repo, local_path):
             # Add contextual entities for data repo associated with file
             # If this is a data repo crate, this is not necessary as the crate root will have this
             if not data_repo:
-                gw_page = action.get("mainEntityOfPage")
+                if gw_page := action.get("mainEntityOfPage"):
+                    add_gw_page_link(crate, gw_page)
                 if data_repo_url := action.get("isPartOf"):
                     properties["isPartOf"] = id_ify(data_repo_url)
                     data_rocrate = {
@@ -314,9 +315,10 @@ def add_files(crate, action, data_type, gw_url, data_repo, local_path):
                     if data_roc_description := action.get("description"):
                         data_rocrate["description"] = data_roc_description
                     if gw_page:
-                        add_gw_page_link(crate, gw_page)
                         data_rocrate["mainEntityOfPage"] = id_ify(gw_page)
                     add_context_entity(crate, data_rocrate)
+                elif gw_page:
+                    properties["mainEntityOfPage"] = id_ify(gw_page)
                     
             # Guess the encoding type from extension
             encoding = mimetypes.guess_type(datafile)[0]
