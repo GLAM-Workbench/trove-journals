@@ -9,7 +9,7 @@
                     "@id": "https://orcid.org/0000-0001-7956-4498"
                 }
             ],
-            "datePublished": "2024-03-15T06:04:37+00:00",
+            "datePublished": "2024-03-15T11:30:34+00:00",
             "description": "A GLAM Workbench repository",
             "hasPart": [
                 {
@@ -29,6 +29,9 @@
                 },
                 {
                     "@id": "https://trove-journals.s3.ap-southeast-2.amazonaws.com/trove-periodicals.zip"
+                },
+                {
+                    "@id": "index-each-line-in-series.ipynb"
                 },
                 {
                     "@id": "Finding_editorial_cartoons_in_the_Bulletin.ipynb"
@@ -177,11 +180,12 @@
                 "@id": "https://glam-workbench.net/trove-journals/get-covers-from-digitised-journal/"
             },
             "name": "Get covers (or any other pages) from a digitised journal in Trove",
-            "position": 6,
+            "position": 7,
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/Get-page-images-from-a-Trove-journal.ipynb"
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/Get-page-images-from-a-Trove-journal.ipynb",
+            "workExample": []
         },
         {
             "@id": "https://glam-workbench.net/trove-journals/get-ocrd-text-from-digitised-journal/",
@@ -217,7 +221,8 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/Get-text-from-a-Trove-journal.ipynb"
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/Get-text-from-a-Trove-journal.ipynb",
+            "workExample": []
         },
         {
             "@id": "word_frequences_in_digitised_journals.ipynb",
@@ -241,7 +246,8 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/word_frequences_in_digitised_journals.ipynb"
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/word_frequences_in_digitised_journals.ipynb",
+            "workExample": []
         },
         {
             "@id": "https://glam-workbench.net/trove-journals/get-ocrd-text-from-all-journals/",
@@ -277,7 +283,8 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/Download-text-for-all-digitised-journals.ipynb"
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/Download-text-for-all-digitised-journals.ipynb",
+            "workExample": []
         },
         {
             "@id": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodical-issues.csv",
@@ -346,6 +353,62 @@
             ]
         },
         {
+            "@id": "https://glam-workbench.net/trove-journals/create-text-db-indexed-by-line/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Create a database to search across each line of text in a series of volumes",
+            "url": "https://glam-workbench.net/trove-journals/create-text-db-indexed-by-line/"
+        },
+        {
+            "@id": "https://glam-workbench.net/nsw-post-office-directories/",
+            "@type": "CreativeWork",
+            "name": "NSW Post Office Directories, 1886 to 1950",
+            "url": "https://glam-workbench.net/nsw-post-office-directories/"
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-journals/sydney-telephone-directories/",
+            "@type": "CreativeWork",
+            "name": "Sydney Telephone Directories, 1926 to 1954",
+            "url": "https://glam-workbench.net/trove-journals/sydney-telephone-directories/"
+        },
+        {
+            "@id": "index-each-line-in-series.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "The code here was used to create the NSW Post Office Directories search interface which helps you search across 54 volumes from 1886 to 1950. The same code, with minor modifications, could be used to index any publication where it would be useful to search by line (rather than Trove's default 'article') \u2013 for example, lists, directories and gazetteers \u2013 turning them into searchable databases.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/create-text-db-indexed-by-line/"
+            },
+            "name": "Create a database to search across each line of text in a series of volumes",
+            "position": 6,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/index-each-line-in-series.ipynb",
+            "workExample": [
+                {
+                    "@id": "https://glam-workbench.net/nsw-post-office-directories/"
+                },
+                {
+                    "@id": "https://glam-workbench.net/trove-journals/sydney-telephone-directories/"
+                }
+            ]
+        },
+        {
             "@id": "https://glam-workbench.net/trove-journals/finding-editorial-cartoons-in-bulletin/",
             "@type": "CreativeWork",
             "isPartOf": {
@@ -369,17 +432,18 @@
             "conformsTo": {
                 "@id": "https://purl.archive.org/textcommons/profile#Notebook"
             },
-            "description": "",
+            "description": "This notebook describes a method for finding and saving full-page editorial cartoons from *The Bulletin*.",
             "encodingFormat": "application/x-ipynb+json",
             "mainEntityOfPage": {
                 "@id": "https://glam-workbench.net/trove-journals/finding-editorial-cartoons-in-bulletin/"
             },
             "name": "Finding editorial cartoons in the Bulletin",
-            "position": 0,
+            "position": 8,
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/Finding_editorial_cartoons_in_the_Bulletin.ipynb"
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/Finding_editorial_cartoons_in_the_Bulletin.ipynb",
+            "workExample": []
         },
         {
             "@id": "https://www.dropbox.com/s/altjl6jixwv5pt0/bulletin-1886-1889.pdf?dl=0",
@@ -516,7 +580,8 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/tfidf_in_digitised_journals.ipynb"
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/tfidf_in_digitised_journals.ipynb",
+            "workExample": []
         },
         {
             "@id": "https://glam-workbench.net/trove-journals/periodicals-enrich-for-datasette/",
@@ -524,7 +589,7 @@
             "isPartOf": {
                 "@id": "https://glam-workbench.net"
             },
-            "name": null,
+            "name": "Periodicals enrich for datasette",
             "url": "https://glam-workbench.net/trove-journals/periodicals-enrich-for-datasette/"
         },
         {
@@ -552,7 +617,8 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/periodicals-enrich-for-datasette.ipynb"
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/periodicals-enrich-for-datasette.ipynb",
+            "workExample": []
         },
         {
             "@id": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/titles-issues-added.ndjson",
@@ -586,7 +652,7 @@
             "isPartOf": {
                 "@id": "https://glam-workbench.net"
             },
-            "name": null,
+            "name": "Details of digitised periodicals from the `/magazine/titles` API endpoint",
             "url": "https://glam-workbench.net/trove-journals/periodicals-data-api/"
         },
         {
@@ -670,7 +736,7 @@
             "isPartOf": {
                 "@id": "https://glam-workbench.net"
             },
-            "name": null,
+            "name": "Periodicals from api",
             "url": "https://glam-workbench.net/trove-journals/periodicals-from-api/"
         },
         {
@@ -698,7 +764,8 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/periodicals-from-api.ipynb"
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/periodicals-from-api.ipynb",
+            "workExample": []
         },
         {
             "@id": "#periodicals-from-api_run_0",
@@ -751,7 +818,8 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/Create-digitised-journals-list.ipynb"
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/Create-digitised-journals-list.ipynb",
+            "workExample": []
         },
         {
             "@id": "https://glam-workbench.net/trove-journals/csv-digital-journals/",
