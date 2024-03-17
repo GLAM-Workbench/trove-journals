@@ -305,13 +305,14 @@ def add_files(crate, action, data_type, gw_url, data_repo, local_path):
             # Add contextual entities for data repo associated with file
             # If this is a data repo crate, this is not necessary as the crate root will have this
             if data_type == "result" and not data_repo:
-                print(data_type)
+                # print(data_type)
                 examples = action.get("workExample", [])
-                print(examples)
+                # print(examples)
                 add_example_entities(crate, examples)
                 if gw_page := action.get("mainEntityOfPage"):
                     add_gw_page_link(crate, gw_page)
-                if data_repo_url := action.get("isPartOf"):
+                data_repo_url = action.get("isPartOf")
+                if data_repo_url and not crate.get(data_repo_url):
                     properties["isPartOf"] = id_ify(data_repo_url)
                     data_rocrate = {
                         "@id": data_repo_url,
@@ -320,9 +321,10 @@ def add_files(crate, action, data_type, gw_url, data_repo, local_path):
                         "name": data_repo_url.rstrip("/").split("/")[-1]
                     }
                     if data_roc_description := action.get("description"):
+                        print(data_roc_description)
                         data_rocrate["description"] = data_roc_description
                     if gw_page:
-                        print(gw_page)
+                        # print(gw_page)
                         data_rocrate["mainEntityOfPage"] = id_ify(gw_page)
                     if current_data_rocrate := crate.get(data_repo_url):
                         current_examples = [e["@id"] for e in current_data_rocrate.properties().get("workExample")]
