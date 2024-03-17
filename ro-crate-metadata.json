@@ -9,7 +9,7 @@
                     "@id": "https://orcid.org/0000-0001-7956-4498"
                 }
             ],
-            "datePublished": "2024-03-17T02:37:54+00:00",
+            "datePublished": "2024-03-17T02:43:24+00:00",
             "description": "A GLAM Workbench repository",
             "hasPart": [
                 {
@@ -855,6 +855,7 @@
         {
             "@id": "https://github.com/GLAM-Workbench/trove-periodical-works-data",
             "@type": "Dataset",
+            "description": "This dataset contains version records describing digitised periodicals found by searching for the digital identifier string `nla.obj` and limiting the results to periodicals. Duplicate records were merged.",
             "mainEntityOfPage": {
                 "@id": "https://glam-workbench.net/trove-journals/csv-digital-journals/"
             },
@@ -870,7 +871,6 @@
             ],
             "contentSize": 612617,
             "dateModified": "2024-03-11",
-            "description": "This dataset contains version records describing digitised periodicals found by searching for the digital identifier string `nla.obj` and limiting the results to periodicals. Duplicate records were merged.",
             "encodingFormat": "text/csv",
             "isPartOf": {
                 "@id": "https://github.com/GLAM-Workbench/trove-periodical-works-data"
