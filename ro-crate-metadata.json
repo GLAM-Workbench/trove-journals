@@ -9,7 +9,7 @@
                     "@id": "https://orcid.org/0000-0001-7956-4498"
                 }
             ],
-            "datePublished": "2024-03-18T02:12:27+00:00",
+            "datePublished": "2024-03-18T02:31:22+00:00",
             "description": "A GLAM Workbench repository",
             "hasPart": [
                 {
@@ -411,7 +411,7 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/index-each-line-in-series.ipynb",
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/index-each-line-in-series.ipynb",
             "workExample": [
                 {
                     "@id": "https://glam-workbench.net/nsw-post-office-directories/"
@@ -456,7 +456,7 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/Finding_editorial_cartoons_in_the_Bulletin.ipynb",
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/Finding_editorial_cartoons_in_the_Bulletin.ipynb",
             "workExample": []
         },
         {
@@ -595,7 +595,7 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/tfidf_in_digitised_journals.ipynb",
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/tfidf_in_digitised_journals.ipynb",
             "workExample": []
         },
         {
@@ -633,7 +633,7 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/periodicals-enrich-for-datasette.ipynb",
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/periodicals-enrich-for-datasette.ipynb",
             "workExample": []
         },
         {
@@ -800,7 +800,7 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/periodicals-from-api.ipynb",
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/periodicals-from-api.ipynb",
             "workExample": []
         },
         {
@@ -855,7 +855,7 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/Create-digitised-journals-list.ipynb",
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/Create-digitised-journals-list.ipynb",
             "workExample": []
         },
         {

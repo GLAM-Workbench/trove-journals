@@ -7,6 +7,7 @@ from git import Repo
 from pathlib import Path
 import mimetypes
 from bs4 import BeautifulSoup
+from dotenv import load_dotenv
 from rocrate.rocrate import ROCrate
 from rocrate.model.person import Person
 from rocrate.model.data_entity import DataEntity
@@ -14,6 +15,8 @@ from rocrate.model.contextentity import ContextEntity
 from extract_metadata import (
     extract_notebook_metadata,
 )
+
+load_dotenv()
 
 NOTEBOOK_EXTENSION = ".ipynb"
 
@@ -239,8 +242,9 @@ def get_default_gh_branch(url):
         # the ghparser doesn't seem to like 'raw' urls
         url = url.replace("/raw/", "/blob/")
         gh_parts = ghparse(url)
+        headers = {'Authorization': f'token {os.getenv("GITHUB_TOKEN")}'}
         gh_repo_url = f"https://api.github.com/repos/{gh_parts.owner}/{gh_parts.repo}"
-        response = requests.get(gh_repo_url)
+        response = requests.get(gh_repo_url, headers=headers)
         return response.json().get("default_branch")
 
 def add_files(crate, action, data_type, gw_url, data_repo, local_path):
