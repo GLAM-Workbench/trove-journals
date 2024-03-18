@@ -11,7 +11,7 @@ def main(path):
         output = Path("previews")
     output.mkdir(exist_ok=True)
 
-    nbs = [n for n in Path(".").glob("*.ipynb") if not n.name.startswith(("index", "draft", "Untitled", "snippets"))]
+    nbs = [n for n in Path(".").glob("*.ipynb") if not n.name.startswith(("index.", "draft", "Untitled", "snippets"))]
     for nb_path in nbs:
         print(nb_path.name)
         with nb_path.open() as f:
