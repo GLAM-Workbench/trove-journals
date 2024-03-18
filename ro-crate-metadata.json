@@ -9,7 +9,7 @@
                     "@id": "https://orcid.org/0000-0001-7956-4498"
                 }
             ],
-            "datePublished": "2024-03-18T02:31:22+00:00",
+            "datePublished": "2024-03-18T03:02:01+00:00",
             "description": "A GLAM Workbench repository",
             "hasPart": [
                 {
@@ -518,8 +518,12 @@
         },
         {
             "@id": "https://trove-journals.s3.ap-southeast-2.amazonaws.com/bulletin_cartoons.zip",
-            "@type": "File",
-            "contentSize": "62312351569",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 62312351569,
+            "dateModified": "2024-03-14",
             "description": "This dataset contains high-resolution images of 3,471 full-page editorial cartoons harvested from *The Bulletin*, 1886 to 1952.\n\nThe names of each image file provide useful contextual metadata. For example, the file name `19330412-2774-nla.obj-606969767-7.jpg` tells you:\n\n* `19330412` \u2013 the cartoon was published on 12 April 1933\n* `2774` \u2013 it was published in issue number 2774\n* `nla.obj-606969767` \u2013 the Trove identifier for the issue, can be used to make a url eg `https://nla.gov.au/nla.obj-606969767`\n* `7` \u2013 on page 7",
             "encodingFormat": "application/zip",
             "mainEntityOfPage": {
@@ -561,7 +565,7 @@
             "actionStatus": {
                 "@id": "http://schema.org/CompletedActionStatus"
             },
-            "endDate": "2024-03-17",
+            "endDate": "2024-03-14",
             "instrument": {
                 "@id": "Finding_editorial_cartoons_in_the_Bulletin.ipynb"
             },
