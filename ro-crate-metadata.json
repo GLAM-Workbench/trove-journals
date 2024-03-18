@@ -9,7 +9,7 @@
                     "@id": "https://orcid.org/0000-0001-7956-4498"
                 }
             ],
-            "datePublished": "2024-03-18T01:34:17+00:00",
+            "datePublished": "2024-03-18T02:12:27+00:00",
             "description": "A GLAM Workbench repository",
             "hasPart": [
                 {
@@ -332,7 +332,7 @@
             ],
             "contentSize": 3669452484,
             "dateModified": "2024-03-12",
-            "description": "This zip file contains a directory for each periodical which is named using it's title and identifier, eg: `14th-company-magazine-nla.obj-15956697`. Each directory contains a CSV-formatted list of issues and a subdirectory named `texts` that contains a text file for each issue with OCRd text, The text files are named using the issue's date and identifier, eg: `1918-06-14-nla.obj-15967449.txt`. If text was successfully downloaded from an issue, the `issues.csv` file will inlcude the name of the text file in the `text_file` column.",
+            "description": "This dataset contains OCRd text and metadata harvested from digitised periodicals in Trove.\n\nThe zip file contains a directory for each periodical which is named using it's title and identifier, eg: `14th-company-magazine-nla.obj-15956697`. Each directory contains a CSV-formatted list of issues and a subdirectory named `texts` that contains a text file for each issue with OCRd text, The text files are named using the issue's date and identifier, eg: `1918-06-14-nla.obj-15967449.txt`. If text was successfully downloaded from an issue, the `issues.csv` file will inlcude the name of the text file in the `text_file` column.",
             "encodingFormat": "application/zip",
             "mainEntityOfPage": {
                 "@id": "https://glam-workbench.net/trove-journals/ocrd-text-all-journals/"
@@ -411,7 +411,7 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/index-each-line-in-series.ipynb",
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/index-each-line-in-series.ipynb",
             "workExample": [
                 {
                     "@id": "https://glam-workbench.net/nsw-post-office-directories/"
@@ -456,7 +456,7 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/Finding_editorial_cartoons_in_the_Bulletin.ipynb",
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/Finding_editorial_cartoons_in_the_Bulletin.ipynb",
             "workExample": []
         },
         {
@@ -595,7 +595,7 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/tfidf_in_digitised_journals.ipynb",
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/tfidf_in_digitised_journals.ipynb",
             "workExample": []
         },
         {
@@ -633,7 +633,7 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/periodicals-enrich-for-datasette.ipynb",
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/periodicals-enrich-for-datasette.ipynb",
             "workExample": []
         },
         {
@@ -689,10 +689,10 @@
             "url": "https://github.com/GLAM-Workbench/trove-periodicals-data/",
             "workExample": [
                 {
-                    "@id": "https://tdg.glam-workbench.net/other-digitised-resources/periodicals/overview.html"
+                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/metadata.json"
                 },
                 {
-                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/metadata.json"
+                    "@id": "https://tdg.glam-workbench.net/other-digitised-resources/periodicals/overview.html"
                 }
             ]
         },
@@ -800,7 +800,7 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/periodicals-from-api.ipynb",
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/periodicals-from-api.ipynb",
             "workExample": []
         },
         {
@@ -855,7 +855,7 @@
             "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31012/"
             },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/Create-digitised-journals-list.ipynb",
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/None/Create-digitised-journals-list.ipynb",
             "workExample": []
         },
         {
