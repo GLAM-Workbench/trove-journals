@@ -264,7 +264,7 @@ def add_files(crate, action, data_type, gw_url, data_repo, local_path):
         # Check if file exists (or is a url)
         if (
             Path(datafile).exists()
-            or (data_repo == "" and datafile.startswith("http"))
+            or (datafile.startswith("http"))
             or (data_repo and data_repo in datafile)
         ):
             # If this is a data repo crate use the file name (not full url) as the id
@@ -374,7 +374,7 @@ def add_files(crate, action, data_type, gw_url, data_repo, local_path):
             # Add/update the file entity and add to the list of file entities
             local_file = find_local_file(datafile.rstrip("/").split("/")[-1], action.get("local_path", "."))
             # print(datafile, local_file, file_id)
-            if data_repo:
+            if data_repo and data_repo in datafile:
                 crate_id = local_file
             else:
                 crate_id = file_id
