@@ -68,6 +68,9 @@
                 },
                 {
                     "@id": "https://github.com/GLAM-Workbench/trove-periodical-works-data/raw/main/periodical-works.csv"
+                },
+                {
+                    "@id": "harvest-illustrations-from-periodicals.ipynb"
                 }
             ],
             "license": {
@@ -91,6 +94,574 @@
             "license": {
                 "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
             }
+        },
+        {
+            "@id": "Get-page-images-from-a-Trove-journal.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "Harvesting images",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "This notebook shows how to download all the cover images from a specified periodical. With some minor modifications you could download any page, or range of pages.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/get-covers-from-digitised-journal/"
+            },
+            "name": "Get covers (or any other pages) from a digitised journal in Trove",
+            "position": 7,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/Get-page-images-from-a-Trove-journal.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "Get-text-from-a-Trove-journal.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "Harvesting text",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "Many of the digitised periodicals available in Trove make OCRd text available for download. This notebook helps you download all the OCRd text from a single periodical \u2013 \u00adone text file for each issue.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/get-ocrd-text-from-digitised-journal/"
+            },
+            "name": "Get OCRd text from a digitised journal in Trove",
+            "position": 4,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/Get-text-from-a-Trove-journal.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "word_frequences_in_digitised_journals.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "",
+            "encodingFormat": "application/x-ipynb+json",
+            "name": "Word frequencies in digitised journals",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/word_frequences_in_digitised_journals.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "Download-text-for-all-digitised-journals.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "Harvesting text",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "This notebook helps you download all the OCRd text from all (or most of?) Trove's digitised periodicals, creating \u00adone text file for each issue. It also saves a CSV-formatted list of the issues in each periodical.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/get-ocrd-text-from-all-journals/"
+            },
+            "name": "Download the OCRd text for ALL the digitised periodicals in Trove!",
+            "position": 5,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/Download-text-for-all-digitised-journals.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodical-issues.csv",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 9221860,
+            "dateModified": "2024-03-18",
+            "encodingFormat": "text/csv",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/periodicals-data-api/"
+            },
+            "name": "periodical-issues.csv",
+            "sdDatePublished": "2024-03-25",
+            "size": 37015,
+            "url": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodical-issues.csv",
+            "workExample": [
+                {
+                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/metadata.json"
+                },
+                {
+                    "@id": "https://tdg.glam-workbench.net/other-digitised-resources/periodicals/overview.html"
+                }
+            ]
+        },
+        {
+            "@id": "https://trove-journals.s3.ap-southeast-2.amazonaws.com/trove-periodicals.zip",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 3669452484,
+            "dateModified": "2024-03-12",
+            "description": "This dataset contains OCRd text and metadata harvested from digitised periodicals in Trove.\n\nThe zip file contains a directory for each periodical which is named using it's title and identifier, eg: `14th-company-magazine-nla.obj-15956697`. Each directory contains a CSV-formatted list of issues and a subdirectory named `texts` that contains a text file for each issue with OCRd text, The text files are named using the issue's date and identifier, eg: `1918-06-14-nla.obj-15967449.txt`. If text was successfully downloaded from an issue, the `issues.csv` file will inlcude the name of the text file in the `text_file` column.",
+            "encodingFormat": "application/zip",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/ocrd-text-all-journals/"
+            },
+            "name": "trove-periodicals.zip",
+            "sdDatePublished": "2024-03-25",
+            "url": "https://trove-journals.s3.ap-southeast-2.amazonaws.com/trove-periodicals.zip",
+            "workExample": []
+        },
+        {
+            "@id": "index-each-line-in-series.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "Harvesting text",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "The code here was used to create the NSW Post Office Directories search interface which helps you search across 54 volumes from 1886 to 1950. The same code, with minor modifications, could be used to index any publication where it would be useful to search by line (rather than Trove's default 'article') \u2013 for example, lists, directories and gazetteers \u2013 turning them into searchable databases.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/create-text-db-indexed-by-line/"
+            },
+            "name": "Create a database to search across each line of text in a series of volumes",
+            "position": 6,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/index-each-line-in-series.ipynb",
+            "workExample": [
+                {
+                    "@id": "https://glam-workbench.net/nsw-post-office-directories/"
+                },
+                {
+                    "@id": "https://glam-workbench.net/trove-journals/sydney-telephone-directories/"
+                }
+            ]
+        },
+        {
+            "@id": "Finding_editorial_cartoons_in_the_Bulletin.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "Harvesting images",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "This notebook describes a method for finding and saving full-page editorial cartoons from *The Bulletin*.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/finding-editorial-cartoons-in-bulletin/"
+            },
+            "name": "Finding editorial cartoons in the Bulletin",
+            "position": 8,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/Finding_editorial_cartoons_in_the_Bulletin.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/raw/main/bulletin-editorial-cartoons.csv",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 1917989,
+            "dateModified": "2024-03-19",
+            "encodingFormat": "text/csv",
+            "isPartOf": {
+                "@id": "https://github.com/GLAM-Workbench/bulletin-editorial-cartoons"
+            },
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/bulletin-cartoons-collection/"
+            },
+            "name": "bulletin-editorial-cartoons.csv",
+            "sdDatePublished": "2024-03-25",
+            "size": 3471,
+            "url": "https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/raw/main/bulletin-editorial-cartoons.csv",
+            "workExample": [
+                {
+                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/blob/main/bulletin-editorial-cartoons.db&install=datasette-json-html&metadata=https://raw.githubusercontent.com/GLAM-Workbench/bulletin-editorial-cartoons/main/metadata.json#/bulletin-editorial-cartoons/cartoons"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/altjl6jixwv5pt0/bulletin-1886-1889.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/p15swmact2c9euf/bulletin-1890-1899.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/0rivg50s8qam2et/bulletin-1900-1909.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/pdsj6xjot0l928w/bulletin-1910-1919.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/64x9y5nvgez1q3o/bulletin-1920-1929.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/8mytp5qhqcrctt3/bulletin-1930-1939.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/go3vyuqq0td6oqd/bulletin-1940-1949.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/klcv0gyjs81c0pm/bulletin-1950-1952.pdf?dl=0"
+                }
+            ]
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/raw/main/bulletin-editorial-cartoons.db",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 3522560,
+            "dateModified": "2024-03-19",
+            "description": "This is an SQLite database formatted for use with Datasette-Lite. As well as metadata from the `bulletin-editorial-cartoons.csv` file it includes a thumbnail column to display the cartoon.",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/bulletin-cartoons-collection/"
+            },
+            "name": "bulletin-editorial-cartoons.db",
+            "sdDatePublished": "2024-03-25",
+            "url": "https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/raw/main/bulletin-editorial-cartoons.db",
+            "workExample": [
+                {
+                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/blob/main/bulletin-editorial-cartoons.db&install=datasette-json-html&metadata=https://raw.githubusercontent.com/GLAM-Workbench/bulletin-editorial-cartoons/main/metadata.json#/bulletin-editorial-cartoons/cartoons"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/altjl6jixwv5pt0/bulletin-1886-1889.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/p15swmact2c9euf/bulletin-1890-1899.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/0rivg50s8qam2et/bulletin-1900-1909.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/pdsj6xjot0l928w/bulletin-1910-1919.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/64x9y5nvgez1q3o/bulletin-1920-1929.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/8mytp5qhqcrctt3/bulletin-1930-1939.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/go3vyuqq0td6oqd/bulletin-1940-1949.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/klcv0gyjs81c0pm/bulletin-1950-1952.pdf?dl=0"
+                }
+            ]
+        },
+        {
+            "@id": "https://trove-journals.s3.ap-southeast-2.amazonaws.com/bulletin_cartoons.zip",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 62312351569,
+            "dateModified": "2024-03-14",
+            "description": "This dataset contains high-resolution images of 3,471 full-page editorial cartoons harvested from *The Bulletin*, 1886 to 1952.\n\nThe names of each image file provide useful contextual metadata. For example, the file name `19330412-2774-nla.obj-606969767-7.jpg` tells you:\n\n* `19330412` \u2013 the cartoon was published on 12 April 1933\n* `2774` \u2013 it was published in issue number 2774\n* `nla.obj-606969767` \u2013 the Trove identifier for the issue, can be used to make a url eg `https://nla.gov.au/nla.obj-606969767`\n* `7` \u2013 on page 7",
+            "encodingFormat": "application/zip",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/bulletin-cartoons-collection/"
+            },
+            "name": "bulletin_cartoons.zip",
+            "sdDatePublished": "2024-03-25",
+            "url": "https://trove-journals.s3.ap-southeast-2.amazonaws.com/bulletin_cartoons.zip",
+            "workExample": [
+                {
+                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/blob/main/bulletin-editorial-cartoons.db&install=datasette-json-html&metadata=https://raw.githubusercontent.com/GLAM-Workbench/bulletin-editorial-cartoons/main/metadata.json#/bulletin-editorial-cartoons/cartoons"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/altjl6jixwv5pt0/bulletin-1886-1889.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/p15swmact2c9euf/bulletin-1890-1899.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/0rivg50s8qam2et/bulletin-1900-1909.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/pdsj6xjot0l928w/bulletin-1910-1919.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/64x9y5nvgez1q3o/bulletin-1920-1929.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/8mytp5qhqcrctt3/bulletin-1930-1939.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/go3vyuqq0td6oqd/bulletin-1940-1949.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/klcv0gyjs81c0pm/bulletin-1950-1952.pdf?dl=0"
+                }
+            ]
+        },
+        {
+            "@id": "tfidf_in_digitised_journals.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "",
+            "encodingFormat": "application/x-ipynb+json",
+            "name": "TF-IDF in digitised journals",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/tfidf_in_digitised_journals.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "periodicals-enrich-for-datasette.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "Harvesting metadata",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "This notebook tries to fix some problems with the periodicals data from the Trove API. It also enriches the harvested data by extracting additional information from the website. It creates two datasets \u2013 one for titles and one for issues \u2013 and loads these into an SQLite database for use with Datasette Lite.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/periodicals-enrich-for-datasette/"
+            },
+            "name": "Enrich the list of periodicals from the Trove API",
+            "position": 2,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/periodicals-enrich-for-datasette.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/titles-issues-added.ndjson",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 4030430,
+            "dateModified": "2024-03-11",
+            "description": "This file contains data describing digitised periodicals available from Trove. The titles and issues data was harvested from the Trove API and combined into a single file. Duplicate titles and Commonwealth Parliamentary Papers were removed. Additional data on issues missing from the API results was scraped from Trove web pages.",
+            "license": {
+                "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+            },
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/periodicals-data-api/"
+            },
+            "name": "titles-issues-added.ndjson",
+            "sdDatePublished": "2024-03-25",
+            "size": 949,
+            "url": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/titles-issues-added.ndjson",
+            "workExample": []
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodical-titles.csv",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 295509,
+            "dateModified": "2024-03-18",
+            "encodingFormat": "text/csv",
+            "isPartOf": {
+                "@id": "https://github.com/GLAM-Workbench/trove-periodicals-data/"
+            },
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/periodicals-data-api/"
+            },
+            "name": "periodical-titles.csv",
+            "sdDatePublished": "2024-03-25",
+            "size": 908,
+            "url": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodical-titles.csv",
+            "workExample": [
+                {
+                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/metadata.json"
+                },
+                {
+                    "@id": "https://tdg.glam-workbench.net/other-digitised-resources/periodicals/overview.html"
+                }
+            ]
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodicals.db",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 12259328,
+            "dateModified": "2024-03-14",
+            "description": "This SQLite database contains data relating to digitised periodical titles and issues from Trove. It was created for use with Datasette-Lite. There is a foreign key link between the issues and the titles, making it easy to find the issues from any title. Some extra columns have been added to include thumbnails and provide links to search for articles in Trove and download OCRd text.",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/periodicals-data-api/"
+            },
+            "name": "periodicals.db",
+            "sdDatePublished": "2024-03-25",
+            "url": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodicals.db",
+            "workExample": [
+                {
+                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/metadata.json"
+                },
+                {
+                    "@id": "https://tdg.glam-workbench.net/other-digitised-resources/periodicals/overview.html"
+                }
+            ]
+        },
+        {
+            "@id": "periodicals-from-api.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "Harvesting metadata",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "This notebook uses the /magazine/titles endpoint of the Trove API to get details of digitised periodical titles and issues. It then tries to fix some problems with the data by removing duplicates and Parliamentary Papers, and checking the lists of issues against those scraped from the Trove website.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/periodicals-from-api/"
+            },
+            "name": "Get details of periodicals from the `/magazine/titles` API endpoint",
+            "position": 1,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/periodicals-from-api.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "Create-digitised-journals-list.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "Harvesting metadata",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "This notebook creates a list of digitised periodicals in Trove by searching for the digital identifier string `nla.obj` and limiting the results to periodicals. Before the Trove API introduced the `/magazine/titles` endpoint, this was the only way to generate such a list. This method produces slightly different results to the new API endpoint, and it might be useful to compare the two to see what each method misses.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/create-list-digitised-journals/"
+            },
+            "name": "Create a list of Trove's digital periodicals",
+            "position": 3,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/Create-digitised-journals-list.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-periodical-works-data/raw/main/periodical-works.csv",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 612617,
+            "dateModified": "2024-03-11",
+            "encodingFormat": "text/csv",
+            "isPartOf": {
+                "@id": "https://github.com/GLAM-Workbench/trove-periodical-works-data"
+            },
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/csv-digital-journals/"
+            },
+            "name": "periodical-works.csv",
+            "sdDatePublished": "2024-03-25",
+            "size": 929,
+            "url": "https://github.com/GLAM-Workbench/trove-periodical-works-data/raw/main/periodical-works.csv",
+            "workExample": []
         },
         {
             "@id": "https://glam-workbench.net/trove-journals",
@@ -166,35 +737,6 @@
             "url": "https://glam-workbench.net/trove-journals/get-covers-from-digitised-journal/"
         },
         {
-            "@id": "Get-page-images-from-a-Trove-journal.ipynb",
-            "@type": [
-                "File",
-                "SoftwareSourceCode"
-            ],
-            "author": [
-                {
-                    "@id": "https://orcid.org/0000-0001-7956-4498"
-                }
-            ],
-            "category": "Harvesting images",
-            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
-            "conformsTo": {
-                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
-            },
-            "description": "This notebook shows how to download all the cover images from a specified periodical. With some minor modifications you could download any page, or range of pages.",
-            "encodingFormat": "application/x-ipynb+json",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/get-covers-from-digitised-journal/"
-            },
-            "name": "Get covers (or any other pages) from a digitised journal in Trove",
-            "position": 7,
-            "programmingLanguage": {
-                "@id": "https://www.python.org/downloads/release/python-31012/"
-            },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/Get-page-images-from-a-Trove-journal.ipynb",
-            "workExample": []
-        },
-        {
             "@id": "https://glam-workbench.net/trove-journals/get-ocrd-text-from-digitised-journal/",
             "@type": "CreativeWork",
             "isPartOf": {
@@ -202,61 +744,6 @@
             },
             "name": "Get OCRd text from a digitised journal in Trove",
             "url": "https://glam-workbench.net/trove-journals/get-ocrd-text-from-digitised-journal/"
-        },
-        {
-            "@id": "Get-text-from-a-Trove-journal.ipynb",
-            "@type": [
-                "File",
-                "SoftwareSourceCode"
-            ],
-            "author": [
-                {
-                    "@id": "https://orcid.org/0000-0001-7956-4498"
-                }
-            ],
-            "category": "Harvesting text",
-            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
-            "conformsTo": {
-                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
-            },
-            "description": "Many of the digitised periodicals available in Trove make OCRd text available for download. This notebook helps you download all the OCRd text from a single periodical \u2013 \u00adone text file for each issue.",
-            "encodingFormat": "application/x-ipynb+json",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/get-ocrd-text-from-digitised-journal/"
-            },
-            "name": "Get OCRd text from a digitised journal in Trove",
-            "position": 4,
-            "programmingLanguage": {
-                "@id": "https://www.python.org/downloads/release/python-31012/"
-            },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/Get-text-from-a-Trove-journal.ipynb",
-            "workExample": []
-        },
-        {
-            "@id": "word_frequences_in_digitised_journals.ipynb",
-            "@type": [
-                "File",
-                "SoftwareSourceCode"
-            ],
-            "author": [
-                {
-                    "@id": "https://orcid.org/0000-0001-7956-4498"
-                }
-            ],
-            "category": "",
-            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
-            "conformsTo": {
-                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
-            },
-            "description": "",
-            "encodingFormat": "application/x-ipynb+json",
-            "name": "Word frequencies in digitised journals",
-            "position": 0,
-            "programmingLanguage": {
-                "@id": "https://www.python.org/downloads/release/python-31012/"
-            },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/word_frequences_in_digitised_journals.ipynb",
-            "workExample": []
         },
         {
             "@id": "https://glam-workbench.net/trove-journals/get-ocrd-text-from-all-journals/",
@@ -268,60 +755,6 @@
             "url": "https://glam-workbench.net/trove-journals/get-ocrd-text-from-all-journals/"
         },
         {
-            "@id": "Download-text-for-all-digitised-journals.ipynb",
-            "@type": [
-                "File",
-                "SoftwareSourceCode"
-            ],
-            "author": [
-                {
-                    "@id": "https://orcid.org/0000-0001-7956-4498"
-                }
-            ],
-            "category": "Harvesting text",
-            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
-            "conformsTo": {
-                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
-            },
-            "description": "This notebook helps you download all the OCRd text from all (or most of?) Trove's digitised periodicals, creating \u00adone text file for each issue. It also saves a CSV-formatted list of the issues in each periodical.",
-            "encodingFormat": "application/x-ipynb+json",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/get-ocrd-text-from-all-journals/"
-            },
-            "name": "Download the OCRd text for ALL the digitised periodicals in Trove!",
-            "position": 5,
-            "programmingLanguage": {
-                "@id": "https://www.python.org/downloads/release/python-31012/"
-            },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/Download-text-for-all-digitised-journals.ipynb",
-            "workExample": []
-        },
-        {
-            "@id": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodical-issues.csv",
-            "@type": [
-                "File",
-                "Dataset"
-            ],
-            "contentSize": 9221860,
-            "dateModified": "2024-03-18",
-            "encodingFormat": "text/csv",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/periodicals-data-api/"
-            },
-            "name": "periodical-issues.csv",
-            "sdDatePublished": "2024-03-19",
-            "size": 37015,
-            "url": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodical-issues.csv",
-            "workExample": [
-                {
-                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/metadata.json"
-                },
-                {
-                    "@id": "https://tdg.glam-workbench.net/other-digitised-resources/periodicals/overview.html"
-                }
-            ]
-        },
-        {
             "@id": "https://glam-workbench.net/trove-journals/ocrd-text-all-journals/",
             "@type": "CreativeWork",
             "isPartOf": {
@@ -329,24 +762,6 @@
             },
             "name": "OCRd text from Trove digitised journals",
             "url": "https://glam-workbench.net/trove-journals/ocrd-text-all-journals/"
-        },
-        {
-            "@id": "https://trove-journals.s3.ap-southeast-2.amazonaws.com/trove-periodicals.zip",
-            "@type": [
-                "File",
-                "Dataset"
-            ],
-            "contentSize": 3669452484,
-            "dateModified": "2024-03-12",
-            "description": "This dataset contains OCRd text and metadata harvested from digitised periodicals in Trove.\n\nThe zip file contains a directory for each periodical which is named using it's title and identifier, eg: `14th-company-magazine-nla.obj-15956697`. Each directory contains a CSV-formatted list of issues and a subdirectory named `texts` that contains a text file for each issue with OCRd text, The text files are named using the issue's date and identifier, eg: `1918-06-14-nla.obj-15967449.txt`. If text was successfully downloaded from an issue, the `issues.csv` file will inlcude the name of the text file in the `text_file` column.",
-            "encodingFormat": "application/zip",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/ocrd-text-all-journals/"
-            },
-            "name": "trove-periodicals.zip",
-            "sdDatePublished": "2024-03-19",
-            "url": "https://trove-journals.s3.ap-southeast-2.amazonaws.com/trove-periodicals.zip",
-            "workExample": []
         },
         {
             "@id": "#Download-text-for-all-digitised-journals_run_0",
@@ -392,42 +807,6 @@
             "url": "https://glam-workbench.net/trove-journals/sydney-telephone-directories/"
         },
         {
-            "@id": "index-each-line-in-series.ipynb",
-            "@type": [
-                "File",
-                "SoftwareSourceCode"
-            ],
-            "author": [
-                {
-                    "@id": "https://orcid.org/0000-0001-7956-4498"
-                }
-            ],
-            "category": "Harvesting text",
-            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
-            "conformsTo": {
-                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
-            },
-            "description": "The code here was used to create the NSW Post Office Directories search interface which helps you search across 54 volumes from 1886 to 1950. The same code, with minor modifications, could be used to index any publication where it would be useful to search by line (rather than Trove's default 'article') \u2013 for example, lists, directories and gazetteers \u2013 turning them into searchable databases.",
-            "encodingFormat": "application/x-ipynb+json",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/create-text-db-indexed-by-line/"
-            },
-            "name": "Create a database to search across each line of text in a series of volumes",
-            "position": 6,
-            "programmingLanguage": {
-                "@id": "https://www.python.org/downloads/release/python-31012/"
-            },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/index-each-line-in-series.ipynb",
-            "workExample": [
-                {
-                    "@id": "https://glam-workbench.net/nsw-post-office-directories/"
-                },
-                {
-                    "@id": "https://glam-workbench.net/trove-journals/sydney-telephone-directories/"
-                }
-            ]
-        },
-        {
             "@id": "https://glam-workbench.net/trove-journals/finding-editorial-cartoons-in-bulletin/",
             "@type": "CreativeWork",
             "isPartOf": {
@@ -435,35 +814,6 @@
             },
             "name": "Finding editorial cartoons in the Bulletin",
             "url": "https://glam-workbench.net/trove-journals/finding-editorial-cartoons-in-bulletin/"
-        },
-        {
-            "@id": "Finding_editorial_cartoons_in_the_Bulletin.ipynb",
-            "@type": [
-                "File",
-                "SoftwareSourceCode"
-            ],
-            "author": [
-                {
-                    "@id": "https://orcid.org/0000-0001-7956-4498"
-                }
-            ],
-            "category": "Harvesting images",
-            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
-            "conformsTo": {
-                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
-            },
-            "description": "This notebook describes a method for finding and saving full-page editorial cartoons from *The Bulletin*.",
-            "encodingFormat": "application/x-ipynb+json",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/finding-editorial-cartoons-in-bulletin/"
-            },
-            "name": "Finding editorial cartoons in the Bulletin",
-            "position": 8,
-            "programmingLanguage": {
-                "@id": "https://www.python.org/downloads/release/python-31012/"
-            },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/Finding_editorial_cartoons_in_the_Bulletin.ipynb",
-            "workExample": []
         },
         {
             "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/blob/main/bulletin-editorial-cartoons.db&install=datasette-json-html&metadata=https://raw.githubusercontent.com/GLAM-Workbench/bulletin-editorial-cartoons/main/metadata.json#/bulletin-editorial-cartoons/cartoons",
@@ -568,114 +918,6 @@
             ]
         },
         {
-            "@id": "https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/raw/main/bulletin-editorial-cartoons.csv",
-            "@type": [
-                "File",
-                "Dataset"
-            ],
-            "contentSize": 1917989,
-            "dateModified": "2024-03-19",
-            "encodingFormat": "text/csv",
-            "isPartOf": {
-                "@id": "https://github.com/GLAM-Workbench/bulletin-editorial-cartoons"
-            },
-            "name": "bulletin-editorial-cartoons.csv",
-            "sdDatePublished": "2024-03-19",
-            "size": 3471,
-            "url": "https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/raw/main/bulletin-editorial-cartoons.csv"
-        },
-        {
-            "@id": "https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/raw/main/bulletin-editorial-cartoons.db",
-            "@type": [
-                "File",
-                "Dataset"
-            ],
-            "contentSize": 3522560,
-            "dateModified": "2024-03-19",
-            "description": "This is an SQLite database formatted for use with Datasette-Lite. As well as metadata from the `bulletin-editorial-cartoons.csv` file it includes a thumbnail column to display the cartoon.",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/bulletin-cartoons-collection/"
-            },
-            "name": "bulletin-editorial-cartoons.db",
-            "sdDatePublished": "2024-03-19",
-            "url": "https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/raw/main/bulletin-editorial-cartoons.db",
-            "workExample": [
-                {
-                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/blob/main/bulletin-editorial-cartoons.db&install=datasette-json-html&metadata=https://raw.githubusercontent.com/GLAM-Workbench/bulletin-editorial-cartoons/main/metadata.json#/bulletin-editorial-cartoons/cartoons"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/altjl6jixwv5pt0/bulletin-1886-1889.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/p15swmact2c9euf/bulletin-1890-1899.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/0rivg50s8qam2et/bulletin-1900-1909.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/pdsj6xjot0l928w/bulletin-1910-1919.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/64x9y5nvgez1q3o/bulletin-1920-1929.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/8mytp5qhqcrctt3/bulletin-1930-1939.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/go3vyuqq0td6oqd/bulletin-1940-1949.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/klcv0gyjs81c0pm/bulletin-1950-1952.pdf?dl=0"
-                }
-            ]
-        },
-        {
-            "@id": "https://trove-journals.s3.ap-southeast-2.amazonaws.com/bulletin_cartoons.zip",
-            "@type": [
-                "File",
-                "Dataset"
-            ],
-            "contentSize": 62312351569,
-            "dateModified": "2024-03-14",
-            "description": "This dataset contains high-resolution images of 3,471 full-page editorial cartoons harvested from *The Bulletin*, 1886 to 1952.\n\nThe names of each image file provide useful contextual metadata. For example, the file name `19330412-2774-nla.obj-606969767-7.jpg` tells you:\n\n* `19330412` \u2013 the cartoon was published on 12 April 1933\n* `2774` \u2013 it was published in issue number 2774\n* `nla.obj-606969767` \u2013 the Trove identifier for the issue, can be used to make a url eg `https://nla.gov.au/nla.obj-606969767`\n* `7` \u2013 on page 7",
-            "encodingFormat": "application/zip",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/bulletin-cartoons-collection/"
-            },
-            "name": "bulletin_cartoons.zip",
-            "sdDatePublished": "2024-03-19",
-            "url": "https://trove-journals.s3.ap-southeast-2.amazonaws.com/bulletin_cartoons.zip",
-            "workExample": [
-                {
-                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/blob/main/bulletin-editorial-cartoons.db&install=datasette-json-html&metadata=https://raw.githubusercontent.com/GLAM-Workbench/bulletin-editorial-cartoons/main/metadata.json#/bulletin-editorial-cartoons/cartoons"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/altjl6jixwv5pt0/bulletin-1886-1889.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/p15swmact2c9euf/bulletin-1890-1899.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/0rivg50s8qam2et/bulletin-1900-1909.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/pdsj6xjot0l928w/bulletin-1910-1919.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/64x9y5nvgez1q3o/bulletin-1920-1929.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/8mytp5qhqcrctt3/bulletin-1930-1939.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/go3vyuqq0td6oqd/bulletin-1940-1949.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/klcv0gyjs81c0pm/bulletin-1950-1952.pdf?dl=0"
-                }
-            ]
-        },
-        {
             "@id": "#Finding_editorial_cartoons_in_the_Bulletin_run_0",
             "@type": "CreateAction",
             "actionStatus": {
@@ -699,32 +941,6 @@
             ]
         },
         {
-            "@id": "tfidf_in_digitised_journals.ipynb",
-            "@type": [
-                "File",
-                "SoftwareSourceCode"
-            ],
-            "author": [
-                {
-                    "@id": "https://orcid.org/0000-0001-7956-4498"
-                }
-            ],
-            "category": "",
-            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
-            "conformsTo": {
-                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
-            },
-            "description": "",
-            "encodingFormat": "application/x-ipynb+json",
-            "name": "TF-IDF in digitised journals",
-            "position": 0,
-            "programmingLanguage": {
-                "@id": "https://www.python.org/downloads/release/python-31012/"
-            },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/tfidf_in_digitised_journals.ipynb",
-            "workExample": []
-        },
-        {
             "@id": "https://glam-workbench.net/trove-journals/periodicals-enrich-for-datasette/",
             "@type": "CreativeWork",
             "isPartOf": {
@@ -732,56 +948,6 @@
             },
             "name": "Enrich the list of periodicals from the Trove API",
             "url": "https://glam-workbench.net/trove-journals/periodicals-enrich-for-datasette/"
-        },
-        {
-            "@id": "periodicals-enrich-for-datasette.ipynb",
-            "@type": [
-                "File",
-                "SoftwareSourceCode"
-            ],
-            "author": [
-                {
-                    "@id": "https://orcid.org/0000-0001-7956-4498"
-                }
-            ],
-            "category": "Harvesting metadata",
-            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
-            "conformsTo": {
-                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
-            },
-            "description": "This notebook tries to fix some problems with the periodicals data from the Trove API. It also enriches the harvested data by extracting additional information from the website. It creates two datasets \u2013 one for titles and one for issues \u2013 and loads these into an SQLite database for use with Datasette Lite.",
-            "encodingFormat": "application/x-ipynb+json",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/periodicals-enrich-for-datasette/"
-            },
-            "name": "Enrich the list of periodicals from the Trove API",
-            "position": 2,
-            "programmingLanguage": {
-                "@id": "https://www.python.org/downloads/release/python-31012/"
-            },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/periodicals-enrich-for-datasette.ipynb",
-            "workExample": []
-        },
-        {
-            "@id": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/titles-issues-added.ndjson",
-            "@type": [
-                "File",
-                "Dataset"
-            ],
-            "contentSize": 4030430,
-            "dateModified": "2024-03-11",
-            "description": "This file contains data describing digitised periodicals available from Trove. The titles and issues data was harvested from the Trove API and combined into a single file. Duplicate titles and Commonwealth Parliamentary Papers were removed. Additional data on issues missing from the API results was scraped from Trove web pages.",
-            "license": {
-                "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
-            },
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/periodicals-data-api/"
-            },
-            "name": "titles-issues-added.ndjson",
-            "sdDatePublished": "2024-03-19",
-            "size": 949,
-            "url": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/titles-issues-added.ndjson",
-            "workExample": []
         },
         {
             "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/metadata.json",
@@ -823,47 +989,6 @@
             ]
         },
         {
-            "@id": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodical-titles.csv",
-            "@type": [
-                "File",
-                "Dataset"
-            ],
-            "contentSize": 295509,
-            "dateModified": "2024-03-18",
-            "encodingFormat": "text/csv",
-            "isPartOf": {
-                "@id": "https://github.com/GLAM-Workbench/trove-periodicals-data/"
-            },
-            "name": "periodical-titles.csv",
-            "sdDatePublished": "2024-03-19",
-            "size": 908,
-            "url": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodical-titles.csv"
-        },
-        {
-            "@id": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodicals.db",
-            "@type": [
-                "File",
-                "Dataset"
-            ],
-            "contentSize": 12259328,
-            "dateModified": "2024-03-14",
-            "description": "This SQLite database contains data relating to digitised periodical titles and issues from Trove. It was created for use with Datasette-Lite. There is a foreign key link between the issues and the titles, making it easy to find the issues from any title. Some extra columns have been added to include thumbnails and provide links to search for articles in Trove and download OCRd text.",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/periodicals-data-api/"
-            },
-            "name": "periodicals.db",
-            "sdDatePublished": "2024-03-19",
-            "url": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodicals.db",
-            "workExample": [
-                {
-                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/metadata.json"
-                },
-                {
-                    "@id": "https://tdg.glam-workbench.net/other-digitised-resources/periodicals/overview.html"
-                }
-            ]
-        },
-        {
             "@id": "#periodicals-enrich-for-datasette_run_0",
             "@type": "CreateAction",
             "actionStatus": {
@@ -901,35 +1026,6 @@
             "url": "https://glam-workbench.net/trove-journals/periodicals-from-api/"
         },
         {
-            "@id": "periodicals-from-api.ipynb",
-            "@type": [
-                "File",
-                "SoftwareSourceCode"
-            ],
-            "author": [
-                {
-                    "@id": "https://orcid.org/0000-0001-7956-4498"
-                }
-            ],
-            "category": "Harvesting metadata",
-            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
-            "conformsTo": {
-                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
-            },
-            "description": "This notebook uses the /magazine/titles endpoint of the Trove API to get details of digitised periodical titles and issues. It then tries to fix some problems with the data by removing duplicates and Parliamentary Papers, and checking the lists of issues against those scraped from the Trove website.",
-            "encodingFormat": "application/x-ipynb+json",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/periodicals-from-api/"
-            },
-            "name": "Get details of periodicals from the `/magazine/titles` API endpoint",
-            "position": 1,
-            "programmingLanguage": {
-                "@id": "https://www.python.org/downloads/release/python-31012/"
-            },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/periodicals-from-api.ipynb",
-            "workExample": []
-        },
-        {
             "@id": "#periodicals-from-api_run_0",
             "@type": "CreateAction",
             "actionStatus": {
@@ -956,35 +1052,6 @@
             "url": "https://glam-workbench.net/trove-journals/create-list-digitised-journals/"
         },
         {
-            "@id": "Create-digitised-journals-list.ipynb",
-            "@type": [
-                "File",
-                "SoftwareSourceCode"
-            ],
-            "author": [
-                {
-                    "@id": "https://orcid.org/0000-0001-7956-4498"
-                }
-            ],
-            "category": "Harvesting metadata",
-            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
-            "conformsTo": {
-                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
-            },
-            "description": "This notebook creates a list of digitised periodicals in Trove by searching for the digital identifier string `nla.obj` and limiting the results to periodicals. Before the Trove API introduced the `/magazine/titles` endpoint, this was the only way to generate such a list. This method produces slightly different results to the new API endpoint, and it might be useful to compare the two to see what each method misses.",
-            "encodingFormat": "application/x-ipynb+json",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/create-list-digitised-journals/"
-            },
-            "name": "Create a list of Trove's digital periodicals",
-            "position": 3,
-            "programmingLanguage": {
-                "@id": "https://www.python.org/downloads/release/python-31012/"
-            },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/Create-digitised-journals-list.ipynb",
-            "workExample": []
-        },
-        {
             "@id": "https://glam-workbench.net/trove-journals/csv-digital-journals/",
             "@type": "CreativeWork",
             "isPartOf": {
@@ -1005,23 +1072,6 @@
             "workExample": []
         },
         {
-            "@id": "https://github.com/GLAM-Workbench/trove-periodical-works-data/raw/main/periodical-works.csv",
-            "@type": [
-                "File",
-                "Dataset"
-            ],
-            "contentSize": 612617,
-            "dateModified": "2024-03-11",
-            "encodingFormat": "text/csv",
-            "isPartOf": {
-                "@id": "https://github.com/GLAM-Workbench/trove-periodical-works-data"
-            },
-            "name": "periodical-works.csv",
-            "sdDatePublished": "2024-03-19",
-            "size": 929,
-            "url": "https://github.com/GLAM-Workbench/trove-periodical-works-data/raw/main/periodical-works.csv"
-        },
-        {
             "@id": "#Create-digitised-journals-list_run_0",
             "@type": "CreateAction",
             "actionStatus": {
@@ -1035,6 +1085,54 @@
             "result": [
                 {
                     "@id": "https://github.com/GLAM-Workbench/trove-periodical-works-data/raw/main/periodical-works.csv"
+                }
+            ]
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-journals/harvest-illustrations-from-periodicals/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Harvest illustrations from periodicals",
+            "url": "https://glam-workbench.net/trove-journals/harvest-illustrations-from-periodicals/"
+        },
+        {
+            "@id": "https://www.dropbox.com/scl/fo/60imdoyf4ss2b6vh01q1w/h?rlkey=zuwbjaqnmr7qvkuinovdu5ot0&dl=0",
+            "@type": "CreativeWork",
+            "name": "Collection of cat photographs",
+            "url": "https://www.dropbox.com/scl/fo/60imdoyf4ss2b6vh01q1w/h?rlkey=zuwbjaqnmr7qvkuinovdu5ot0&dl=0"
+        },
+        {
+            "@id": "harvest-illustrations-from-periodicals.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "Harvesting images",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "This notebook shows you how to harvest illustrations from Trove's digitised periodicals. It makes use of layout information generated by Trove's OCR processing to find the coordinates of illustrations on a digitised page. Using these coordinates the illustrations can be cropped from the page image and saved.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/harvest-illustrations-from-periodicals/"
+            },
+            "name": "Harvest illustrations from periodicals",
+            "position": 9,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/harvest-illustrations-from-periodicals.ipynb",
+            "workExample": [
+                {
+                    "@id": "https://www.dropbox.com/scl/fo/60imdoyf4ss2b6vh01q1w/h?rlkey=zuwbjaqnmr7qvkuinovdu5ot0&dl=0"
                 }
             ]
         }
