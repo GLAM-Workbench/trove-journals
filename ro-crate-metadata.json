@@ -71,9 +71,6 @@
                 },
                 {
                     "@id": "harvest-illustrations-from-periodicals.ipynb"
-                },
-                {
-                    "@id": "ned-periodicals.ipynb"
                 }
             ],
             "license": {
@@ -729,6 +726,15 @@
             "orcid": "https://orcid.org/0000-0001-7956-4498"
         },
         {
+            "@id": "#create_version_v2_0_1",
+            "@type": "UpdateAction",
+            "actionStatus": {
+                "@id": "http://schema.org/CompletedActionStatus"
+            },
+            "endDate": "2024-04-04",
+            "name": "Create version v2.0.1"
+        },
+        {
             "@id": "https://spdx.org/licenses/MIT",
             "@type": "CreativeWork",
             "name": "MIT License",
@@ -926,31 +932,31 @@
             "url": "https://github.com/GLAM-Workbench/bulletin-editorial-cartoons",
             "workExample": [
                 {
-                    "@id": "https://www.dropbox.com/s/pdsj6xjot0l928w/bulletin-1910-1919.pdf?dl=0"
+                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/blob/main/bulletin-editorial-cartoons.db&install=datasette-json-html&metadata=https://raw.githubusercontent.com/GLAM-Workbench/bulletin-editorial-cartoons/main/metadata.json#/bulletin-editorial-cartoons/cartoons"
                 },
                 {
-                    "@id": "https://www.dropbox.com/s/64x9y5nvgez1q3o/bulletin-1920-1929.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/go3vyuqq0td6oqd/bulletin-1940-1949.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/klcv0gyjs81c0pm/bulletin-1950-1952.pdf?dl=0"
+                    "@id": "https://www.dropbox.com/s/8mytp5qhqcrctt3/bulletin-1930-1939.pdf?dl=0"
                 },
                 {
                     "@id": "https://www.dropbox.com/s/altjl6jixwv5pt0/bulletin-1886-1889.pdf?dl=0"
                 },
                 {
-                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/blob/main/bulletin-editorial-cartoons.db&install=datasette-json-html&metadata=https://raw.githubusercontent.com/GLAM-Workbench/bulletin-editorial-cartoons/main/metadata.json#/bulletin-editorial-cartoons/cartoons"
+                    "@id": "https://www.dropbox.com/s/go3vyuqq0td6oqd/bulletin-1940-1949.pdf?dl=0"
                 },
                 {
-                    "@id": "https://www.dropbox.com/s/p15swmact2c9euf/bulletin-1890-1899.pdf?dl=0"
+                    "@id": "https://www.dropbox.com/s/pdsj6xjot0l928w/bulletin-1910-1919.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/klcv0gyjs81c0pm/bulletin-1950-1952.pdf?dl=0"
                 },
                 {
                     "@id": "https://www.dropbox.com/s/0rivg50s8qam2et/bulletin-1900-1909.pdf?dl=0"
                 },
                 {
-                    "@id": "https://www.dropbox.com/s/8mytp5qhqcrctt3/bulletin-1930-1939.pdf?dl=0"
+                    "@id": "https://www.dropbox.com/s/64x9y5nvgez1q3o/bulletin-1920-1929.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/p15swmact2c9euf/bulletin-1890-1899.pdf?dl=0"
                 }
             ]
         },
@@ -1018,10 +1024,10 @@
             "url": "https://github.com/GLAM-Workbench/trove-periodicals-data/",
             "workExample": [
                 {
-                    "@id": "https://tdg.glam-workbench.net/other-digitised-resources/periodicals/overview.html"
+                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/metadata.json"
                 },
                 {
-                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-periodicals-data/blob/main/metadata.json"
+                    "@id": "https://tdg.glam-workbench.net/other-digitised-resources/periodicals/overview.html"
                 }
             ]
         },
@@ -1139,70 +1145,6 @@
             "@type": "CreativeWork",
             "name": "Collection of cat photographs",
             "url": "https://www.dropbox.com/scl/fo/60imdoyf4ss2b6vh01q1w/h?rlkey=zuwbjaqnmr7qvkuinovdu5ot0&dl=0"
-        },
-        {
-            "@id": "#create_version_v2_0_0",
-            "@type": "UpdateAction",
-            "actionStatus": {
-                "@id": "http://schema.org/CompletedActionStatus"
-            },
-            "endDate": "2024-03-25",
-            "name": "Create version v2.0.0"
-        },
-        {
-            "@id": "#create_version_v2_0_1",
-            "@type": "UpdateAction",
-            "actionStatus": {
-                "@id": "http://schema.org/CompletedActionStatus"
-            },
-            "endDate": "2024-04-04",
-            "name": "Create version v2.0.1"
-        },
-        {
-            "@id": "ned-periodicals.ipynb",
-            "@type": [
-                "File",
-                "SoftwareSourceCode"
-            ],
-            "author": [
-                {
-                    "@id": "https://orcid.org/0000-0001-7956-4498"
-                }
-            ],
-            "category": "Harvesting metadata",
-            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
-            "conformsTo": {
-                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
-            },
-            "description": "This notebook creates a list of digitised periodicals in Trove by searching for the digital identifier string `nla.obj` and limiting the results to periodicals. Before the Trove API introduced the `/magazine/titles` endpoint, this was the only way to generate such a list. This method produces slightly different results to the new API endpoint, and it might be useful to compare the two to see what each method misses.",
-            "encodingFormat": "application/x-ipynb+json",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/create-list-digitised-journals/"
-            },
-            "name": "Create a list of Trove's digital periodicals",
-            "position": 3,
-            "programmingLanguage": {
-                "@id": "https://www.python.org/downloads/release/python-31012/"
-            },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/ned-periodicals.ipynb",
-            "workExample": []
-        },
-        {
-            "@id": "#ned-periodicals_run_0",
-            "@type": "CreateAction",
-            "actionStatus": {
-                "@id": "http://schema.org/CompletedActionStatus"
-            },
-            "endDate": "2024-03-11",
-            "instrument": {
-                "@id": "ned-periodicals.ipynb"
-            },
-            "name": "Run of notebook: ned-periodicals.ipynb",
-            "result": [
-                {
-                    "@id": "https://github.com/GLAM-Workbench/trove-periodical-works-data/raw/main/periodical-works.csv"
-                }
-            ]
         }
     ]
 }
