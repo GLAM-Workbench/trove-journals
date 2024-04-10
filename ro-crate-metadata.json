@@ -9,7 +9,7 @@
                     "@id": "https://orcid.org/0000-0001-7956-4498"
                 }
             ],
-            "datePublished": "2024-04-04",
+            "datePublished": "2024-04-10",
             "description": "A GLAM Workbench repository",
             "hasPart": [
                 {
@@ -70,6 +70,18 @@
                     "@id": "https://github.com/GLAM-Workbench/trove-periodical-works-data/raw/main/periodical-works.csv"
                 },
                 {
+                    "@id": "harvest-ned-periodicals.ipynb"
+                },
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodicals.csv"
+                },
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodical-issues.csv"
+                },
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodicals.db"
+                },
+                {
                     "@id": "harvest-illustrations-from-periodicals.ipynb"
                 }
             ],
@@ -81,7 +93,7 @@
             },
             "name": "trove-journals",
             "url": "https://github.com/GLAM-Workbench/trove-journals/",
-            "version": "v2.0.1"
+            "version": "v2.1.0"
         },
         {
             "@id": "ro-crate-metadata.json",
@@ -222,7 +234,7 @@
                 "@id": "https://glam-workbench.net/trove-journals/periodicals-data-api/"
             },
             "name": "periodical-issues.csv",
-            "sdDatePublished": "2024-04-04",
+            "sdDatePublished": "2024-04-10",
             "size": 37015,
             "url": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodical-issues.csv",
             "workExample": [
@@ -248,7 +260,7 @@
                 "@id": "https://glam-workbench.net/trove-journals/ocrd-text-all-journals/"
             },
             "name": "trove-periodicals.zip",
-            "sdDatePublished": "2024-04-04",
+            "sdDatePublished": "2024-04-10",
             "url": "https://trove-journals.s3.ap-southeast-2.amazonaws.com/trove-periodicals.zip",
             "workExample": []
         },
@@ -333,7 +345,7 @@
                 "@id": "https://glam-workbench.net/trove-journals/bulletin-cartoons-collection/"
             },
             "name": "bulletin-editorial-cartoons.csv",
-            "sdDatePublished": "2024-04-04",
+            "sdDatePublished": "2024-04-10",
             "size": 3471,
             "url": "https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/raw/main/bulletin-editorial-cartoons.csv",
             "workExample": [
@@ -379,7 +391,7 @@
                 "@id": "https://glam-workbench.net/trove-journals/bulletin-cartoons-collection/"
             },
             "name": "bulletin-editorial-cartoons.db",
-            "sdDatePublished": "2024-04-04",
+            "sdDatePublished": "2024-04-10",
             "url": "https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/raw/main/bulletin-editorial-cartoons.db",
             "workExample": [
                 {
@@ -425,7 +437,7 @@
                 "@id": "https://glam-workbench.net/trove-journals/bulletin-cartoons-collection/"
             },
             "name": "bulletin_cartoons.zip",
-            "sdDatePublished": "2024-04-04",
+            "sdDatePublished": "2024-04-10",
             "url": "https://trove-journals.s3.ap-southeast-2.amazonaws.com/bulletin_cartoons.zip",
             "workExample": [
                 {
@@ -528,7 +540,7 @@
                 "@id": "https://glam-workbench.net/trove-journals/periodicals-data-api/"
             },
             "name": "titles-issues-added.ndjson",
-            "sdDatePublished": "2024-04-04",
+            "sdDatePublished": "2024-04-10",
             "size": 949,
             "url": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/titles-issues-added.ndjson",
             "workExample": []
@@ -549,7 +561,7 @@
                 "@id": "https://glam-workbench.net/trove-journals/periodicals-data-api/"
             },
             "name": "periodical-titles.csv",
-            "sdDatePublished": "2024-04-04",
+            "sdDatePublished": "2024-04-10",
             "size": 908,
             "url": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodical-titles.csv",
             "workExample": [
@@ -574,7 +586,7 @@
                 "@id": "https://glam-workbench.net/trove-journals/periodicals-data-api/"
             },
             "name": "periodicals.db",
-            "sdDatePublished": "2024-04-04",
+            "sdDatePublished": "2024-04-10",
             "url": "https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodicals.db",
             "workExample": [
                 {
@@ -659,10 +671,107 @@
                 "@id": "https://glam-workbench.net/trove-journals/csv-digital-journals/"
             },
             "name": "periodical-works.csv",
-            "sdDatePublished": "2024-04-04",
+            "sdDatePublished": "2024-04-10",
             "size": 929,
             "url": "https://github.com/GLAM-Workbench/trove-periodical-works-data/raw/main/periodical-works.csv",
             "workExample": []
+        },
+        {
+            "@id": "harvest-ned-periodicals.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "Harvesting metadata",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "This notebook harvests details of periodicals submitted to Trove through the National edeposit scheme (NED). It creates two datasets, one containing details of the periodical titles, and the other listing all the available issues.\n\nThere are two main harvesting steps. The first is to search for periodicals using the API's /result endpoint using the following parameters:\n\n* `q` set to `\"nla.obj\" nuc:\"ANL:NED\"`\n* `format` facet to `Periodical`\n* and `l-availability` set to `y`\n\nThe work records returned by this search are unpacked, and individual versions saved to make sure we get everything. Once this is complete, any duplicate records are merged.\n\nThe second step harvests details of issues by extracting a list of issues for each title from the collection viewer. It then supplements the issue metadata by extracting information for each issue from the journal viewer.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/harvest-ned-periodicals/"
+            },
+            "name": "Harvest details of periodicals submitted to Trove through the National edeposit scheme (NED)",
+            "position": 4,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/harvest-ned-periodicals.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodicals.csv",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 4899393,
+            "dateModified": "2024-04-10",
+            "encodingFormat": "text/csv",
+            "isPartOf": {
+                "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data"
+            },
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/trove-ned-periodicals-data/"
+            },
+            "name": "ned-periodicals.csv",
+            "sdDatePublished": "2024-04-10",
+            "size": 7973,
+            "url": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodicals.csv",
+            "workExample": [
+                {
+                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/ned-periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/metadata.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodical-issues.csv",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 40111645,
+            "dateModified": "2024-04-10",
+            "encodingFormat": "text/csv",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/trove-ned-periodicals-data/"
+            },
+            "name": "ned-periodical-issues.csv",
+            "sdDatePublished": "2024-04-10",
+            "size": 156152,
+            "url": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodical-issues.csv",
+            "workExample": [
+                {
+                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/ned-periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/metadata.json"
+                }
+            ]
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodicals.db",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 57741312,
+            "dateModified": "2024-04-10",
+            "description": "This SQLite database contains data relating to digitised periodical titles and issues from Trove. It was created for use with Datasette-Lite. There is a foreign key link between the issues and the titles, making it easy to find the issues from any title. Some extra columns have been added to include thumbnails and download links.",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/trove-ned-periodicals-data/"
+            },
+            "name": "ned-periodicals.db",
+            "sdDatePublished": "2024-04-10",
+            "url": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodicals.db",
+            "workExample": [
+                {
+                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/ned-periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/metadata.json"
+                }
+            ]
         },
         {
             "@id": "harvest-illustrations-from-periodicals.ipynb",
@@ -724,15 +833,6 @@
             "mainEntityOfPage": "https://timsherratt.au",
             "name": "Sherratt, Tim",
             "orcid": "https://orcid.org/0000-0001-7956-4498"
-        },
-        {
-            "@id": "#create_version_v2_0_1",
-            "@type": "UpdateAction",
-            "actionStatus": {
-                "@id": "http://schema.org/CompletedActionStatus"
-            },
-            "endDate": "2024-04-04",
-            "name": "Create version v2.0.1"
         },
         {
             "@id": "https://spdx.org/licenses/MIT",
@@ -932,31 +1032,31 @@
             "url": "https://github.com/GLAM-Workbench/bulletin-editorial-cartoons",
             "workExample": [
                 {
-                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/blob/main/bulletin-editorial-cartoons.db&install=datasette-json-html&metadata=https://raw.githubusercontent.com/GLAM-Workbench/bulletin-editorial-cartoons/main/metadata.json#/bulletin-editorial-cartoons/cartoons"
+                    "@id": "https://www.dropbox.com/s/0rivg50s8qam2et/bulletin-1900-1909.pdf?dl=0"
                 },
                 {
                     "@id": "https://www.dropbox.com/s/8mytp5qhqcrctt3/bulletin-1930-1939.pdf?dl=0"
                 },
                 {
-                    "@id": "https://www.dropbox.com/s/altjl6jixwv5pt0/bulletin-1886-1889.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/go3vyuqq0td6oqd/bulletin-1940-1949.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/pdsj6xjot0l928w/bulletin-1910-1919.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/klcv0gyjs81c0pm/bulletin-1950-1952.pdf?dl=0"
-                },
-                {
-                    "@id": "https://www.dropbox.com/s/0rivg50s8qam2et/bulletin-1900-1909.pdf?dl=0"
+                    "@id": "https://www.dropbox.com/s/p15swmact2c9euf/bulletin-1890-1899.pdf?dl=0"
                 },
                 {
                     "@id": "https://www.dropbox.com/s/64x9y5nvgez1q3o/bulletin-1920-1929.pdf?dl=0"
                 },
                 {
-                    "@id": "https://www.dropbox.com/s/p15swmact2c9euf/bulletin-1890-1899.pdf?dl=0"
+                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/blob/main/bulletin-editorial-cartoons.db&install=datasette-json-html&metadata=https://raw.githubusercontent.com/GLAM-Workbench/bulletin-editorial-cartoons/main/metadata.json#/bulletin-editorial-cartoons/cartoons"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/go3vyuqq0td6oqd/bulletin-1940-1949.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/altjl6jixwv5pt0/bulletin-1886-1889.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/klcv0gyjs81c0pm/bulletin-1950-1952.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/pdsj6xjot0l928w/bulletin-1910-1919.pdf?dl=0"
                 }
             ]
         },
@@ -1132,6 +1232,68 @@
             ]
         },
         {
+            "@id": "https://glam-workbench.net/trove-journals/harvest-ned-periodicals/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Harvest details of periodicals submitted to Trove through the National edeposit scheme (NED)",
+            "url": "https://glam-workbench.net/trove-journals/harvest-ned-periodicals/"
+        },
+        {
+            "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/ned-periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/metadata.json",
+            "@type": "CreativeWork",
+            "name": "Explore in Datasette",
+            "url": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/ned-periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/metadata.json"
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-journals/trove-ned-periodicals-data/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Details of periodicals submitted to Trove through the National edeposit scheme (NED)",
+            "url": "https://glam-workbench.net/trove-journals/trove-ned-periodicals-data/"
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data",
+            "@type": "Dataset",
+            "description": "This dataset contains details of periodical titles and issues submitted to the Trove through the NLA's National edeposit scheme. It includes CSV-formatted lists of titles and issues, and an SQLite database created for use with Datasette-Lite.",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-journals/trove-ned-periodicals-data/"
+            },
+            "name": "trove-ned-periodicals-data",
+            "url": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data",
+            "workExample": [
+                {
+                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/ned-periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/metadata.json"
+                }
+            ]
+        },
+        {
+            "@id": "#harvest-ned-periodicals_run_0",
+            "@type": "CreateAction",
+            "actionStatus": {
+                "@id": "http://schema.org/CompletedActionStatus"
+            },
+            "endDate": "2024-04-10",
+            "instrument": {
+                "@id": "harvest-ned-periodicals.ipynb"
+            },
+            "name": "Run of notebook: harvest-ned-periodicals.ipynb",
+            "result": [
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodicals.csv"
+                },
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodical-issues.csv"
+                },
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodicals.db"
+                }
+            ]
+        },
+        {
             "@id": "https://glam-workbench.net/trove-journals/harvest-illustrations-from-periodicals/",
             "@type": "CreativeWork",
             "isPartOf": {
@@ -1145,6 +1307,15 @@
             "@type": "CreativeWork",
             "name": "Collection of cat photographs",
             "url": "https://www.dropbox.com/scl/fo/60imdoyf4ss2b6vh01q1w/h?rlkey=zuwbjaqnmr7qvkuinovdu5ot0&dl=0"
+        },
+        {
+            "@id": "#create_version_v2_1_0",
+            "@type": "UpdateAction",
+            "actionStatus": {
+                "@id": "http://schema.org/CompletedActionStatus"
+            },
+            "endDate": "2024-04-10",
+            "name": "Create version v2.1.0"
         }
     ]
 }
