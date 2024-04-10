@@ -1,6 +1,6 @@
 # trove-journals
 
-CURRENT VERSION: v2.0.1
+CURRENT VERSION: v2.1.0
 
 A GLAM Workbench repository
 
@@ -17,20 +17,23 @@ For more information and documentation see the [Trove periodicals](https://glam-
 - [Enrich the list of periodicals from the Trove API](https://github.com/GLAM-Workbench/trove-journals/blob/master/periodicals-enrich-for-datasette.ipynb)
 - [Get details of periodicals from the `/magazine/titles` API endpoint](https://github.com/GLAM-Workbench/trove-journals/blob/master/periodicals-from-api.ipynb)
 - [Create a list of Trove's digital periodicals](https://github.com/GLAM-Workbench/trove-journals/blob/master/Create-digitised-journals-list.ipynb)
+- [Harvest details of periodicals submitted to Trove through the National edeposit scheme (NED)](https://github.com/GLAM-Workbench/trove-journals/blob/master/harvest-ned-periodicals.ipynb)
 - [Harvest illustrations from periodicals](https://github.com/GLAM-Workbench/trove-journals/blob/master/harvest-illustrations-from-periodicals.ipynb)
-- [Create a list of Trove's digital periodicals](https://github.com/GLAM-Workbench/trove-journals/blob/master/ned-periodicals.ipynb)
 
 
 ## Associated datasets
+- [ned-periodicals.db](https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodicals.db)
+- [trove-periodicals.zip](https://trove-journals.s3.ap-southeast-2.amazonaws.com/trove-periodicals.zip)
+- [periodicals.db](https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodicals.db)
+- [bulletin-editorial-cartoons.db](https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/raw/main/bulletin-editorial-cartoons.db)
 - [bulletin_cartoons.zip](https://trove-journals.s3.ap-southeast-2.amazonaws.com/bulletin_cartoons.zip)
 - [titles-issues-added.ndjson](https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/titles-issues-added.ndjson)
-- [bulletin-editorial-cartoons.db](https://github.com/GLAM-Workbench/bulletin-editorial-cartoons/raw/main/bulletin-editorial-cartoons.db)
-- [trove-periodicals-data](https://github.com/GLAM-Workbench/trove-periodicals-data/)
-- [trove-periodical-works-data](https://github.com/GLAM-Workbench/trove-periodical-works-data)
-- [trove-periodicals.zip](https://trove-journals.s3.ap-southeast-2.amazonaws.com/trove-periodicals.zip)
-- [periodical-issues.csv](https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodical-issues.csv)
-- [periodicals.db](https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodicals.db)
 - [bulletin-editorial-cartoons](https://github.com/GLAM-Workbench/bulletin-editorial-cartoons)
+- [trove-periodical-works-data](https://github.com/GLAM-Workbench/trove-periodical-works-data)
+- [trove-ned-periodicals-data](https://github.com/GLAM-Workbench/trove-ned-periodicals-data)
+- [periodical-issues.csv](https://github.com/GLAM-Workbench/trove-periodicals-data/raw/main/periodical-issues.csv)
+- [ned-periodical-issues.csv](https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodical-issues.csv)
+- [trove-periodicals-data](https://github.com/GLAM-Workbench/trove-periodicals-data/)
 
 
 <!-- START RUN INFO -->
