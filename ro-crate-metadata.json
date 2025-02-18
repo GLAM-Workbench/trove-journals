@@ -73,18 +73,6 @@
                     "@id": "https://github.com/GLAM-Workbench/trove-periodical-works-data/raw/main/periodical-works.csv"
                 },
                 {
-                    "@id": "harvest-ned-periodicals.ipynb"
-                },
-                {
-                    "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodicals.csv"
-                },
-                {
-                    "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodical-issues.csv"
-                },
-                {
-                    "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodicals.db"
-                },
-                {
                     "@id": "harvest-illustrations-from-periodicals.ipynb"
                 }
             ],
@@ -709,103 +697,6 @@
             "workExample": []
         },
         {
-            "@id": "harvest-ned-periodicals.ipynb",
-            "@type": [
-                "File",
-                "SoftwareSourceCode"
-            ],
-            "author": [
-                {
-                    "@id": "https://orcid.org/0000-0001-7956-4498"
-                }
-            ],
-            "category": "Harvesting metadata",
-            "codeRepository": "https://github.com/GLAM-Workbench/trove-journals/",
-            "conformsTo": {
-                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
-            },
-            "description": "This notebook harvests details of periodicals submitted to Trove through the National edeposit scheme (NED). It creates two datasets, one containing details of the periodical titles, and the other listing all the available issues.\n\nThere are two main harvesting steps. The first is to search for periodicals using the API's /result endpoint using the following parameters:\n\n* `q` set to `\"nla.obj\" nuc:\"ANL:NED\"`\n* `format` facet to `Periodical`\n* and `l-availability` set to `y`\n\nThe work records returned by this search are unpacked, and individual versions saved to make sure we get everything. Once this is complete, any duplicate records are merged.\n\nThe second step harvests details of issues by extracting a list of issues for each title from the collection viewer. It then supplements the issue metadata by extracting information for each issue from the journal viewer.",
-            "encodingFormat": "application/x-ipynb+json",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/harvest-ned-periodicals/"
-            },
-            "name": "Harvest details of periodicals submitted to Trove through the National edeposit scheme (NED)",
-            "position": 4,
-            "programmingLanguage": {
-                "@id": "https://www.python.org/downloads/release/python-31012/"
-            },
-            "url": "https://github.com/GLAM-Workbench/trove-journals/blob/master/harvest-ned-periodicals.ipynb",
-            "workExample": []
-        },
-        {
-            "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodicals.csv",
-            "@type": [
-                "File",
-                "Dataset"
-            ],
-            "contentSize": 4899393,
-            "dateModified": "2024-04-10",
-            "encodingFormat": "text/csv",
-            "isPartOf": {
-                "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data"
-            },
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/trove-ned-periodicals-data/"
-            },
-            "name": "ned-periodicals.csv",
-            "sdDatePublished": "2024-09-11",
-            "size": 7973,
-            "url": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodicals.csv",
-            "workExample": [
-                {
-                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/ned-periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/metadata.json"
-                }
-            ]
-        },
-        {
-            "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodical-issues.csv",
-            "@type": [
-                "File",
-                "Dataset"
-            ],
-            "contentSize": 40111645,
-            "dateModified": "2024-04-10",
-            "encodingFormat": "text/csv",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/trove-ned-periodicals-data/"
-            },
-            "name": "ned-periodical-issues.csv",
-            "sdDatePublished": "2024-09-11",
-            "size": 156152,
-            "url": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodical-issues.csv",
-            "workExample": [
-                {
-                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/ned-periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/metadata.json"
-                }
-            ]
-        },
-        {
-            "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodicals.db",
-            "@type": [
-                "File",
-                "Dataset"
-            ],
-            "contentSize": 50556928,
-            "dateModified": "2024-04-10",
-            "description": "This SQLite database contains data relating to digitised periodical titles and issues from Trove. It was created for use with Datasette-Lite. There is a foreign key link between the issues and the titles, making it easy to find the issues from any title. Some extra columns have been added to include thumbnails and download links.",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/trove-ned-periodicals-data/"
-            },
-            "name": "ned-periodicals.db",
-            "sdDatePublished": "2024-09-11",
-            "url": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodicals.db",
-            "workExample": [
-                {
-                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/ned-periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/metadata.json"
-                }
-            ]
-        },
-        {
             "@id": "harvest-illustrations-from-periodicals.ipynb",
             "@type": [
                 "File",
@@ -1269,68 +1160,6 @@
             "result": [
                 {
                     "@id": "https://github.com/GLAM-Workbench/trove-periodical-works-data/raw/main/periodical-works.csv"
-                }
-            ]
-        },
-        {
-            "@id": "https://glam-workbench.net/trove-journals/harvest-ned-periodicals/",
-            "@type": "CreativeWork",
-            "isPartOf": {
-                "@id": "https://glam-workbench.net"
-            },
-            "name": "Harvest details of periodicals submitted to Trove through the National edeposit scheme (NED)",
-            "url": "https://glam-workbench.net/trove-journals/harvest-ned-periodicals/"
-        },
-        {
-            "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/ned-periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/metadata.json",
-            "@type": "CreativeWork",
-            "name": "Explore in Datasette",
-            "url": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/ned-periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/metadata.json"
-        },
-        {
-            "@id": "https://glam-workbench.net/trove-journals/trove-ned-periodicals-data/",
-            "@type": "CreativeWork",
-            "isPartOf": {
-                "@id": "https://glam-workbench.net"
-            },
-            "name": "Details of periodicals submitted to Trove through the National edeposit scheme (NED)",
-            "url": "https://glam-workbench.net/trove-journals/trove-ned-periodicals-data/"
-        },
-        {
-            "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data",
-            "@type": "Dataset",
-            "description": "This dataset contains details of periodical titles and issues submitted to the Trove through the NLA's National edeposit scheme. It includes CSV-formatted lists of titles and issues, and an SQLite database created for use with Datasette-Lite.",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-journals/trove-ned-periodicals-data/"
-            },
-            "name": "trove-ned-periodicals-data",
-            "url": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data",
-            "workExample": [
-                {
-                    "@id": "https://glam-workbench.net/datasette-lite/?url=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/ned-periodicals.db&install=datasette-json-html&install=datasette-template-sql&metadata=https://github.com/GLAM-Workbench/trove-ned-periodicals-data/blob/main/metadata.json"
-                }
-            ]
-        },
-        {
-            "@id": "#harvest-ned-periodicals_run_0",
-            "@type": "CreateAction",
-            "actionStatus": {
-                "@id": "http://schema.org/CompletedActionStatus"
-            },
-            "endDate": "2024-04-10",
-            "instrument": {
-                "@id": "harvest-ned-periodicals.ipynb"
-            },
-            "name": "Run of notebook: harvest-ned-periodicals.ipynb",
-            "result": [
-                {
-                    "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodicals.csv"
-                },
-                {
-                    "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodical-issues.csv"
-                },
-                {
-                    "@id": "https://github.com/GLAM-Workbench/trove-ned-periodicals-data/raw/main/ned-periodicals.db"
                 }
             ]
         },
